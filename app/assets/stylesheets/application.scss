@@ -16,3 +16,36 @@
 
  @import "bootstrap-sprockets";
   @import "bootstrap";
+
+
+
+#homepage-tag .nav-pills > li > a {
+  border-radius: 4px 4px 0 0 ;
+}
+
+#homepage-tab .tab-content {
+  color : white;
+  background-color: #428bca;
+  padding : 5px 15px;
+  height: 100%;
+}
+
+#tab-pane {
+  height: 100%;
+}
+
+html, body {
+  height: 100%;
+}
+
+#homepage-tab {
+  height: 100%;
+}
+
+.tab-content {
+  height: 100%;
+}
+
+.homepage-row, .col-xs-12, row {
+  height: 100%;
+}
