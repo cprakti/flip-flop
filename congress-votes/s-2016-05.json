@@ -1,0 +1,909 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2016",
+      "month": "May",
+      "num_results": "23",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "88",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/88.json",
+           "bill_number": "PN771",
+           "question": "On the Nomination", 
+           "description": "Laura S. H. Holgate, of Virginia, to be the Representative of the United States of America to the International Atomic Energy Agency, with the rank of Ambassador",
+           "vote_type": "1/2",
+           "date": "2016-05-26",
+           "time": "13:46:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "29",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "67",
+             "no": "29",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "87",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/87.json",
+           "bill_number": "S.2943",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-05-25",
+           "time": "11:30:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "86",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/86.json",
+           "bill_number": "S.J.Res.28",
+           "question": "On the Joint Resolution", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Secretary of Agriculture relating to inspection of fish of the order Siluriformes.",
+           "vote_type": "1/2",
+           "date": "2016-05-25",
+           "time": "11:01:00",
+           "result": "Joint Resolution Passed",
+           "democratic": {
+             "yes": "27",
+             "no": "17",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "27",
+             "no": "26",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "55",
+             "no": "43",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "85",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/85.json",
+           "bill_number": "S.J.Res.28",
+           "question": "On the Motion to Proceed", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Secretary of Agriculture relating to inspection of fish of the order Siluriformes.",
+           "vote_type": "1/2",
+           "date": "2016-05-24",
+           "time": "17:16:00",
+           "result": "Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "29",
+             "no": "14",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "27",
+             "no": "26",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "57",
+             "no": "40",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "84",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/84.json",
+           "bill_number": "H.J.Res.88",
+           "question": "On the Joint Resolution", 
+           "description": "A joint resolution disapproving the rule submitted by the Department of Labor relating to the definition of the term \&quot;Fiduciary\&quot;.",
+           "vote_type": "1/2",
+           "date": "2016-05-24",
+           "time": "16:47:00",
+           "result": "Joint Resolution Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "56",
+             "no": "41",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "83",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/83.json",
+           "bill_number": "S.2613",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to reauthorize certain programs established by the Adam Walsh Child Protection and Safety Act of 2006.",
+           "vote_type": "1/2",
+           "date": "2016-05-23",
+           "time": "17:40:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "39",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "82",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/82.json",
+           "bill_number": "H.R.2577",
+           "question": "On Passage of the Bill", 
+           "description": "A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-05-19",
+           "time": "14:41:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "8",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "8",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "81",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/81.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Motion to Table", 
+           "description": "To prohibit the use of funds to carry out a rule and notice of the Department of Housing and Urban Development.",
+           "vote_type": "1/2",
+           "date": "2016-05-19",
+           "time": "14:21:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "16",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "60",
+             "no": "37",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "80",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/80.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Amendment", 
+           "description": "To prohibit the use of funds to carry out a final rule and notice of the Department of Housing and Urban Development.",
+           "vote_type": "1/2",
+           "date": "2016-05-19",
+           "time": "13:50:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "33",
+             "no": "9",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "87",
+             "no": "9",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "79",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/79.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Motion", 
+           "description": "To extend and expand eligibility for the Veterans Choice Program of the Department of Veterans Affairs and to establish consistent criteria and standards relating to the use of amounts under the Medical Community Care account of the Department of Veterans Affairs.",
+           "vote_type": "3/5",
+           "date": "2016-05-19",
+           "time": "12:38:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "13",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "84",
+             "no": "14",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "78",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/78.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-05-19",
+           "time": "12:13:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "10",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "88",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "77",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/77.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Amendment", 
+           "description": "Zika response and preparedness.",
+           "vote_type": "1/2",
+           "date": "2016-05-19",
+           "time": "11:50:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "23",
+             "no": "30",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "68",
+             "no": "30",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "76",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/76.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Motion", 
+           "description": "Zika response and preparedness.",
+           "vote_type": "3/5",
+           "date": "2016-05-19",
+           "time": "11:17:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "25",
+             "no": "28",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "70",
+             "no": "28",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "75",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/75.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Cloture Motion", 
+           "description": "Zika response and preparedness.",
+           "vote_type": "3/5",
+           "date": "2016-05-17",
+           "time": "15:18:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "23",
+             "no": "29",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "68",
+             "no": "29",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "74",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/74.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Cloture Motion", 
+           "description": "Making emergency supplemental appropriations for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-05-17",
+           "time": "14:55:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "45",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "73",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/73.json",
+           "bill_number": "H.R. 2577",
+           "question": "On the Cloture Motion", 
+           "description": "Making supplemental appropriations for fiscal year 2016 to respond to Zika virus.",
+           "vote_type": "3/5",
+           "date": "2016-05-17",
+           "time": "14:29:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "47",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "50",
+             "no": "47",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "72",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/72.json",
+           "bill_number": "PN327",
+           "question": "On the Nomination", 
+           "description": "Paula Xinis, of Maryland, to be United States District Judge for the District of Maryland",
+           "vote_type": "1/2",
+           "date": "2016-05-16",
+           "time": "17:30:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "34",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            },
+           "total": {
+             "yes": "53",
+             "no": "34",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "71",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/71.json",
+           "bill_number": "H.R.2028",
+           "question": "On Passage of the Bill", 
+           "description": "A bill making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-05-12",
+           "time": "13:46:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "90",
+             "no": "8",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "70",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/70.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To provide for the operation of reservoir projects by the Bureau of Reclamation.",
+           "vote_type": "3/5",
+           "date": "2016-05-11",
+           "time": "17:00:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "5",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "69",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/69.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To use Federal and State expertise to mitigate fish and wildlife impacts at Corps of Engineers projects.",
+           "vote_type": "3/5",
+           "date": "2016-05-11",
+           "time": "16:30:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "39",
+             "no": "5",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "39",
+             "no": "60",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "68",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/68.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-05-11",
+           "time": "12:07:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "97",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "67",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/67.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Cloture Motion", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "3/5",
+           "date": "2016-05-11",
+           "time": "10:36:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "5",
+             "no": "39",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "57",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "66",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/66.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-05-09",
+           "time": "17:31:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "38",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "3",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "50",
+             "no": "42",
+             "present": "0",
+             "not_voting": "8"
+            }
+          }
+         ]
+    }
+}

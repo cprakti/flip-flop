@@ -1,0 +1,1611 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "July",
+      "num_results": "41",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "261",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/261.json",
+           "bill_number": "H.R.3236",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to provide an extension of Federal-aid highway, highway safety, motor carrier safety, transit, and other programs funded out of the Highway Trust Fund, to provide resource flexibility to the Department of Veterans Affairs for health care services, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-07-30",
+           "time": "13:47:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "4",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "260",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/260.json",
+           "bill_number": "H.R.22",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "1/2",
+           "date": "2015-07-30",
+           "time": "12:02:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "25",
+             "no": "19",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "38",
+             "no": "15",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "65",
+             "no": "34",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "259",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/259.json",
+           "bill_number": "H.R.22",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "3/5",
+           "date": "2015-07-29",
+           "time": "10:32:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "22",
+             "no": "22",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "13",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "65",
+             "no": "35",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "258",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/258.json",
+           "bill_number": "H.R. 22",
+           "question": "On the Amendment", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "1/2",
+           "date": "2015-07-29",
+           "time": "10:03:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "22",
+             "no": "22",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "38",
+             "no": "16",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "38",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "257",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/257.json",
+           "bill_number": "H.R. 22",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-07-27",
+           "time": "22:46:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "20",
+             "no": "21",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "11",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "32",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "256",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/256.json",
+           "bill_number": "H.R. 22",
+           "question": "On the Amendment", 
+           "description": "To reauthorize and reform the Export-Import Bank of the United States.",
+           "vote_type": "1/2",
+           "date": "2015-07-27",
+           "time": "22:30:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "22",
+             "no": "28",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "64",
+             "no": "29",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "255",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/255.json",
+           "bill_number": "H.R.22",
+           "question": "On the Motion for Attendance", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "1/2",
+           "date": "2015-07-27",
+           "time": "22:03:00",
+           "result": "Motion for Attendance Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "36",
+             "no": "14",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "79",
+             "no": "14",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "254",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/254.json",
+           "bill_number": "H.R. 22",
+           "question": "On the Cloture Motion", 
+           "description": "To reauthorize and reform the Export-Import Bank of the United States.",
+           "vote_type": "3/5",
+           "date": "2015-07-26",
+           "time": "15:37:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "26",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "67",
+             "no": "26",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "253",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/253.json",
+           "bill_number": "H.R. 22",
+           "question": "On the Cloture Motion", 
+           "description": "To repeal the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 entirely.",
+           "vote_type": "3/5",
+           "date": "2015-07-26",
+           "time": "15:03:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "49",
+             "no": "43",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "252",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/252.json",
+           "bill_number": "H.R.22",
+           "question": "On the Motion to Proceed", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "1/2",
+           "date": "2015-07-24",
+           "time": "09:03:00",
+           "result": "Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "16",
+             "no": "18",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "34",
+             "no": "8",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "51",
+             "no": "26",
+             "present": "0",
+             "not_voting": "23"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "251",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/251.json",
+           "bill_number": "H.R.22",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "3/5",
+           "date": "2015-07-22",
+           "time": "19:31:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "14",
+             "no": "30",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "6",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "36",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "250",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/250.json",
+           "bill_number": "H.R.22",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of determining the employers to which the employer mandate applies under the Patient Protection and Affordable Care Act.",
+           "vote_type": "3/5",
+           "date": "2015-07-21",
+           "time": "16:18:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "11",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "41",
+             "no": "56",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "249",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/249.json",
+           "bill_number": "S.1177",
+           "question": "On Passage of the Bill", 
+           "description": "An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.",
+           "vote_type": "1/2",
+           "date": "2015-07-16",
+           "time": "14:20:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "40",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "39",
+             "no": "14",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "81",
+             "no": "17",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "248",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/248.json",
+           "bill_number": "S.1177",
+           "question": "On the Cloture Motion", 
+           "description": "An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.",
+           "vote_type": "3/5",
+           "date": "2015-07-16",
+           "time": "13:45:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "36",
+             "no": "7",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "11",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "79",
+             "no": "18",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "247",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/247.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To establish a Federal-State partnership to provide access to high-quality public prekindergarten programs from low-income and moderate-income families to ensure that they enter kindergarten prepared for success, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-07-16",
+           "time": "12:45:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "52",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "246",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/246.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend title V of the Elementary and Secondary Education Act of 1965 to establish a full-service community schools grant program.",
+           "vote_type": "1/2",
+           "date": "2015-07-16",
+           "time": "12:25:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "8",
+             "no": "44",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "44",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "245",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/245.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend the allocation of funds under subpart 2 of part A of title I of the Elementary and Secondary Education Act of 1965.",
+           "vote_type": "1/2",
+           "date": "2015-07-16",
+           "time": "12:03:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "15",
+             "no": "28",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "10",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "59",
+             "no": "39",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "244",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/244.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To authorize the establishment of American Dream Accounts.",
+           "vote_type": "3/5",
+           "date": "2015-07-16",
+           "time": "11:42:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "23",
+             "no": "30",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "68",
+             "no": "30",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "243",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/243.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To provide for youth jobs, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-07-16",
+           "time": "11:23:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "43",
+             "no": "55",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "242",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/242.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To provide for State-determined assessment and accountability systems, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-07-16",
+           "time": "10:54:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "13",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "40",
+             "no": "58",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "241",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/241.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend the accountability provisions.",
+           "vote_type": "3/5",
+           "date": "2015-07-15",
+           "time": "16:29:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "51",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "43",
+             "no": "54",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "240",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/240.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To ensure that States measure and report on indicators of student access to critical educational resources and identify disparities in such resources, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-07-15",
+           "time": "16:07:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "40",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "47",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "46",
+             "no": "50",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "239",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/239.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To reinstate grants to improve the mental health of children.",
+           "vote_type": "3/5",
+           "date": "2015-07-15",
+           "time": "15:46:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "13",
+             "no": "39",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "58",
+             "no": "39",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "238",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/238.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To establish a climate change education program.",
+           "vote_type": "3/5",
+           "date": "2015-07-15",
+           "time": "15:19:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "40",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "50",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "44",
+             "no": "53",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "237",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/237.json",
+           "bill_number": "S. 1177",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-07-15",
+           "time": "12:29:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "12",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "86",
+             "no": "12",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "236",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/236.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To end discrimination based on actual or perceived sexual orientation or gender identity in public schools.",
+           "vote_type": "3/5",
+           "date": "2015-07-14",
+           "time": "16:53:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "45",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "45",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "235",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/235.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend the Elementary and Secondary Education Act of 1965 relating to parental notification and opt-out of assessments.",
+           "vote_type": "1/2",
+           "date": "2015-07-14",
+           "time": "16:30:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "32",
+             "no": "19",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "32",
+             "no": "64",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "234",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/234.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To require local educational agencies to inform parents of any State or local educational agency policy, procedure, or parental right regarding student participation in any mandated assessments for that school year.",
+           "vote_type": "1/2",
+           "date": "2015-07-14",
+           "time": "15:58:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "233",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/233.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To require a State&#39;s report card to include information on the graduation rates of homeless children and children in foster care.",
+           "vote_type": "1/2",
+           "date": "2015-07-14",
+           "time": "12:46:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "40",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "40",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "232",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/232.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To expand opportunity by allowing Title I funds to follow low-income children.",
+           "vote_type": "3/5",
+           "date": "2015-07-14",
+           "time": "12:14:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "7",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "51",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "231",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/231.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To establish a committee on student privacy policy.",
+           "vote_type": "1/2",
+           "date": "2015-07-13",
+           "time": "17:32:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "89",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "230",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/230.json",
+           "bill_number": "H.R.1735",
+           "question": "On the Motion", 
+           "description": "An act to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-07-09",
+           "time": "14:15:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "51",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "44",
+             "no": "52",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "229",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/229.json",
+           "bill_number": "H.R.1735",
+           "question": "On the Cloture Motion", 
+           "description": "An act to authorize appropriations for fiscal year 2016 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-07-09",
+           "time": "13:46:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "32",
+             "no": "12",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "81",
+             "no": "15",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "228",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/228.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To ensure that States have policies or procedures that prohibit aiding or abetting of sexual abuse, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-07-09",
+           "time": "12:23:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "227",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/227.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend part A of title IV of the Elementary and Secondary Education Act of 1965 to allow funds provided under such part to be used for a site resource coordinator.",
+           "vote_type": "1/2",
+           "date": "2015-07-09",
+           "time": "12:05:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "226",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/226.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To allow a State to submit a declaration of intent to the Secretary of Education to combine certain funds to improve the academic achievement of students.",
+           "vote_type": "3/5",
+           "date": "2015-07-09",
+           "time": "11:34:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "44",
+             "no": "9",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "44",
+             "no": "54",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "225",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/225.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To allow States to let Federal funds for the education of disadvantaged children follow low-income children to the accredited or otherwise State-approved public school, private school, or supplemental educational services program they attend.",
+           "vote_type": "3/5",
+           "date": "2015-07-08",
+           "time": "17:24:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "8",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "45",
+             "no": "52",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "224",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/224.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To restore sections of the Elementary and Secondary Education Act of 1965.",
+           "vote_type": "1/2",
+           "date": "2015-07-08",
+           "time": "17:05:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "13",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "56",
+             "no": "41",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "223",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/223.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend section 1111(b)(2)(B)(xi) to provide for additional disaggregation for local educational agencies with a total of not less than 1,000 Asian and Native Hawaiian or Pacific Islander students.",
+           "vote_type": "1/2",
+           "date": "2015-07-08",
+           "time": "16:35:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "50",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "47",
+             "no": "50",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "222",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/222.json",
+           "bill_number": "S. 1177",
+           "question": "On the Amendment", 
+           "description": "To amend the Elementary and Secondary Education Act of 1965 regarding school librarians and effective school library programs.",
+           "vote_type": "1/2",
+           "date": "2015-07-08",
+           "time": "12:04:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "221",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/221.json",
+           "bill_number": "PN12",
+           "question": "On the Nomination", 
+           "description": "Kara Farnandez Stoll, of Virginia, to be United States Circuit Judge for the Federal Circuit",
+           "vote_type": "1/2",
+           "date": "2015-07-07",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5"
+            }
+          }
+         ]
+    }
+}

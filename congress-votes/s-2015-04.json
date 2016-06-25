@@ -1,0 +1,1299 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "April",
+      "num_results": "33",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "168",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/168.json",
+           "bill_number": "H.R. 1191",
+           "question": "On the Amendment", 
+           "description": "To require a certification that Iran has not directly supported or carried out an act of terrorism against the United States or a United States person anywhere in the world.",
+           "vote_type": "3/5",
+           "date": "2015-04-29",
+           "time": "17:25:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "8",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "54",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "167",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/167.json",
+           "bill_number": "H.R. 1191",
+           "question": "On the Amendment", 
+           "description": "To declare that any agreement reached by the President relating to the nuclear program of Iran is deemed a treaty that is subject to the advice and consent of the Senate.",
+           "vote_type": "3/5",
+           "date": "2015-04-28",
+           "time": "18:10:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "39",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "39",
+             "no": "57",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "166",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/166.json",
+           "bill_number": "PN43",
+           "question": "On the Nomination", 
+           "description": "Dava J. Newman, of Massachusetts, to be Deputy Administrator of the National Aeronautics and Space Administration",
+           "vote_type": "1/2",
+           "date": "2015-04-27",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "40",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "87",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "165",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/165.json",
+           "bill_number": "PN4",
+           "question": "On the Nomination", 
+           "description": "Loretta E. Lynch, of New York, to be Attorney General",
+           "vote_type": "1/2",
+           "date": "2015-04-23",
+           "time": "13:37:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "164",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/164.json",
+           "bill_number": "PN4",
+           "question": "On the Cloture Motion", 
+           "description": "Loretta E. Lynch, of New York, to be Attorney General",
+           "vote_type": "1/2",
+           "date": "2015-04-23",
+           "time": "11:44:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "20",
+             "no": "34",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "66",
+             "no": "34",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "163",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/163.json",
+           "bill_number": "S.178",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to provide justice for the victims of trafficking.",
+           "vote_type": "1/2",
+           "date": "2015-04-22",
+           "time": "16:06:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "162",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/162.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To amend title 18, United States Code, to provide a penalty for knowingly selling advertising that offers certain commercial sex acts.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "15:32:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "161",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/161.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To require the Secretary of Defense to inform the Attorney General of persons required to register as sex offenders.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "15:12:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "160",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/160.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To direct the Attorney General to increase the amount provided under certain formula grants to States that have in place laws that terminate the parental rights of men who father children through rape.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "14:53:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "159",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/159.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To reauthorize the Runaway and Homeless Youth Act.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "14:32:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "158",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/158.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To reauthorize the Runaway and Homeless Youth Act, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "14:01:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "7",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "53",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "157",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/157.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To strengthen the Justice for Victims of Trafficking Act by incorporating additional bipartisan amendments.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "11:22:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "156",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/156.json",
+           "bill_number": "S. 178",
+           "question": "On the Amendment", 
+           "description": "To improve the bill.",
+           "vote_type": "3/5",
+           "date": "2015-04-22",
+           "time": "10:53:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "43",
+             "no": "55",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "155",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/155.json",
+           "bill_number": "PN16",
+           "question": "On the Nomination", 
+           "description": "George C. Hanks, Jr., of Texas, to be United States District Judge for the Southern District of Texas",
+           "vote_type": "1/2",
+           "date": "2015-04-20",
+           "time": "17:33:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "154",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/154.json",
+           "bill_number": "PN56",
+           "question": "On the Nomination", 
+           "description": "Russell C. Deyo, of New Jersey, to be Under Secretary for Management, Department of Homeland Security",
+           "vote_type": "1/2",
+           "date": "2015-04-16",
+           "time": "14:02:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "153",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/153.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "19:06:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "52",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "152",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/152.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "18:41:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "44",
+             "no": "53",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "151",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/151.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "18:20:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "4",
+             "no": "39",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "40",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "150",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/150.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "17:56:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "39",
+             "no": "13",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "84",
+             "no": "13",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "149",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/149.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "17:39:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "52",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "148",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/148.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "17:14:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "147",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/147.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "16:54:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "11",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "85",
+             "no": "11",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "146",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/146.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "16:22:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "11",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "86",
+             "no": "11",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "145",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/145.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-04-15",
+           "time": "12:01:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "43",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "144",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/144.json",
+           "bill_number": "H.R.2",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and strengthen Medicare access by improving physician payments and making other improvements, to reauthorize the Children&#39;s Health Insurance Program, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-04-14",
+           "time": "21:33:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "92",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "143",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/143.json",
+           "bill_number": "H.R.2",
+           "question": "On the Motion", 
+           "description": "A bill to amend title XVIII of the Social Security Act to repeal the Medicare sustainable growth rate and strengthen Medicare access by improving physician payments and making other improvements, to reauthorize the Children&#39;s Health Insurance Program, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-04-14",
+           "time": "21:12:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "25",
+             "no": "29",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "71",
+             "no": "29",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "142",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/142.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Motion", 
+           "description": "To repeal the therapy cap and provide for medical review of outpatient therapy services.",
+           "vote_type": "3/5",
+           "date": "2015-04-14",
+           "time": "20:51:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "13",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "58",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "141",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/141.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Amendment", 
+           "description": "To provide steady updates of payment rates under the Medicare physician fee schedule.",
+           "vote_type": "1/2",
+           "date": "2015-04-14",
+           "time": "20:34:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "11",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "11",
+             "no": "89",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "140",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/140.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Motion", 
+           "description": "To improve women&#39;s access to quality health care.",
+           "vote_type": "3/5",
+           "date": "2015-04-14",
+           "time": "20:18:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "43",
+             "no": "57",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "139",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/139.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Amendment", 
+           "description": "To strike the provision excluding the budgetary effects of the Act from PAYGO requirements.",
+           "vote_type": "1/2",
+           "date": "2015-04-14",
+           "time": "20:00:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "42",
+             "no": "12",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "42",
+             "no": "58",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "138",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/138.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Motion", 
+           "description": "To protect and retain our Children&#39;s Health Insurance Program for 4 years (PRO-CHIP).",
+           "vote_type": "3/5",
+           "date": "2015-04-14",
+           "time": "19:42:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "50",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "50",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "137",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/137.json",
+           "bill_number": "H.R. 2",
+           "question": "On the Amendment", 
+           "description": "To repeal the individual mandate.",
+           "vote_type": "3/5",
+           "date": "2015-04-14",
+           "time": "19:13:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "136",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/136.json",
+           "bill_number": "PN21",
+           "question": "On the Nomination", 
+           "description": "Alfred H. Bennett, of Texas, to be United States District Judge for the Southern District of Texas",
+           "vote_type": "1/2",
+           "date": "2015-04-13",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5"
+            }
+          }
+         ]
+    }
+}

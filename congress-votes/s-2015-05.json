@@ -1,0 +1,1104 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "May",
+      "num_results": "28",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "196",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/196.json",
+           "bill_number": "H.R.2048",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-05-31",
+           "time": "18:26:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "34",
+             "no": "17",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "77",
+             "no": "17",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "195",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/195.json",
+           "bill_number": "S.1357",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to extend authority relating to roving surveillance, access to business records, and individual terrorists as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978 until July 31, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-05-23",
+           "time": "00:44:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "10",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "54",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "194",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/194.json",
+           "bill_number": "H.R.2048",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-05-23",
+           "time": "00:05:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "193",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/193.json",
+           "bill_number": "H.R.1314",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "20:51:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "14",
+             "no": "30",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "192",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/192.json",
+           "bill_number": "H.R.1314",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.",
+           "vote_type": "3/5",
+           "date": "2015-05-22",
+           "time": "19:27:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "13",
+             "no": "31",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "61",
+             "no": "38",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "191",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/191.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "19:01:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "14",
+             "no": "30",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "37",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "190",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/190.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To strike the extension of the trade adjustment assistance program.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "18:42:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "36",
+             "no": "16",
+             "present": "1",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "36",
+             "no": "62",
+             "present": "1",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "189",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/189.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To require the approval of Congress before additional countries may join the Trans-Pacific Partnership Agreement.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "18:21:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "36",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "9",
+             "no": "44",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "188",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/188.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To prohibit the application of the trade authorities procedures to an implementing bill submitted with respect to a trade agreement that includes investor-state dispute settlement.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "17:56:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "36",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "39",
+             "no": "60",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "187",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/187.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To make it a principal negotiating objective of the United States to address currency manipulation in trade agreements.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "17:35:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "34",
+             "no": "10",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "48",
+             "no": "51",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "186",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/186.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "1/2",
+           "date": "2015-05-22",
+           "time": "16:57:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "23",
+             "no": "21",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "6",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "70",
+             "no": "29",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "185",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/185.json",
+           "bill_number": "PN19",
+           "question": "On the Nomination", 
+           "description": "Jose Rolando Olvera, Jr., of Texas, to be United States District Judge for the Southern District of Texas",
+           "vote_type": "1/2",
+           "date": "2015-05-21",
+           "time": "17:27:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "100",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "184",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/184.json",
+           "bill_number": "PN20",
+           "question": "On the Nomination", 
+           "description": "Jill N. Parrish, of Utah, to be United States District Judge for the District of Utah",
+           "vote_type": "1/2",
+           "date": "2015-05-21",
+           "time": "17:03:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "100",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "183",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/183.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-05-21",
+           "time": "10:18:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "13",
+             "no": "31",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "5",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "38",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "182",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/182.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To establish consideration of the conditions relating to religious freedom of parties to trade negotiations as an overall negotiating objective of the United States.",
+           "vote_type": "3/5",
+           "date": "2015-05-18",
+           "time": "18:05:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "92",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "181",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/181.json",
+           "bill_number": "H.R. 1314",
+           "question": "On the Amendment", 
+           "description": "To restore funding for the trade adjustment assistance program to the level established by the Trade Adjustment Assistance Extension Act of 2011.",
+           "vote_type": "3/5",
+           "date": "2015-05-18",
+           "time": "17:30:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "40",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "41",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "180",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/180.json",
+           "bill_number": "H.R.1314",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.",
+           "vote_type": "3/5",
+           "date": "2015-05-14",
+           "time": "13:55:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "13",
+             "no": "31",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "65",
+             "no": "33",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "179",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/179.json",
+           "bill_number": "H.R.644",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory.",
+           "vote_type": "3/5",
+           "date": "2015-05-14",
+           "time": "12:28:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "32",
+             "no": "20",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "78",
+             "no": "20",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "178",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/178.json",
+           "bill_number": "H.R.1295",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to improve the process for making determinations with respect to whether organizations are exempt from taxation under section 501(c)(4) of such Code.",
+           "vote_type": "3/5",
+           "date": "2015-05-14",
+           "time": "12:00:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "177",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/177.json",
+           "bill_number": "PN31",
+           "question": "On the Nomination", 
+           "description": "Sally Quillian Yates, of Georgia, to be Deputy Attorney General",
+           "vote_type": "1/2",
+           "date": "2015-05-13",
+           "time": "13:59:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "12",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "84",
+             "no": "12",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "176",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/176.json",
+           "bill_number": "H.R.1314",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to provide for a right to an administrative appeal relating to adverse determinations of tax-exempt status of certain organizations.",
+           "vote_type": "3/5",
+           "date": "2015-05-12",
+           "time": "14:32:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "45",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "175",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/175.json",
+           "bill_number": "S.Con.Res.16",
+           "question": "On the Concurrent Resolution", 
+           "description": "A concurrent resolution stating the policy of the United States regarding the release of United States citizens in Iran.",
+           "vote_type": "1/2",
+           "date": "2015-05-11",
+           "time": "17:33:00",
+           "result": "Concurrent Resolution Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "90",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "174",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/174.json",
+           "bill_number": "H.R.1191",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to provide for congressional review and oversight of agreements relating to Iran&#39;s nuclear program, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-05-07",
+           "time": "14:24:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "173",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/173.json",
+           "bill_number": "H.R. 1191",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-05-07",
+           "time": "14:01:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "6",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "6",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "172",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/172.json",
+           "bill_number": "S.J.Res.8",
+           "question": "On the Motion to Table", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.",
+           "vote_type": "1/2",
+           "date": "2015-05-05",
+           "time": "17:59:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "171",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/171.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Conference Report", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-05-05",
+           "time": "17:30:00",
+           "result": "Conference Report Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "48",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "170",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/170.json",
+           "bill_number": "S.Con.Res.11",
+           "question": "On the Motion to Proceed", 
+           "description": "An original concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2025.",
+           "vote_type": "1/2",
+           "date": "2015-05-05",
+           "time": "10:18:00",
+           "result": "Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "44",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "169",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/169.json",
+           "bill_number": "PN209",
+           "question": "On the Nomination", 
+           "description": "Willie E. May, of Maryland, to be Under Secretary of Commerce for Standards and Technology",
+           "vote_type": "1/2",
+           "date": "2015-05-04",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          }
+         ]
+    }
+}

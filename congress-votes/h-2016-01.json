@@ -1,0 +1,1728 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2016",
+      "month": "Jan.",
+      "num_results": "44",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "45",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/45.json",
+           "bill_number": "S J RES 22",
+           "question": "On Passage", 
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Corps of Engineers and the Environmental Protection Agency relating to the definition of “waters of the United States” under the Federal Water Pollution Control Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-13",
+           "time": "11:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "12",
+             "no": "165",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "253",
+             "no": "166",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "43",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/43.json",
+           "bill_number": "H R 757",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "North Korea Sanctions Enforcement Act of 2016",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-01-12",
+           "time": "17:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "182",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "2",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "418",
+             "no": "2",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "42",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/42.json",
+           "bill_number": "H R 1644",
+           "question": "On Passage", 
+           "description": "Supporting Transparent Regulatory and Environmental Actions in Mining (STREAM) Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "16:59:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "10",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "188",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "41",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/41.json",
+           "bill_number": "H R 1644",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Supporting Transparent Regulatory and Environmental Actions in Mining (STREAM) Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "16:53:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "184",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "236",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "237",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "40",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/40.json",
+           "bill_number": "H R 1644",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Sewell of Alabama Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "16:36:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "182",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "8",
+             "no": "233",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "235",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "39",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/39.json",
+           "bill_number": "H R 1644",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cartwright of Pennsylvania Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "16:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "22",
+             "no": "216",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "203",
+             "no": "219",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "38",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/38.json",
+           "bill_number": "H R 1644",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Kildee of Michigan Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "16:28:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "174",
+             "no": "3",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "15",
+             "no": "220",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "189",
+             "no": "223",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "37",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/37.json",
+           "bill_number": "H RES 583",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 1644) STREAM Act; providing for consideration of the joint resolution (S.J.Res. 22) congressional disapproval of the rule submitted by the Corps of Engineers and the EPA relating to “waters of the U.S.”; and consideration of (H.R. 3662) Iran Terror Finance Transparency Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-12",
+           "time": "14:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "183",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "36",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/36.json",
+           "bill_number": "H RES 583",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 1644) STREAM Act ; providing for consideration of the joint resolution (S.J.Res. 22) congressional disapproval of the rule submitted by the Corps of Engineers and the EPA relating to “waters of the U.S.”; and consideration of (H.R. 3662) Iran Terror Finance Transparency Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-12",
+           "time": "14:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "173",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "173",
+             "present": "0",
+             "not_voting": "27"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "35",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/35.json",
+           "bill_number": "H R 3231",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Federal Intern Protection Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-01-11",
+           "time": "19:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "179",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "414",
+             "no": "0",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "34",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/34.json",
+           "bill_number": "H R 598",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Taxpayers Right-To-Know Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-01-11",
+           "time": "18:54:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "177",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "413",
+             "no": "0",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "33",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/33.json",
+           "bill_number": "H R 1927",
+           "question": "On Passage", 
+           "description": "To amend title 28, United States Code, to improve fairness in class action litigation",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "172",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "211",
+             "no": "16",
+             "present": "1",
+             "not_voting": "18",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "211",
+             "no": "188",
+             "present": "1",
+             "not_voting": "33"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "32",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/32.json",
+           "bill_number": "H R 1927",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "To amend title 28, United States Code, to improve fairness in class action litigation",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:47:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "0",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "227",
+             "present": "0",
+             "not_voting": "18",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "227",
+             "present": "0",
+             "not_voting": "33"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "31",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/31.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Nadler of New York Amendment No. 10",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:32:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "1",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "221",
+             "present": "0",
+             "not_voting": "18",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "222",
+             "present": "0",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "30",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/30.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Jackson Lee of Texas Amendment No. 9",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:28:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "1",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "227",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "174",
+             "no": "228",
+             "present": "0",
+             "not_voting": "31"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "29",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/29.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Johnson of Georgia Amendment No. 8",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:25:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "2",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "221",
+             "present": "1",
+             "not_voting": "18",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "177",
+             "no": "223",
+             "present": "1",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "28",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/28.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Maxine Waters of California Amendment No. 7",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:22:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "170",
+             "no": "3",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "220",
+             "present": "0",
+             "not_voting": "19",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "177",
+             "no": "223",
+             "present": "0",
+             "not_voting": "33"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "27",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/27.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Moore of Wisconsin Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:18:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "1",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "223",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "177",
+             "no": "224",
+             "present": "0",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "26",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/26.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Moore of Wisconsin Amendment No. 5",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "170",
+             "no": "2",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "227",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "229",
+             "present": "0",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "25",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/25.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Deutch of Florida Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:10:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "163",
+             "no": "4",
+             "present": "0",
+             "not_voting": "21",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "228",
+             "present": "0",
+             "not_voting": "18",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "163",
+             "no": "232",
+             "present": "0",
+             "not_voting": "38"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "24",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/24.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Conyers of Michigan Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:07:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "159",
+             "no": "3",
+             "present": "0",
+             "not_voting": "26",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "218",
+             "present": "0",
+             "not_voting": "24",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "163",
+             "no": "221",
+             "present": "0",
+             "not_voting": "49"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "23",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/23.json",
+           "bill_number": "H R 1927",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cohen of Tennessee Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-08",
+           "time": "12:03:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "150",
+             "no": "2",
+             "present": "0",
+             "not_voting": "36",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "8",
+             "no": "209",
+             "present": "0",
+             "not_voting": "29",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "158",
+             "no": "211",
+             "present": "0",
+             "not_voting": "64"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "22",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/22.json",
+           "bill_number": "H RES 581",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 1927) to amend title 28, United States Code, to improve fairness in class action litigation.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "17:26:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "176",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "176",
+             "present": "0",
+             "not_voting": "23"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "21",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/21.json",
+           "bill_number": "H RES 581",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 1927) to amend title 28, United States Code, to improve fairness in class action litigation.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-07",
+           "time": "17:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "176",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "176",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "20",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/20.json",
+           "bill_number": "H R 1155",
+           "question": "On Passage", 
+           "description": "Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015 or the “SCRUB Act of 2015”",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "17:09:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "6",
+             "no": "172",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "245",
+             "no": "174",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "19",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/19.json",
+           "bill_number": "H R 1155",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015 or the “SCRUB Act of 2015”",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "17:03:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "239",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "178",
+             "no": "239",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "18",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/18.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pocan of Wisconsin Part B Amendment No. 10",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:44:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "4",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "241",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "245",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "17",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/17.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cicilline of Rhode Island Part B Amendment No. 9",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:40:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "3",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "241",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "244",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "16",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/16.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "DelBene of Washington Part B Amendment No. 8",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:37:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "174",
+             "no": "1",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "238",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "239",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "15",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/15.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cicilline of Rhode Island Part B Amendment No. 7",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "4",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "237",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "241",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "14",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/14.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cummings of Maryland Part B Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:30:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "5",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "239",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "244",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "13",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/13.json",
+           "bill_number": "H R 1155",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Johnson of Georgia Part B Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:26:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "174",
+             "no": "3",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "236",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "174",
+             "no": "239",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "12",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/12.json",
+           "bill_number": "H R 712",
+           "question": "On Passage", 
+           "description": "Sunshine for Regulatory Decrees and Settlements Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "173",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "173",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "11",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/11.json",
+           "bill_number": "H R 712",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Sunshine for Regulatory Decrees and Settlements Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "16:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "3",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "241",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "171",
+             "no": "244",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "10",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/10.json",
+           "bill_number": "H R 712",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Johnson of Georgia Part A Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "15:53:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "2",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "239",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "241",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "9",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/9.json",
+           "bill_number": "H R 712",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Lynch of Massachusetts Part A Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "15:50:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "175",
+             "no": "2",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "233",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "180",
+             "no": "235",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "8",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/8.json",
+           "bill_number": "H R 712",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cummings of Maryland Part A Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "15:46:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "174",
+             "no": "3",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "241",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "174",
+             "no": "244",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "7",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/7.json",
+           "bill_number": "H R 712",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Johnson of Georgia Part A Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-07",
+           "time": "15:41:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "175",
+             "no": "2",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "175",
+             "no": "242",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "6",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/6.json",
+           "bill_number": "H R 3762",
+           "question": "On Motion to Concur in the Senate Amendment", 
+           "description": "An Act to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-06",
+           "time": "17:54:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "178",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "181",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "5",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/5.json",
+           "bill_number": "H RES 580",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 712) Sunshine for Regulatory Decrees and Settlements Act of 2015 and providing for consideration of the bill (H.R. 1155) Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-06",
+           "time": "15:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "176",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "176",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "4",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/4.json",
+           "bill_number": "H RES 580",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 712) Sunshine for Regulatory Decrees and Settlements Act of 2015 and providing for consideration of the bill (H.R. 1155) Searching for and Cutting Regulations that are Unnecessarily Burdensome Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-06",
+           "time": "15:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "176",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "176",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "3",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/3.json",
+           "bill_number": "H RES 579",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the Senate amendment to the bill (H.R. 3762) to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-01-06",
+           "time": "15:40:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "177",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "237",
+             "no": "177",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "2",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/2.json",
+           "bill_number": "H RES 579",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the Senate amendment to the bill (H.R. 3762) to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-01-06",
+           "time": "15:30:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "175",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "175",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "1",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/1.json",
+           "bill_number": "QUORUM",
+           "question": "Call of the House", 
+           "description": "",
+           "vote_type": "QUORUM",
+           "date": "2016-01-05",
+           "time": "18:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "0",
+             "present": "166",
+             "not_voting": "22",
+             "majority_position": ""
+            },
+           "republican": {
+             "yes": "0",
+             "no": "0",
+             "present": "231",
+             "not_voting": "15",
+             "majority_position": ""
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "0",
+             "no": "0",
+             "present": "397",
+             "not_voting": "37"
+            }
+          }
+         ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2015",
+      "month": "Aug.",
+      "num_results": "0",
+      "votes": [
+         ]
+    }
+}

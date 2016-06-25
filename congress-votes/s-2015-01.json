@@ -1,0 +1,1923 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Jan.",
+      "num_results": "49",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "49",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/49.json",
+           "bill_number": "S.1",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to approve the Keystone XL Pipeline.",
+           "vote_type": "1/2",
+           "date": "2015-01-29",
+           "time": "15:47:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "9",
+             "no": "34",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "36",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "48",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/48.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.",
+           "vote_type": "1/2",
+           "date": "2015-01-29",
+           "time": "15:30:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "44",
+             "no": "54",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "47",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/47.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To delay the effective date until the President determines that the pipeline will not have certain negative impacts.",
+           "vote_type": "3/5",
+           "date": "2015-01-29",
+           "time": "15:10:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "34",
+             "no": "9",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "36",
+             "no": "62",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "46",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/46.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To allow permitting agencies to consider new circumstances and new information.",
+           "vote_type": "1/2",
+           "date": "2015-01-29",
+           "time": "14:36:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "39",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "41",
+             "no": "56",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "45",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/45.json",
+           "bill_number": "S.1",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to approve the Keystone XL Pipeline.",
+           "vote_type": "3/5",
+           "date": "2015-01-29",
+           "time": "12:46:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "9",
+             "no": "33",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "62",
+             "no": "35",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "44",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/44.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To establish a renewable electricity standard, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-01-29",
+           "time": "12:25:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "39",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "49",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "53",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "43",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/43.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To permanently reauthorize the Land and Water Conservation Fund.",
+           "vote_type": "3/5",
+           "date": "2015-01-29",
+           "time": "11:59:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "14",
+             "no": "39",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "59",
+             "no": "39",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "42",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/42.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress that reauthorizing the Land and Water Conservation Fund should be a priority.",
+           "vote_type": "3/5",
+           "date": "2015-01-29",
+           "time": "11:29:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "8",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "51",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "41",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/41.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To modify the definition of underground injection.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "18:03:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "33",
+             "no": "10",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "35",
+             "no": "63",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "40",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/40.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress that the Internal Revenue Code of 1986 should be amended to extend the credit with respect to facilities producing energy from certain renewable resources.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "17:44:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "50",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "51",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "39",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/39.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To release certain wilderness study areas from management for preservation as wilderness.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "17:23:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "48",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "38",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/38.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress regarding climate change and infrastructure.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "17:02:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "51",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "51",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "37",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/37.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress regarding the designation of National Monuments.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "16:39:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "47",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "36",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/36.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To require campaign finance disclosures for certain persons benefitting from tar sands development.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "16:19:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "51",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "44",
+             "no": "52",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "35",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/35.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To delist the lesser prairie-chicken as a threatened species under the Endangered Species Act of 1973.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "16:01:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "44",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "34",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/34.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To promote economic growth and job creation by increasing exports.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "15:41:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "45",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "33",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/33.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To increase the quantity of solar photovoltaic electricity by providing rebates for the purchase and installation of an additional 10,000,000 photovoltaic systems by 2025.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "15:22:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "38",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "40",
+             "no": "58",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "32",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/32.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To require that the Administrator of the Pipeline and Hazardous Materials Safety Administration make a certification and submit to Congress the results of a study before the pipeline may be constructed, connected, operated, or maintained.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "15:03:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "37",
+             "no": "6",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "40",
+             "no": "58",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "31",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/31.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To provide communities that rely on drinking water from a source that may be affected by a tar sands spill from the Keystone XL pipeline an analysis of the potential risks to public health and the environment from a leak or rupture of the pipeline.",
+           "vote_type": "3/5",
+           "date": "2015-01-28",
+           "time": "14:33:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "34",
+             "no": "9",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "36",
+             "no": "62",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "30",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/30.json",
+           "bill_number": "S.1",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to approve the Keystone XL Pipeline.",
+           "vote_type": "3/5",
+           "date": "2015-01-26",
+           "time": "17:58:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "36",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "39",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "29",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/29.json",
+           "bill_number": "S. 1",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-01-26",
+           "time": "17:31:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "36",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "39",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "28",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/28.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To express the sense of the Senate that the Low-Income Home Energy Assistance Program should be funded at not less than $4,700,000,000 annually.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "23:33:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "41",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "49",
+             "no": "45",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "27",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/27.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To strike a provision relating to judicial review.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "23:10:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "2",
+             "no": "39",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "41",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "26",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/26.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To require campaign finance disclosures for certain persons benefitting from tar sands development.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "22:51:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "41",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "43",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "25",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/25.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To impose a fee of 8 cents per barrel on oil transported through the pipeline.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "22:30:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "5",
+             "no": "36",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "38",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "24",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/24.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion", 
+           "description": "To ensure that products derived from tar sands are treated as crude oil for purposes of the Federal excise tax on petroleum.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "22:06:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "2",
+             "no": "40",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "42",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "23",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/23.json",
+           "bill_number": "S.1",
+           "question": "On the Motion for Attendance", 
+           "description": "A bill to approve the Keystone XL Pipeline.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "21:28:00",
+           "result": "Motion for Attendance Agreed to",
+           "democratic": {
+             "yes": "40",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "5",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "89",
+             "no": "5",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "22",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/22.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To ensure private property cannot be seized through condemnation or eminent domain for the private gain of a foreign-owned business entity.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "19:12:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "39",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "50",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "43",
+             "no": "54",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "21",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/21.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To ensure private property is protected as guaranteed by the United States Constitution.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "18:53:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "12",
+             "no": "31",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "64",
+             "no": "33",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "20",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/20.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of the Senate regarding the conditions for the President entering into bilateral or other international agreements regarding greenhouse gas emissions without proper study of any adverse economic effects, including job losses and harm to the industrial sector, and without the approval of the Senate.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "18:35:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "46",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "19",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/19.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To amend the Internal Revenue Code of 1986 to clarify that products derived from tar sands are crude oil for purposes of the Federal excise tax on petroleum.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "18:15:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "47",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "47",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "18",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/18.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of the Senate that all forms of unrefined and unprocessed petroleum should be subject to the nominal per-barrel excise tax associated with the Oil Spill Liability Trust Fund.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "17:50:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "30",
+             "no": "23",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "75",
+             "no": "23",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "17",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/17.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To require a procedure for issuing permits to drill.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "17:33:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "47",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "16",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/16.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To express the sense of Congress regarding climate change.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "17:15:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "15",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/15.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To express the sense of Congress regarding climate change.",
+           "vote_type": "1/2",
+           "date": "2015-01-22",
+           "time": "16:56:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "46",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "14",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/14.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To provide limits on the designation of new federally protected land.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "16:30:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "4",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "13",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/13.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress regarding federally protected land.",
+           "vote_type": "3/5",
+           "date": "2015-01-22",
+           "time": "15:57:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "55",
+             "no": "44",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "12",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/12.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress regarding climate change.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "17:03:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "49",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "49",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "11",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/11.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of Congress regarding climate change.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "16:42:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "15",
+             "no": "39",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "59",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "10",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/10.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To express the sense of the Senate that climate change is real and not a hoax.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "16:23:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "9",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/9.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To continue cleaning up fields and streams while protecting neighborhoods, generating affordable energy, and creating jobs.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "16:07:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "8",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/8.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To ensure that the storage and transportation of petroleum coke is regulated in a manner that ensures the protection of public and ecological health.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "15:47:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "38",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "53",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "41",
+             "no": "58",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "7",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/7.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To conform citizen suits under the Endangered Species Act of 1973.",
+           "vote_type": "3/5",
+           "date": "2015-01-21",
+           "time": "15:17:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "6",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/6.json",
+           "bill_number": "S. 1",
+           "question": "On the Amendment", 
+           "description": "To promote energy efficiency.",
+           "vote_type": "1/2",
+           "date": "2015-01-20",
+           "time": "15:33:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "5",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "94",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "5",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/5.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To require the use of iron, steel, and manufactured goods produced in the United States in the construction of the Keystone XL Pipeline and facilities.",
+           "vote_type": "1/2",
+           "date": "2015-01-20",
+           "time": "15:15:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "46",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "4",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/4.json",
+           "bill_number": "S. 1",
+           "question": "On the Motion to Table", 
+           "description": "To ensure that oil transported through the Keystone XL pipeline into the United States is used to reduce United States dependence on Middle Eastern oil.",
+           "vote_type": "1/2",
+           "date": "2015-01-20",
+           "time": "14:50:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "3",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/3.json",
+           "bill_number": "S.1",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to approve the Keystone XL Pipeline.",
+           "vote_type": "3/5",
+           "date": "2015-01-12",
+           "time": "17:31:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "10",
+             "no": "31",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "63",
+             "no": "32",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "2",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/2.json",
+           "bill_number": "H.R.26",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-01-08",
+           "time": "14:13:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "40",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "4",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "1",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/1.json",
+           "bill_number": "H.R. 26",
+           "question": "On the Amendment", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-01-08",
+           "time": "13:46:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "30",
+             "no": "12",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "31",
+             "no": "66",
+             "present": "0",
+             "not_voting": "3"
+            }
+          }
+         ]
+    }
+}

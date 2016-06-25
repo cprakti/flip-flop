@@ -1,0 +1,2352 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2015",
+      "month": "Dec.",
+      "num_results": "60",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "705",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/705.json",
+           "bill_number": "H R 2029",
+           "question": "On Concurring in Senate Amdt with Amdt Specified in Section 3(a) of H.Res. 566", 
+           "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-18",
+           "time": "09:49:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "166",
+             "no": "18",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "150",
+             "no": "95",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "316",
+             "no": "113",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "704",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/704.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-17",
+           "time": "13:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "95",
+             "no": "71",
+             "present": "2",
+             "not_voting": "20",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "139",
+             "no": "84",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "155",
+             "present": "2",
+             "not_voting": "42"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "703",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/703.json",
+           "bill_number": "H R 2029",
+           "question": "On Concurring in Senate Amdt with Amdt Specified in Section 3(b) of H.Res. 566", 
+           "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-17",
+           "time": "13:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "77",
+             "no": "106",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "318",
+             "no": "109",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "702",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/702.json",
+           "bill_number": "H RES 566",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the Senate amendment to H.R. 2029, making appropriations for Mil-Con, Dept of VA, and related agencies for the fiscal year ending September 30, 2016, and for other purposes; providing for proceedings during the period from December 19, 2015, through January 4, 2016; and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-17",
+           "time": "11:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "185",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "701",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/701.json",
+           "bill_number": "H RES 566",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the Senate amendment to H.R. 2029, making appropriations for Mil-Con, Dept of VA, and related agencies for the fiscal year ending September 30, 2016, and for other purposes; providing for proceedings during the period from December 19, 2015, through January 4, 2016; and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-17",
+           "time": "10:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "177",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "177",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "700",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/700.json",
+           "bill_number": "H R 4239",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Tracking Foreign Fighters in Terrorist Safe Havens Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "14:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "423",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "699",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/699.json",
+           "bill_number": "H R 3750",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "First Responders Passport Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "14:39:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "2",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "421",
+             "no": "2",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "698",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/698.json",
+           "bill_number": "H R 2297",
+           "question": "On Motion to Suspend the Rules and Concur in the Senate Amendments", 
+           "description": "Hezbollah International Financing Prevention Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "14:30:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "184",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "425",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "697",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/697.json",
+           "bill_number": "S 1090",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Emergency Information Improvement Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "10:53:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "420",
+             "no": "1",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "696",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/696.json",
+           "bill_number": "H R 4246",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "National Guard and Reservist Debt Relief Extension Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "10:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "419",
+             "no": "1",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "695",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/695.json",
+           "bill_number": "H R 2820",
+           "question": "On Motion to Suspend the Rules and concur in the Senate Amendment", 
+           "description": "An Act to reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-16",
+           "time": "10:30:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "421",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "694",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/694.json",
+           "bill_number": "H RES 536",
+           "question": "On Motion to Suspend the Rules and Agree, as Amended", 
+           "description": "Supporting freedom of the press in Latin America and the Caribbean and condemning violations of press freedom and violence against journalists, bloggers, and individuals exercising their right to freedom of speech",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-15",
+           "time": "19:02:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "175",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "2",
+             "present": "0",
+             "not_voting": "20",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "399",
+             "no": "2",
+             "present": "0",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "693",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/693.json",
+           "bill_number": "H R 644",
+           "question": "On Agreeing to the Conference Report", 
+           "description": "Trade Facilitation and Trade Enforcement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-11",
+           "time": "13:04:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "24",
+             "no": "155",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "3",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "256",
+             "no": "158",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "692",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/692.json",
+           "bill_number": "H R 644",
+           "question": "On Motion to Recommit Conference Report with Instructions", 
+           "description": "Trade Facilitation and Trade Enforcement Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-11",
+           "time": "12:57:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "7",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "232",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "239",
+             "present": "0",
+             "not_voting": "22"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "691",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/691.json",
+           "bill_number": "H RES 560",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the conference report to accompany H.R. 644, the Trade Facilitation and Trade Enforcement Act of 2015 and providing for consideration of the Senate amendments to H.R. 2250, Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2016",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-11",
+           "time": "10:59:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "174",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "174",
+             "present": "0",
+             "not_voting": "23"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "690",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/690.json",
+           "bill_number": "H RES 560",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the conference report to accompany H.R. 644, the Trade Facilitation and Trade Enforcement Act of 2015 and providing for consideration of the Senate amendments to H.R. 2250, Making appropriations for the Legislative Branch for the fiscal year ending September 30, 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-11",
+           "time": "10:51:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "177",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "177",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "689",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/689.json",
+           "bill_number": "H R 2795",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "First Responder Identification of Emergency Needs in Disaster Situations or “FRIENDS” Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-10",
+           "time": "17:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "171",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "12",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "396",
+             "no": "12",
+             "present": "0",
+             "not_voting": "25"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "688",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/688.json",
+           "bill_number": "MOTION",
+           "question": "Table Appeal of the Ruling of the Chair", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-10",
+           "time": "17:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "173",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "173",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "687",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/687.json",
+           "bill_number": "H R 3578",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "DHS Science and Technology Reform and Improvement Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-10",
+           "time": "16:52:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "175",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "416",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "686",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/686.json",
+           "bill_number": "H R 2130",
+           "question": "On Passage", 
+           "description": "Red River Private Property Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-09",
+           "time": "17:31:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "13",
+             "no": "173",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "4",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "253",
+             "no": "177",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "685",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/685.json",
+           "bill_number": "H R 2130",
+           "question": "Table Appeal of the Ruling of the Chair", 
+           "description": "Red River Private Property Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-09",
+           "time": "17:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "182",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "244",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "182",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "684",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/684.json",
+           "bill_number": "H R 2130",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cole of Oklahoma Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-09",
+           "time": "16:40:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "180",
+             "no": "5",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "66",
+             "no": "178",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "183",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "683",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/683.json",
+           "bill_number": "H RES 556",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 2130, Red River Private Property Protection Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-09",
+           "time": "15:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "183",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "682",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/682.json",
+           "bill_number": "H RES 556",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 2130, Red River Private Property Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-09",
+           "time": "14:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "178",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "178",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "681",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/681.json",
+           "bill_number": "H RES 556",
+           "question": "On Consideration of the Resolution", 
+           "description": "Providing for consideration of H.R. 2130, Red River Private Property Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-09",
+           "time": "13:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "174",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "174",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "680",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/680.json",
+           "bill_number": "H R 3842",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Federal Law Enforcement Training Centers Reform and Improvement Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "17:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "420",
+             "no": "2",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "679",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/679.json",
+           "bill_number": "H R 158",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Visa Waiver Program Improvement and Terrorist Travel Prevention Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "17:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "165",
+             "no": "19",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "407",
+             "no": "19",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "678",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/678.json",
+           "bill_number": "ADJOURN",
+           "question": "On Motion to Adjourn", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "15:35:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "4",
+             "no": "169",
+             "present": "3",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "229",
+             "present": "1",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "7",
+             "no": "398",
+             "present": "4",
+             "not_voting": "24"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "677",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/677.json",
+           "bill_number": "ADJOURN",
+           "question": "On Motion to Adjourn", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "14:52:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "3",
+             "no": "163",
+             "present": "2",
+             "not_voting": "20",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "231",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "4",
+             "no": "394",
+             "present": "2",
+             "not_voting": "33"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "676",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/676.json",
+           "bill_number": "ADJOURN",
+           "question": "On Motion to Adjourn", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "14:21:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "3",
+             "no": "170",
+             "present": "1",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "229",
+             "present": "1",
+             "not_voting": "16",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "3",
+             "no": "399",
+             "present": "2",
+             "not_voting": "29"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "675",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/675.json",
+           "bill_number": "ADJOURN",
+           "question": "On Motion to Adjourn", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "13:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "176",
+             "present": "1",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "229",
+             "present": "1",
+             "not_voting": "16",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "0",
+             "no": "405",
+             "present": "2",
+             "not_voting": "26"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "674",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/674.json",
+           "bill_number": "ADJOURN",
+           "question": "On Motion to Adjourn", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-08",
+           "time": "13:10:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "169",
+             "present": "0",
+             "not_voting": "19",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "230",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "0",
+             "no": "399",
+             "present": "0",
+             "not_voting": "34"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "673",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/673.json",
+           "bill_number": "H R 22",
+           "question": "On Agreeing to the Conference Report", 
+           "description": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-03",
+           "time": "13:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "178",
+             "no": "65",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "359",
+             "no": "65",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "672",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/672.json",
+           "bill_number": "H R 8",
+           "question": "On Passage", 
+           "description": "North American Energy Security and Infrastructure Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "11:31:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "9",
+             "no": "171",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "3",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "249",
+             "no": "174",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "671",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/671.json",
+           "bill_number": "H R 8",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "North American Energy Security and Infrastructure Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "11:24:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "243",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "180",
+             "no": "243",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "670",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/670.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pallone of New Jersey Amendment No. 37",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "11:06:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "177",
+             "no": "4",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "239",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "243",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "669",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/669.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Rouzer of North Carolina Amendment No. 30",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "11:03:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "4",
+             "no": "177",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "243",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "247",
+             "no": "177",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "668",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/668.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cramer of North Dakota Amendment No. 26",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "10:58:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "14",
+             "no": "166",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "252",
+             "no": "170",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "667",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/667.json",
+           "bill_number": "H RES 546",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the conference report to accompany H.R. 22, to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-03",
+           "time": "10:51:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "141",
+             "no": "40",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "243",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "384",
+             "no": "40",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "666",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/666.json",
+           "bill_number": "H RES 546",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the conference report to accompany H.R. 22, to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-03",
+           "time": "10:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "179",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "179",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "665",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/665.json",
+           "bill_number": "S 1177",
+           "question": "On Agreeing to the Conference Report", 
+           "description": "To reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-02",
+           "time": "19:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "178",
+             "no": "64",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "359",
+             "no": "64",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "664",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/664.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Barton of Texas Amendment No. 25",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "19:10:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "20",
+             "no": "161",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "7",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "255",
+             "no": "168",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "663",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/663.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Polis of Colorado Amendment No. 24",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "19:05:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "25",
+             "no": "216",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "206",
+             "no": "216",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "662",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/662.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Castor of Florida Amendment No. 23",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "19:01:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "6",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "241",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "175",
+             "no": "247",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "661",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/661.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Tonko of New York Amendment No. 22",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:58:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "18",
+             "no": "224",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "198",
+             "no": "224",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "660",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/660.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Schakowsky of Illinois Amendment No. 19",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:54:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "10",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "229",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "183",
+             "no": "239",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "659",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/659.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Beyer of Virginia Amendment No. 17",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "165",
+             "no": "11",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "235",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "246",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "658",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/658.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Gene Green of Texas Amendment No. 14",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:48:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "27",
+             "no": "154",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "4",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "263",
+             "no": "158",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "657",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/657.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Tonko of New York Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:43:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "170",
+             "no": "11",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "9",
+             "no": "233",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "244",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "656",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/656.json",
+           "bill_number": "H R 8",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Upton of Michigan Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "18:38:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "5",
+             "no": "176",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "177",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "655",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/655.json",
+           "bill_number": "H R 644",
+           "question": "On Motion to Instruct Conferees", 
+           "description": "Trade Facilitation and Trade Enforcement Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-02",
+           "time": "14:30:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "176",
+             "no": "6",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "17",
+             "no": "226",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "193",
+             "no": "232",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "654",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/654.json",
+           "bill_number": "H RES 542",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for further consideration of H.R. 8, the North American Energy Security and Infrastructure Act of 2015; providing for consideration of the conference report to accompany S. 1177, to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-02",
+           "time": "14:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "180",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "181",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "653",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/653.json",
+           "bill_number": "H RES 542",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for further consideration of H.R. 8, the North American Energy Security and Infrastructure Act of 2015; providing for consideration of the conference report to accompany S. 1177, to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-02",
+           "time": "14:10:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "177",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "177",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "652",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/652.json",
+           "bill_number": "H R 644",
+           "question": "On Motion To Go To Conference", 
+           "description": "Trade Facilitation and Trade Enforcement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-01",
+           "time": "17:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "18",
+             "no": "164",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "6",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "252",
+             "no": "170",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "651",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/651.json",
+           "bill_number": "S J RES 23",
+           "question": "On Passage", 
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to “Standards of Performance for Greenhouse Gas Emissions from New, Modified, and Reconstructed Stationary Sources: Electric Utility Generating Units”.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-01",
+           "time": "17:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "10",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "188",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "650",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/650.json",
+           "bill_number": "S J RES 24",
+           "question": "On Passage", 
+           "description": "Providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to “Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units”.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-01",
+           "time": "17:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "2",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "180",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "649",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/649.json",
+           "bill_number": "H R 4127",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Intelligence Authorization Act for Fiscal Year 2016",
+           "vote_type": "2/3 RECORDED VOTE",
+           "date": "2015-12-01",
+           "time": "14:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "144",
+             "no": "36",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "220",
+             "no": "22",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "364",
+             "no": "58",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "648",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/648.json",
+           "bill_number": "S 1170",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Breast Cancer Research Stamp Reauthorization Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-12-01",
+           "time": "14:10:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "422",
+             "no": "1",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "647",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/647.json",
+           "bill_number": "H RES 539",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 8), the “North American Energy Security and Infrastructure Act of 2015”; the joint resolutions (S.J. Res.23) and (S.J. Res. 24) providing for congressional disapproval of certain EPA rules regarding Greenhouse Gas Emissions and Carbon Pollution Emission Guidelines.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-12-01",
+           "time": "13:59:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "243",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "181",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "646",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/646.json",
+           "bill_number": "H RES 539",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 8), the “North American Energy Security and Infrastructure Act of 2015”; the joint resolutions (S.J. Res.23) and (S.J. Res. 24) providing for congressional disapproval of certain EPA rules regarding Greenhouse Gas Emissions and Carbon Pollution Emission Guidelines.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-12-01",
+           "time": "13:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "179",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "179",
+             "present": "0",
+             "not_voting": "12"
+            }
+          }
+         ]
+    }
+}

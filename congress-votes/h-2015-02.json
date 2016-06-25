@@ -1,0 +1,2196 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2015",
+      "month": "Feb.",
+      "num_results": "56",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "106",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/106.json",
+           "bill_number": "H R 33",
+           "question": "On Motion to Suspend the Rules and Concur in the Senate Amendment", 
+           "description": "Protecting Volunteer Firefighters and Emergency Responders Act",
+           "vote_type": "2/3 RECORDED VOTE",
+           "date": "2015-02-27",
+           "time": "21:59:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "174",
+             "no": "5",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "183",
+             "no": "55",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "357",
+             "no": "60",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "105",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/105.json",
+           "bill_number": "H R 240",
+           "question": "On Motion to Instruct Conferees", 
+           "description": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-27",
+           "time": "17:23:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "21",
+             "no": "218",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "201",
+             "no": "218",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "104",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/104.json",
+           "bill_number": "H J RES 35",
+           "question": "On Passage", 
+           "description": "Making further continuing appropriations for fiscal year 2015, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-27",
+           "time": "17:13:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "12",
+             "no": "172",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "191",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "203",
+             "no": "224",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "103",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/103.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-27",
+           "time": "14:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "90",
+             "no": "86",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "136",
+             "no": "100",
+             "present": "1",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "226",
+             "no": "186",
+             "present": "1",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "102",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/102.json",
+           "bill_number": "H R 240",
+           "question": "On Motion to Request a Conference", 
+           "description": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-27",
+           "time": "14:43:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "179",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "12",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "228",
+             "no": "191",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "101",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/101.json",
+           "bill_number": "H RES 129",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the joint resolution (H.J.Res. 35) making further continuing appropriations for fiscal year 2015, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-27",
+           "time": "10:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "183",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "100",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/100.json",
+           "bill_number": "H RES 129",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the joint resolution (H.J.Res. 35) making further continuing appropriations for fiscal year 2015, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-27",
+           "time": "10:49:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "183",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "99",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/99.json",
+           "bill_number": "H R 5",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Moore of Wisconsin Part B Amendment No. 13",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "19:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "238",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "185",
+             "no": "239",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "98",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/98.json",
+           "bill_number": "H R 5",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Quigley of Illinois Part B Amendment No. 9",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "19:28:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "35",
+             "no": "201",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "218",
+             "no": "201",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "97",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/97.json",
+           "bill_number": "H R 5",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Castro of Texas Part B Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "19:24:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "239",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "243",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "96",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/96.json",
+           "bill_number": "H R 5",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Grothman of Wisconsin Part B Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "19:16:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "18",
+             "no": "166",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "96",
+             "no": "145",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "114",
+             "no": "311",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "95",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/95.json",
+           "bill_number": "H R 5",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Kennedy of Massachusetts Part B Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "19:10:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "217",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "204",
+             "no": "217",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "94",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/94.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "15:17:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "103",
+             "no": "77",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "143",
+             "no": "91",
+             "present": "1",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "168",
+             "present": "1",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "93",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/93.json",
+           "bill_number": "H RES 125",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for further consideration of H.R. 5, the Student Success Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-26",
+           "time": "15:10:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "1",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "184",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "92",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/92.json",
+           "bill_number": "H RES 125",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for further consideration of H.R. 5, the Student Success Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-26",
+           "time": "15:02:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "177",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "177",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "91",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/91.json",
+           "bill_number": "H RES 125",
+           "question": "On Consideration of the Resolution", 
+           "description": "Providing for further consideration of H.R. 5, the Student Success Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-26",
+           "time": "13:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "167",
+             "present": "0",
+             "not_voting": "20",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "223",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "224",
+             "no": "167",
+             "present": "0",
+             "not_voting": "41"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "90",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/90.json",
+           "bill_number": "H R 529",
+           "question": "On Passage", 
+           "description": "To amend the Internal Revenue Code of 1986 to improve 529 plans",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-25",
+           "time": "15:52:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "161",
+             "no": "19",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "401",
+             "no": "20",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "89",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/89.json",
+           "bill_number": "H R 529",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "To amend the Internal Revenue Code of 1986 to improve 529 plans",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-25",
+           "time": "15:41:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "175",
+             "no": "3",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "240",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "243",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "88",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/88.json",
+           "bill_number": "H R 1020",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "STEM Education Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-25",
+           "time": "14:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "8",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "412",
+             "no": "8",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "87",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/87.json",
+           "bill_number": "H RES 121",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 529, to amend the Internal Revenue Code of 1986 to improve 529 plans; and providing for consideration of H.R. 5, the Student Success Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-25",
+           "time": "14:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "178",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "178",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "86",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/86.json",
+           "bill_number": "H RES 121",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 529, to amend the Internal Revenue Code of 1986 to improve 529 plans; and providing for consideration of H.R. 5, the Student Success Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-25",
+           "time": "14:11:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "181",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "85",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/85.json",
+           "bill_number": "H R 734",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Federal Communications Commission Consolidated Reporting Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-24",
+           "time": "19:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "175",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "411",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "84",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/84.json",
+           "bill_number": "H R 212",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "To amend the Safe Drinking Water Act to provide for the assessment and management of the risk of cyanotoxins in drinking water, and for other purposes.",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-24",
+           "time": "18:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "176",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "199",
+             "no": "37",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "375",
+             "no": "37",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "83",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/83.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-13",
+           "time": "11:22:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "97",
+             "no": "71",
+             "present": "1",
+             "not_voting": "19",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "136",
+             "no": "87",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "158",
+             "present": "1",
+             "not_voting": "40"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "82",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/82.json",
+           "bill_number": "H R 636",
+           "question": "On Passage", 
+           "description": "America",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-13",
+           "time": "11:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "33",
+             "no": "141",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "272",
+             "no": "142",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "81",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/81.json",
+           "bill_number": "H R 636",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "America",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-13",
+           "time": "11:06:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "2",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "239",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "241",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "80",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/80.json",
+           "bill_number": "H R 644",
+           "question": "On Passage", 
+           "description": "Fighting Hunger Incentive Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-12",
+           "time": "17:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "39",
+             "no": "136",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "279",
+             "no": "137",
+             "present": "0",
+             "not_voting": "16"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "79",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/79.json",
+           "bill_number": "H R 644",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Fighting Hunger Incentive Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-12",
+           "time": "16:59:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "168",
+             "no": "4",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "241",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "168",
+             "no": "245",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "78",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/78.json",
+           "bill_number": "H RES 101",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 644, the Fighting Hunger Incentive Act of 2015 and H.R. 636, to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-12",
+           "time": "14:38:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "163",
+             "present": "0",
+             "not_voting": "24",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "163",
+             "present": "0",
+             "not_voting": "36"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "77",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/77.json",
+           "bill_number": "H RES 101",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 644, the Fighting Hunger Incentive Act of 2015 and H.R. 636, to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-12",
+           "time": "14:28:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "164",
+             "present": "0",
+             "not_voting": "24",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "232",
+             "no": "164",
+             "present": "0",
+             "not_voting": "36"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "76",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/76.json",
+           "bill_number": "H R 431",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To award a Congressional Gold Medal to the Foot Soldiers who participated in Bloody Sunday, Turnaround Tuesday, or the final Selma to Montgomery Voting Rights March in March of 1965, which served as a catalyst for the Voting Rights Act of 1965",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-11",
+           "time": "17:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "420",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "75",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/75.json",
+           "bill_number": "S 1",
+           "question": "On Passage", 
+           "description": "Keystone XL Pipeline Approval Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-11",
+           "time": "17:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "29",
+             "no": "151",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "270",
+             "no": "152",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "74",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/74.json",
+           "bill_number": "S 1",
+           "question": "On Motion to Commit with Instructions", 
+           "description": "Keystone XL Pipeline Approval Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-11",
+           "time": "17:04:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "179",
+             "no": "1",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "240",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "241",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "73",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/73.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-11",
+           "time": "15:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "103",
+             "no": "76",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "160",
+             "no": "80",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "263",
+             "no": "156",
+             "present": "1",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "72",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/72.json",
+           "bill_number": "H RES 100",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of S. 1, the Keystone XL Pipeline Approval Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-11",
+           "time": "15:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "6",
+             "no": "177",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "248",
+             "no": "177",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "71",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/71.json",
+           "bill_number": "H RES 100",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of S. 1, the Keystone XL Pipeline Approval Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-11",
+           "time": "15:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "183",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "70",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/70.json",
+           "bill_number": "H R 720",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Gerardo Hernandez Airport Security Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-10",
+           "time": "19:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "178",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "411",
+             "no": "1",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "69",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/69.json",
+           "bill_number": "H R 719",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "TSA Office of Inspection Accountability Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-10",
+           "time": "18:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "179",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "414",
+             "no": "0",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "68",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/68.json",
+           "bill_number": "H R 527",
+           "question": "On Passage", 
+           "description": "Small Business Regulatory Flexibility Improvements Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-05",
+           "time": "11:43:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "19",
+             "no": "163",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "260",
+             "no": "163",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "67",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/67.json",
+           "bill_number": "H R 527",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Small Business Regulatory Flexibility Improvements Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-05",
+           "time": "11:35:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "240",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "240",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "66",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/66.json",
+           "bill_number": "H R 527",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Jackson Lee of Texas Part A Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-05",
+           "time": "11:16:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "8",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "248",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "65",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/65.json",
+           "bill_number": "H R 527",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Schrader of Oregon Part A Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-05",
+           "time": "11:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "234",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "234",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "64",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/64.json",
+           "bill_number": "H R 50",
+           "question": "On Passage", 
+           "description": "Unfunded Mandates Information and Transparency Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-04",
+           "time": "16:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "9",
+             "no": "173",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "250",
+             "no": "173",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "63",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/63.json",
+           "bill_number": "H R 50",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Unfunded Mandates Information and Transparency Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-04",
+           "time": "16:06:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "182",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "239",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "239",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "62",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/62.json",
+           "bill_number": "H R 50",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Connolly of Virginia Part C Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-04",
+           "time": "15:48:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "173",
+             "no": "9",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "249",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "61",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/61.json",
+           "bill_number": "H R 50",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cummings of Maryland Part C Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-04",
+           "time": "15:43:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "4",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "241",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "245",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "60",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/60.json",
+           "bill_number": "H RES 78",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 527) Small Business Regulatory Flexibility Improvements Act of 2015 and providing for consideration of the bill (H.R. 50) Unfunded Mandates Information and Transparency Act of 2015.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-04",
+           "time": "13:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "179",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "179",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "59",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/59.json",
+           "bill_number": "H RES 78",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 527) Small Business Regulatory Flexibility Improvements Act of 2015 and providing for consideration of the bill (H.R. 50) Unfunded Mandates Information and Transparency Act of 2015.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-04",
+           "time": "13:39:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "174",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "174",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "58",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/58.json",
+           "bill_number": "H R 596",
+           "question": "On Passage", 
+           "description": "To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-03",
+           "time": "17:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "186",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "57",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/57.json",
+           "bill_number": "H R 596",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-03",
+           "time": "16:57:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "179",
+             "no": "1",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "241",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "56",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/56.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-03",
+           "time": "14:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "109",
+             "no": "67",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "158",
+             "no": "81",
+             "present": "1",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "267",
+             "no": "148",
+             "present": "1",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "55",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/55.json",
+           "bill_number": "H RES 70",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 596) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-02-03",
+           "time": "14:13:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "178",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "178",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "54",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/54.json",
+           "bill_number": "H RES 70",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 596) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-02-03",
+           "time": "14:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "176",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "176",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "53",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/53.json",
+           "bill_number": "H R 623",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Social Media Working Group Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-02",
+           "time": "19:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "155",
+             "no": "1",
+             "present": "0",
+             "not_voting": "32",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "173",
+             "no": "50",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "328",
+             "no": "51",
+             "present": "0",
+             "not_voting": "54"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "52",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/52.json",
+           "bill_number": "H R 615",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Department of Homeland Security Interoperable Communications Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-02",
+           "time": "19:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "156",
+             "no": "0",
+             "present": "0",
+             "not_voting": "32",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "223",
+             "no": "0",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "379",
+             "no": "0",
+             "present": "0",
+             "not_voting": "54"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "51",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/51.json",
+           "bill_number": "H R 361",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Medical Preparedness Allowable Use Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-02-02",
+           "time": "18:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "156",
+             "no": "0",
+             "present": "0",
+             "not_voting": "32",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "221",
+             "no": "2",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "377",
+             "no": "2",
+             "present": "0",
+             "not_voting": "54"
+            }
+          }
+         ]
+    }
+}

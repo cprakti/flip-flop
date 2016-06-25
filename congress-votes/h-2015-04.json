@@ -1,0 +1,2469 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2015",
+      "month": "April",
+      "num_results": "63",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "207",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/207.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Burgess of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:50:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "1",
+             "no": "181",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "8",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "232",
+             "no": "189",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "206",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/206.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Sanford of South Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:47:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "171",
+             "no": "68",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "171",
+             "no": "250",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "205",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/205.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Hudson of North Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:45:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "143",
+             "no": "96",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "143",
+             "no": "278",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "204",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/204.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Garamendi of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:42:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "136",
+             "no": "46",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "13",
+             "no": "226",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "149",
+             "no": "272",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "203",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/203.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Quigley of Illinois Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:39:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "149",
+             "no": "33",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "15",
+             "no": "224",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "164",
+             "no": "257",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "202",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/202.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Swalwell of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:35:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "176",
+             "no": "6",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "26",
+             "no": "213",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "202",
+             "no": "219",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "201",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/201.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Ellison of Minnesota Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:32:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "133",
+             "no": "49",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "42",
+             "no": "197",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "175",
+             "no": "246",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "200",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/200.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second McClintock of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:30:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "110",
+             "no": "129",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "110",
+             "no": "311",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "199",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/199.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Byrne of Alabama Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:27:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "139",
+             "no": "100",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "139",
+             "no": "282",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "198",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/198.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Swalwell of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:24:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "164",
+             "no": "18",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "9",
+             "no": "230",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "248",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "197",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/197.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Griffith of Virginia Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:20:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "2",
+             "no": "180",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "175",
+             "no": "64",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "177",
+             "no": "244",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "196",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/196.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Ruiz of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:17:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "161",
+             "no": "21",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "11",
+             "no": "228",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "172",
+             "no": "249",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "195",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/195.json",
+           "bill_number": "H R 2028",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First McClintock of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "23:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "126",
+             "no": "113",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "126",
+             "no": "295",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "194",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/194.json",
+           "bill_number": "H J RES 43",
+           "question": "On Passage", 
+           "description": "Disapproving the action of the District of Columbia Council in approving the Reproductive Health Non-Discrimination Amendment Act of 2014",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "23:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "179",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "13",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "228",
+             "no": "192",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "193",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/193.json",
+           "bill_number": "H R 2029",
+           "question": "On Passage", 
+           "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "19:14:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "19",
+             "no": "159",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "255",
+             "no": "163",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "192",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/192.json",
+           "bill_number": "H R 2029",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "19:08:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "236",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "236",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "191",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/191.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "King of Iowa Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:49:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "186",
+             "no": "52",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "235",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "190",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/190.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Jody Hice of Georgia Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:46:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "190",
+             "no": "49",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "232",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "189",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/189.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pocan of Wisconsin Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:42:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "237",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "237",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "188",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/188.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Blumenauer of Oregon Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:39:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "175",
+             "no": "8",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "35",
+             "no": "205",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "210",
+             "no": "213",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "187",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/187.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Nadler of New York Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:34:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "163",
+             "no": "18",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "236",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "167",
+             "no": "254",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "186",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/186.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Mulvaney of South Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:31:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "161",
+             "no": "21",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "29",
+             "no": "210",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "190",
+             "no": "231",
+             "present": "1",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "185",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/185.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Mulvaney of South Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:27:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "163",
+             "no": "20",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "29",
+             "no": "209",
+             "present": "1",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "192",
+             "no": "229",
+             "present": "1",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "184",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/184.json",
+           "bill_number": "H R 2029",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Van Hollen of Maryland Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "18:22:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "164",
+             "no": "19",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "27",
+             "no": "210",
+             "present": "1",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "191",
+             "no": "229",
+             "present": "1",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "183",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/183.json",
+           "bill_number": "S CON RES 11",
+           "question": "On Agreeing to the Conference Report", 
+           "description": "Setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "18:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "226",
+             "no": "14",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "226",
+             "no": "197",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "182",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/182.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "15:12:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "91",
+             "no": "81",
+             "present": "1",
+             "not_voting": "15",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "145",
+             "no": "94",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "175",
+             "present": "2",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "181",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/181.json",
+           "bill_number": "H RES 231",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 1732); providing for consideration of the conference report to accompany the concurrent resolution (S.Con.Res. 11); and providing for consideration of the joint resolution (H.J.Res. 43)",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-30",
+           "time": "15:04:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "181",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "180",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/180.json",
+           "bill_number": "H RES 231",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 1732); providing for consideration of the conference report to accompany the concurrent resolution (S.Con.Res. 11); and providing for consideration of the joint resolution (H.J.Res. 43)",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "14:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "181",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "179",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/179.json",
+           "bill_number": "H RES 231",
+           "question": "On Consideration of the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 1732); providing for consideration of the conference report to accompany the concurrent resolution (S.Con.Res. 11); and providing for consideration of the joint resolution (H.J.Res. 43)",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-30",
+           "time": "13:12:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "174",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "174",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "178",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/178.json",
+           "bill_number": "H R 2029",
+           "question": "On Sustaining the Ruling of the Chair", 
+           "description": "Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-29",
+           "time": "15:45:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "179",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "237",
+             "no": "180",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "177",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/177.json",
+           "bill_number": "H R 651",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Sister Ann Keefe Post Office",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-29",
+           "time": "14:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "423",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "176",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/176.json",
+           "bill_number": "H RES 223",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Consideration of (H.R. 2028) making appropriations for energy and water development and related agencies for FY ending Sept. 30, 2016 and providing for consideration of (H.R. 2029) making appropriations for military construction, the Dept. of Veterans Affairs, and related agencies for FY ending Sept. 30, 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-29",
+           "time": "14:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "185",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "186",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "175",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/175.json",
+           "bill_number": "H R 1324",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Arapaho National Forest Boundary Adjustment Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-28",
+           "time": "19:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "172",
+             "no": "0",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "209",
+             "no": "30",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "381",
+             "no": "30",
+             "present": "0",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "174",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/174.json",
+           "bill_number": "H R 373",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Good Samaritan Search and Recovery Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-28",
+           "time": "18:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "174",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "413",
+             "no": "0",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "173",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/173.json",
+           "bill_number": "H R 1731",
+           "question": "On Passage", 
+           "description": "National Cybersecurity Protection Advancement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-23",
+           "time": "12:03:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "135",
+             "no": "44",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "220",
+             "no": "19",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "355",
+             "no": "63",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "172",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/172.json",
+           "bill_number": "H R 1731",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "National Cybersecurity Protection Advancement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-23",
+           "time": "11:53:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "179",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "238",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "180",
+             "no": "238",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "171",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/171.json",
+           "bill_number": "H R 1731",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Jackson Lee of Texas Part B Amendment No. 10",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-23",
+           "time": "11:30:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "174",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "8",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "405",
+             "no": "8",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "170",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/170.json",
+           "bill_number": "H R 1560",
+           "question": "On Passage", 
+           "description": "Protecting Cyber Networks Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "16:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "105",
+             "no": "79",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "202",
+             "no": "37",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "307",
+             "no": "116",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "169",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/169.json",
+           "bill_number": "H R 1560",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Protecting Cyber Networks Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "16:35:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "238",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "183",
+             "no": "239",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "168",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/168.json",
+           "bill_number": "H R 1560",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Mulvaney of South Carolina Part A Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "16:20:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "176",
+             "no": "8",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "137",
+             "no": "102",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "313",
+             "no": "110",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "167",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/167.json",
+           "bill_number": "H R 1195",
+           "question": "On Passage", 
+           "description": "Bureau of Consumer Financial Protection Advisory Boards Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-22",
+           "time": "14:32:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "5",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "183",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "166",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/166.json",
+           "bill_number": "H R 1195",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Bureau of Consumer Financial Protection Advisory Boards Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "14:24:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "182",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "234",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "234",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "165",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/165.json",
+           "bill_number": "H R 1195",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Kuster of New Hampshire Part D Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "14:05:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "180",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "64",
+             "no": "172",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "173",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "164",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/164.json",
+           "bill_number": "H RES 212",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 1560, the Protecting Cyber Networks Act and H.R. 1731, the National Cybersecurity Protection Advancement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-22",
+           "time": "13:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "4",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "238",
+             "no": "182",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "163",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/163.json",
+           "bill_number": "H RES 212",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 1560, the Protecting Cyber Networks Act and H.R. 1731, the National Cybersecurity Protection Advancement Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-22",
+           "time": "13:49:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "179",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "237",
+             "no": "179",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "162",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/162.json",
+           "bill_number": "H CON RES 25",
+           "question": "On Motion to Suspend the Rules and Agree", 
+           "description": "Authorizing the use of the Capitol Grounds for the National Peace Officers Memorial Service and the National Honor Guard and Pipe Band Exhibition",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-21",
+           "time": "18:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "179",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "410",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "161",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/161.json",
+           "bill_number": "H R 1105",
+           "question": "On Passage", 
+           "description": "Death Tax Repeal Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-16",
+           "time": "12:10:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "7",
+             "no": "176",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "3",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "179",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "160",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/160.json",
+           "bill_number": "H R 1105",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Death Tax Repeal Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-16",
+           "time": "12:01:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "185",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "232",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "232",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "159",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/159.json",
+           "bill_number": "H R 622",
+           "question": "On Passage", 
+           "description": "State and Local Sales Tax Deduction Fairness Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-16",
+           "time": "11:54:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "34",
+             "no": "151",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "272",
+             "no": "152",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "158",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/158.json",
+           "bill_number": "H R 622",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "State and Local Sales Tax Deduction Fairness Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-16",
+           "time": "11:45:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "6",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "237",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "243",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "157",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/157.json",
+           "bill_number": "H R 1563",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Federal Employee Tax Accountability Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-15",
+           "time": "17:23:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "27",
+             "no": "157",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "266",
+             "no": "160",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "156",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/156.json",
+           "bill_number": "H R 1562",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Contracting and Tax Accountability Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-15",
+           "time": "17:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "424",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "155",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/155.json",
+           "bill_number": "H RES 200",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 622, State and Local Sales Tax Deduction Fairness Act of 2015; providing for consideration of H.R. 1105, Death Tax Repeal Act of 2015, and providing for consideration of H.R. 1195, Bureau of Consumer Financial Protection Advisory Boards Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-15",
+           "time": "17:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "182",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "182",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "154",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/154.json",
+           "bill_number": "H RES 200",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 622, State and Local Sales Tax Deduction Fairness Act of 2015; providing for consideration of H.R. 1105, Death Tax Repeal Act of 2015, and providing for consideration of H.R. 1195, Bureau of Consumer Financial Protection Advisory Boards Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-15",
+           "time": "17:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "183",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "153",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/153.json",
+           "bill_number": "S CON RES 11",
+           "question": "On Motion to Instruct Conferees", 
+           "description": "Setting forth the congressional budget for the United States Government for fiscal year 2016 and setting forth the appropriate budgetary levels for fiscal years 2017 through 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-14",
+           "time": "18:12:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "184",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "238",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "187",
+             "no": "239",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "152",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/152.json",
+           "bill_number": "H R 685",
+           "question": "On Passage", 
+           "description": "Mortgage Choice Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-14",
+           "time": "18:03:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "45",
+             "no": "139",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "286",
+             "no": "140",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "151",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/151.json",
+           "bill_number": "H R 650",
+           "question": "On Passage", 
+           "description": "Preserving Access to Manufactured Housing Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-14",
+           "time": "17:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "22",
+             "no": "161",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "263",
+             "no": "162",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "150",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/150.json",
+           "bill_number": "H R 650",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Preserving Access to Manufactured Housing Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-14",
+           "time": "17:48:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "239",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "239",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "149",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/149.json",
+           "bill_number": "H RES 189",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 650, Preserving Access to Manufactured Housing Act of 2015; providing for consideration of H.R. 685, Mortgage Choice Act of 2015; and providing for adoption of S. Con. Res. 11, Congressional budget for the United States Government, FY 2016",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-04-14",
+           "time": "13:53:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "237",
+             "no": "185",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "148",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/148.json",
+           "bill_number": "H RES 189",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 650, Preserving Access to Manufactured Housing Act of 2015; providing for consideration of H.R. 685, Mortgage Choice Act of 2015; and providing for adoption of S. Con. Res. 11, Congressional budget for the United States Government, FY 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-04-14",
+           "time": "13:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "183",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "147",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/147.json",
+           "bill_number": "H R 1480",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "SAFE Act Confidentiality and Privilege Enhancement Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-13",
+           "time": "19:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "171",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "401",
+             "no": "0",
+             "present": "0",
+             "not_voting": "30"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "146",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/146.json",
+           "bill_number": "H R 1265",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Bureau Advisory Commission Transparancy Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-13",
+           "time": "19:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "171",
+             "no": "2",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "401",
+             "no": "2",
+             "present": "0",
+             "not_voting": "28"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "145",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/145.json",
+           "bill_number": "H R 1259",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Helping Expand Lending Practices in Rural Communities Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-04-13",
+           "time": "19:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "171",
+             "no": "1",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "401",
+             "no": "1",
+             "present": "0",
+             "not_voting": "29"
+            }
+          }
+         ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Aug.",
+      "num_results": "1",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "262",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/262.json",
+           "bill_number": "S.1881",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to prohibit Federal funding of Planned Parenthood Federation of America.",
+           "vote_type": "3/5",
+           "date": "2015-08-03",
+           "time": "17:36:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "46",
+             "present": "0",
+             "not_voting": "1"
+            }
+          }
+         ]
+    }
+}
