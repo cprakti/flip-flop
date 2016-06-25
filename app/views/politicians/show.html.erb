@@ -18,13 +18,5 @@
   </ol>
 </h2>
 
-<h2> All of <%= @politician.name %>'s recent tweets (not issue-specific): </h2>
-
-<ul>
-<% @tweets.each do |tweet| %>
-<li><%= tweet.full_text %> |
-<%= tweet.created_at.strftime('%B %e, %Y') %></li>
-<% end %>
-</ul>
 
 

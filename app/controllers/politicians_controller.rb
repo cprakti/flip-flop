@@ -8,12 +8,12 @@ class PoliticiansController < ApplicationController
 
     if @politician
 
-        client = Twitter::REST::Client.new do |config|
-        config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
-        config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
-        config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
-        config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
-        end
+        # client = Twitter::REST::Client.new do |config|
+        # config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
+        # config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
+        # config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
+        # config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
+        # end
 
         ## The 2 methods we use to parse all 3200 tweets. But the load time will be long, so for now while we test, we're only parsing 40.
 
@@ -31,12 +31,12 @@ class PoliticiansController < ApplicationController
         #   end
         # end
 
-        def client.get_all_tweets(politician)
-          options = {:count => 40, :include_rts => true}
-          user_timeline(politician, options)
-        end
+        # def client.get_all_tweets(politician)
+        #   options = {:count => 40, :include_rts => true}
+        #   user_timeline(politician, options)
+        # end
 
-        @tweets = client.get_all_tweets(@politician.twitter_handle)
+        # @tweets = client.get_all_tweets(@politician.twitter_handle)
 
     else
         redirect_to root_path
