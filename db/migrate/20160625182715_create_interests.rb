@@ -1,6 +1,6 @@
-class CreatePoliticianIssues < ActiveRecord::Migration
+class CreateInterests < ActiveRecord::Migration
   def change
-    create_table :politician_issues do |t|
+    create_table :interests do |t|
       t.references :politician
       t.references :issue
 
