@@ -1,0 +1,8 @@
+<h1> <%= @politician.name %> </h1>
+
+<ul>
+<% @tweets.each do |tweet| %>
+<li><%= tweet.full_text %></li>
+<li><%= tweet.user.name %></li>
+<% end %>
+</ul>
