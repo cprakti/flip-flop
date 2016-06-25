@@ -1,0 +1,441 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2016",
+      "month": "March",
+      "num_results": "11",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "38",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/38.json",
+           "bill_number": "S.Res.377",
+           "question": "On the Resolution", 
+           "description": "An original resolution directing the Senate Legal Counsel to bring a civil action to enforce a subpoena of the Permanent Subcommittee on Investigations.",
+           "vote_type": "1/2",
+           "date": "2016-03-17",
+           "time": "13:43:00",
+           "result": "Resolution Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "37",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/37.json",
+           "bill_number": "S.764",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to reauthorize and amend the National Sea Grant College Program Act, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-03-16",
+           "time": "11:50:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "7",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "48",
+             "no": "49",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "36",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/36.json",
+           "bill_number": "PN1152",
+           "question": "On the Nomination", 
+           "description": "John B. King, of New York, to be Secretary of Education",
+           "vote_type": "1/2",
+           "date": "2016-03-14",
+           "time": "17:34:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "41",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "39",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "49",
+             "no": "40",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "35",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/35.json",
+           "bill_number": "S.J.Res.31",
+           "question": "On the Motion to Table", 
+           "description": "A joint resolution relating to the disapproval of the proposed foreign military sale to the Government of Pakistan of F-16 Block 52 aircraft.",
+           "vote_type": "1/2",
+           "date": "2016-03-10",
+           "time": "13:41:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "31",
+             "no": "12",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "39",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "71",
+             "no": "24",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "34",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/34.json",
+           "bill_number": "S.524",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.",
+           "vote_type": "1/2",
+           "date": "2016-03-10",
+           "time": "11:30:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "94",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "33",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/33.json",
+           "bill_number": "S.524",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.",
+           "vote_type": "3/5",
+           "date": "2016-03-09",
+           "time": "12:02:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "32",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/32.json",
+           "bill_number": "S. 524",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-03-07",
+           "time": "17:35:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "38",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "86",
+             "no": "3",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "31",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/31.json",
+           "bill_number": "S. 524",
+           "question": "On the Amendment", 
+           "description": "To strengthen consumer education about the risks of opioid abuse and addiction.",
+           "vote_type": "1/2",
+           "date": "2016-03-03",
+           "time": "13:46:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "90",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "30",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/30.json",
+           "bill_number": "S. 524",
+           "question": "On the Motion", 
+           "description": "To make appropriations to address the heroin and opioid drug abuse epidemic for the fiscal year ending September 30, 2016.",
+           "vote_type": "3/5",
+           "date": "2016-03-02",
+           "time": "15:26:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "47",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "48",
+             "no": "47",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "29",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/29.json",
+           "bill_number": "S. 524",
+           "question": "On the Motion", 
+           "description": "To provide for comprehensive provisions for the prevention and enforcement of opioid abuse and treatment of opioid addiction.",
+           "vote_type": "3/5",
+           "date": "2016-03-02",
+           "time": "15:05:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "50",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "46",
+             "no": "50",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "28",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/28.json",
+           "bill_number": "S. 524",
+           "question": "On the Amendment", 
+           "description": "To provide the Department of Justice with additional tools to target extraterritorial drug trafficking activity, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-03-02",
+           "time": "14:34:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "1",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "94",
+             "no": "0",
+             "present": "1",
+             "not_voting": "5"
+            }
+          }
+         ]
+    }
+}

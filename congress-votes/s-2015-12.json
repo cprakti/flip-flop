@@ -1,0 +1,1143 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Dec.",
+      "num_results": "29",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "339",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/339.json",
+           "bill_number": "H.R.2029",
+           "question": "On the Motion", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-12-18",
+           "time": "11:31:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "37",
+             "no": "6",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "27",
+             "no": "26",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "65",
+             "no": "33",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "338",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/338.json",
+           "bill_number": "H.R.2029",
+           "question": "On the Motion", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-18",
+           "time": "11:16:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "36",
+             "no": "7",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "37",
+             "no": "16",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "73",
+             "no": "25",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "337",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/337.json",
+           "bill_number": "H.R.2029",
+           "question": "On the Motion to Table", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-12-18",
+           "time": "10:56:00",
+           "result": "Motion to Table Failed",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "29",
+             "no": "24",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "31",
+             "no": "67",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "336",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/336.json",
+           "bill_number": "H.R.2029",
+           "question": "On the Cloture Motion", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-18",
+           "time": "10:30:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "30",
+             "no": "23",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "72",
+             "no": "26",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "335",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/335.json",
+           "bill_number": "PN64",
+           "question": "On the Nomination", 
+           "description": "Alissa M. Starzak, of New York, to be General Counsel of the Department of the Army",
+           "vote_type": "1/2",
+           "date": "2015-12-14",
+           "time": "17:34:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "39",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "34",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "45",
+             "no": "34",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "334",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/334.json",
+           "bill_number": "S.1177",
+           "question": "On the Conference Report", 
+           "description": "An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.",
+           "vote_type": "1/2",
+           "date": "2015-12-09",
+           "time": "10:46:00",
+           "result": "Conference Report Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "12",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "85",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "333",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/333.json",
+           "bill_number": "S.1177",
+           "question": "On the Cloture Motion", 
+           "description": "An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.",
+           "vote_type": "3/5",
+           "date": "2015-12-08",
+           "time": "11:30:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "39",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "84",
+             "no": "12",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "332",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/332.json",
+           "bill_number": "PN18",
+           "question": "On the Nomination", 
+           "description": "Travis Randall McDonough, of Tennessee, to be United States District Judge for the Eastern District of Tennessee",
+           "vote_type": "1/2",
+           "date": "2015-12-07",
+           "time": "17:29:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "331",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/331.json",
+           "bill_number": "H.R.22",
+           "question": "On the Conference Report", 
+           "description": "An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "20:47:00",
+           "result": "Conference Report Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "14",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "83",
+             "no": "16",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "330",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/330.json",
+           "bill_number": "H.R.22",
+           "question": "On the Motion", 
+           "description": "An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "20:31:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "30",
+             "no": "14",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "77",
+             "no": "22",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "329",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/329.json",
+           "bill_number": "H.R.3762",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to provide for reconciliation pursuant to section 2002 of the concurrent resolution on the budget for fiscal year 2016.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "20:09:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "328",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/328.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To protect victims of violence or disease, veterans, workers who have lost their health insurance and their jobs, and other vulnerable populations from the repeal of the advanced premium tax credit.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "19:48:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "53",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "46",
+             "no": "53",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "327",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/327.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To ensure that individuals can keep their health insurance coverage.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "19:31:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "45",
+             "no": "54",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "326",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/326.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "19:06:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "325",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/325.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To restore Second Amendment rights in the District of Columbia.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "19:06:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "54",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "324",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/324.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To amend the Internal Revenue Code of 1986 to extend the special rule for seniors relating to the income level for deduction of medical care expenses, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "18:19:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "5",
+             "no": "39",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "60",
+             "no": "39",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "323",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/323.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To prevent the entry of extremists into the United States under the refugee program, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "17:52:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "10",
+             "no": "89",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "322",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/322.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To provide additional amounts to the Department of Veterans Affairs to increase the access of veterans to care and improve the physical infrastructure of the Department of Veterans Affairs and to impose a fair share tax on high-income taxpayers.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "17:30:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "52",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "321",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/321.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To protect Second Amendment rights, ensure that all individuals who should be prohibited from buying a firearm are listed in the National Instant Criminal Background Check System, and provide a responsible and consistent background check process.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "17:09:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "49",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "48",
+             "no": "50",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "320",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/320.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To address gun violence, improve the availability of records to the National Instant Criminal background Check System, address mental illness in the criminal justice system, and end straw purchases and trafficking of illegal firearms, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "16:49:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "46",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "319",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/319.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To increase public safety by permitting the Attorney General to deny the transfer of firearms or the issuance of firearms and explosives licenses to known or suspected dangerous terrorists.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "16:29:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "53",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "54",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "318",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/318.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "Relating to the Protect America Act of 2015.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "16:08:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "41",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "55",
+             "no": "44",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "317",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/317.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To improve mental health and substance use prevention and treatment.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "15:44:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "52",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "316",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/316.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To strike the reinstatement of the tax on employee health insurance premiums and health plan benefits.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "15:22:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "37",
+             "no": "7",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "90",
+             "no": "10",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "315",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/315.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To amend the Internal Revenue Code of 1986 to establish a credit for married couples who are both employed and have young children, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "15:02:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "46",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "314",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/314.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To improve the bill.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "14:43:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "51",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "48",
+             "no": "52",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "313",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/313.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion", 
+           "description": "To maintain the 100 percent FMAP for the Medicaid expansion population.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "14:22:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "54",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "45",
+             "no": "55",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "312",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/312.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Amendment", 
+           "description": "To amend the Patient Protection and Affordable Care Act to ensure that individuals can keep their health insurance coverage.",
+           "vote_type": "3/5",
+           "date": "2015-12-03",
+           "time": "14:02:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "311",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/311.json",
+           "bill_number": "H.R. 3762",
+           "question": "On the Motion to Table", 
+           "description": "To ensure that this Act does not increase the number of uninsured women or increase the number of unintended pregnancies by establishing a women&#39;s health care and clinic security and safety fund.",
+           "vote_type": "1/2",
+           "date": "2015-12-03",
+           "time": "13:34:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0"
+            }
+          }
+         ]
+    }
+}

@@ -1,0 +1,636 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Nov.",
+      "num_results": "16",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "310",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/310.json",
+           "bill_number": "PN420",
+           "question": "On the Nomination", 
+           "description": "Gayle Smith, of Ohio, to be Administrator of the United States Agency for International Development",
+           "vote_type": "1/2",
+           "date": "2015-11-30",
+           "time": "17:36:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "34",
+             "no": "7",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "79",
+             "no": "7",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "309",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/309.json",
+           "bill_number": "PN629",
+           "question": "On the Nomination", 
+           "description": "Peter William Bodde, of Maryland, to be Ambassador to Libya",
+           "vote_type": "1/2",
+           "date": "2015-11-19",
+           "time": "14:02:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "308",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/308.json",
+           "bill_number": "S.1177",
+           "question": "On the Cloture Motion", 
+           "description": "An original bill to reauthorize the Elementary and Secondary Education Act of 1965 to ensure that every child achieves.",
+           "vote_type": "3/5",
+           "date": "2015-11-18",
+           "time": "10:44:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "6",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "6",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "307",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/307.json",
+           "bill_number": "S.J.Res.23",
+           "question": "On the Joint Resolution", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to &#39;Standards of Performance for Greenhouse Gas Emissions from New, Modified, and Reconstructed Stationary Sources: Electric Utility Generating Units&#39;.",
+           "vote_type": "1/2",
+           "date": "2015-11-17",
+           "time": "17:59:00",
+           "result": "Joint Resolution Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "46",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "306",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/306.json",
+           "bill_number": "S.J.Res.24",
+           "question": "On the Joint Resolution", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of a rule submitted by the Environmental Protection Agency relating to &#39;Carbon Pollution Emission Guidelines for Existing Stationary Sources: Electric Utility Generating Units&#39;.",
+           "vote_type": "1/2",
+           "date": "2015-11-17",
+           "time": "17:28:00",
+           "result": "Joint Resolution Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "46",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "305",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/305.json",
+           "bill_number": "PN15",
+           "question": "On the Nomination", 
+           "description": "LaShann Moutique DeArcy Hall, of New York, to be United States District Judge for the Eastern District of New York",
+           "vote_type": "1/2",
+           "date": "2015-11-16",
+           "time": "17:32:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "304",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/304.json",
+           "bill_number": "H.R.22",
+           "question": "On the Motion", 
+           "description": "An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-11-10",
+           "time": "15:13:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "39",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "15",
+             "no": "29",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "31",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "303",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/303.json",
+           "bill_number": "H.R.22",
+           "question": "On the Cloture Motion", 
+           "description": "An act to authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-11-10",
+           "time": "14:44:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "38",
+             "no": "7",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "82",
+             "no": "7",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "302",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/302.json",
+           "bill_number": "H.R.2029",
+           "question": "On Passage of the Bill", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-11-10",
+           "time": "12:45:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "301",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/301.json",
+           "bill_number": "S.1356",
+           "question": "On the Motion", 
+           "description": "A bill to clarify that certain provisions of the Border Patrol Agent Pay Reform Act of 2014 will not take effect until after the Director of the Office of Personnel Management promulgates and makes effective regulations relating to such provisions.",
+           "vote_type": "1/2",
+           "date": "2015-11-10",
+           "time": "11:27:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "3",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "300",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/300.json",
+           "bill_number": "PN569",
+           "question": "On the Nomination", 
+           "description": "Scott Allen, of Maryland, to be United States Director of the European Bank for Reconstruction and Development",
+           "vote_type": "1/2",
+           "date": "2015-11-09",
+           "time": "17:30:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "40",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "83",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "299",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/299.json",
+           "bill_number": "H.R.2029",
+           "question": "On the Motion to Proceed", 
+           "description": "A bill making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-11-05",
+           "time": "13:46:00",
+           "result": "Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "298",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/298.json",
+           "bill_number": "H.R.2685",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-11-05",
+           "time": "11:01:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "51",
+             "no": "44",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "297",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/297.json",
+           "bill_number": "S.J.Res.22",
+           "question": "On the Joint Resolution", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Corps of Engineers and the Environmental Protection Agency relating to the definition of &#39;waters of the United States&#39; under the Federal Water Pollution Control Act.",
+           "vote_type": "1/2",
+           "date": "2015-11-04",
+           "time": "12:01:00",
+           "result": "Joint Resolution Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "41",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "44",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "296",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/296.json",
+           "bill_number": "S.J.Res.22",
+           "question": "On the Motion to Proceed", 
+           "description": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Corps of Engineers and the Environmental Protection Agency relating to the definition of &#39;waters of the United States&#39; under the Federal Water Pollution Control Act.",
+           "vote_type": "1/2",
+           "date": "2015-11-03",
+           "time": "15:56:00",
+           "result": "Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "55",
+             "no": "43",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "295",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/295.json",
+           "bill_number": "S.1140",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to require the Secretary of the Army and the Administrator of the Environmental Protection Agency to propose a regulation revising the definition of the term &#39;waters of the United States&#39;, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-11-03",
+           "time": "14:31:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "39",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "41",
+             "present": "0",
+             "not_voting": "2"
+            }
+          }
+         ]
+    }
+}

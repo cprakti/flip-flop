@@ -1,0 +1,1065 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2016",
+      "month": "April",
+      "num_results": "27",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "65",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/65.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-04-28",
+           "time": "13:47:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "38",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "4",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "43",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "64",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/64.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-04-27",
+           "time": "12:11:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "5",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "50",
+             "no": "46",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "63",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/63.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To withhold certain funds for the construction of environmental infrastructure.",
+           "vote_type": "1/2",
+           "date": "2016-04-26",
+           "time": "11:56:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "40",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "12",
+             "no": "84",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "62",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/62.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To make funding for water management improvement subject to a condition.",
+           "vote_type": "1/2",
+           "date": "2016-04-26",
+           "time": "11:33:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "29",
+             "no": "23",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "73",
+             "no": "23",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "61",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/61.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To provide for funding for wind energy.",
+           "vote_type": "1/2",
+           "date": "2016-04-26",
+           "time": "11:04:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "40",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "54",
+             "no": "42",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "60",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/60.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To add a provision relating to certain requirements in the acquisition of welded shipboard anchor and mooring chain.",
+           "vote_type": "1/2",
+           "date": "2016-04-25",
+           "time": "17:30:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "12",
+             "no": "38",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "55",
+             "no": "38",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "59",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/59.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To provide funding for the Tribal Energy Loan Guarantee Program.",
+           "vote_type": "1/2",
+           "date": "2016-04-21",
+           "time": "13:44:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "33",
+             "no": "19",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "76",
+             "no": "19",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "58",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/58.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To limit the use of funds made available for the Advanced Technology Vehicles Manufacturing Loan Program.",
+           "vote_type": "3/5",
+           "date": "2016-04-21",
+           "time": "12:18:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "5",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "48",
+             "no": "49",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "57",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/57.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To prohibit the use of funds relating to a certain definition.",
+           "vote_type": "3/5",
+           "date": "2016-04-21",
+           "time": "11:50:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "56",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/56.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To eliminate funding for the Appalachian Regional Commission, the Delta Regional Authority, the Denali Commission, and the Northern Border Regional Commission.",
+           "vote_type": "1/2",
+           "date": "2016-04-20",
+           "time": "17:26:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "25",
+             "no": "28",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "25",
+             "no": "71",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "55",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/55.json",
+           "bill_number": "H.R. 2028",
+           "question": "On the Amendment", 
+           "description": "To modify funding for certain projects of the Department of Energy.",
+           "vote_type": "1/2",
+           "date": "2016-04-20",
+           "time": "16:54:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "27",
+             "no": "26",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "70",
+             "no": "26",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "54",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/54.json",
+           "bill_number": "S.2012",
+           "question": "On Passage of the Bill", 
+           "description": "An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-04-20",
+           "time": "10:01:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "12",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "85",
+             "no": "12",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "53",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/53.json",
+           "bill_number": "S. 2012",
+           "question": "On the Motion", 
+           "description": "To provide for the establishment of free market enterprise zones in order to help facilitate the creation of new jobs, entrepreneurial opportunities, enhanced and renewed educational opprotunities, and increased community involvement in bankrupt or economically distressed areas.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "18:07:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "33",
+             "no": "19",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "33",
+             "no": "64",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "52",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/52.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To require the Secretary of the Treasury to develop a plan for issuance of Clean Energy Victory Bonds.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "17:48:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "46",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "50",
+             "no": "47",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "51",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/51.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To require a report relating to certain transmission infrastructure projects.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "17:31:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "42",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "42",
+             "no": "55",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "50",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/50.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To add provisions relating to acquisition of Federal land under the Land and Water Conservation Fund.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "17:12:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "34",
+             "no": "18",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "34",
+             "no": "63",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "49",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/49.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To improve the accuracy of mortgage underwriting used by the Federal Housing Administration by ensuring that energy costs are included in the underwriting process, to reduce the amount of energy consumed by homes, to facilitate the creation of energy efficiency retrofit and construction jobs, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "16:48:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "21",
+             "no": "31",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "66",
+             "no": "31",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "48",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/48.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To add certain provisions relating to natural resources.",
+           "vote_type": "3/5",
+           "date": "2016-04-19",
+           "time": "16:17:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "47",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/47.json",
+           "bill_number": "H.R.636",
+           "question": "On Passage of the Bill", 
+           "description": "An act to amend title 49, United States Code, to authorize appropriations for the Federal Aviation Administration for fiscal years 2016 through 2017, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-04-19",
+           "time": "12:12:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "95",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "46",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/46.json",
+           "bill_number": "H.R.636",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-04-18",
+           "time": "17:30:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "4",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "5",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "45",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/45.json",
+           "bill_number": "H.R. 636",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-04-14",
+           "time": "10:31:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "94",
+             "no": "4",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "44",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/44.json",
+           "bill_number": "PN153",
+           "question": "On the Nomination", 
+           "description": "Waverly D. Crenshaw, Jr., of Tennessee, to be United States District Judge for the Middle District of Tennessee",
+           "vote_type": "1/2",
+           "date": "2016-04-11",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "92",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "43",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/43.json",
+           "bill_number": "H.R. 636",
+           "question": "On the Amendment", 
+           "description": "To require the Federal Aviation Administration to establish minimum standards for space for passengers on passenger aircraft.",
+           "vote_type": "1/2",
+           "date": "2016-04-07",
+           "time": "13:44:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "40",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "51",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "42",
+             "no": "54",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "42",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/42.json",
+           "bill_number": "H.R. 636",
+           "question": "On the Amendment", 
+           "description": "To expand and enhance visible deterrents at major transportation hubs and to increase the resources to protect and secure the United States.",
+           "vote_type": "1/2",
+           "date": "2016-04-07",
+           "time": "12:38:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "5",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "91",
+             "no": "5",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "41",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/41.json",
+           "bill_number": "H.R. 636",
+           "question": "On the Amendment", 
+           "description": "To enhance airport security, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-04-07",
+           "time": "12:07:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "32",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "85",
+             "no": "10",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "40",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/40.json",
+           "bill_number": "H.R.636",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-04-06",
+           "time": "11:01:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "39",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/39.json",
+           "bill_number": "S.1890",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend chapter 90 of title 18, United States Code, to provide Federal jurisdiction for the theft of trade secrets, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-04-04",
+           "time": "17:34:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "40",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "87",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13"
+            }
+          }
+         ]
+    }
+}

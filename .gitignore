@@ -13,3 +13,5 @@
 /tmp
 
 .env
+
+curl "https://api.propublica.org/congress/v1/114/bills/hr351/subjects.json" -H "X-API-Key: qQ6CXg1UQg1xJ7gNXvXZW9qeE99QNAOY2Sn3TKw2"

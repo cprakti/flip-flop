@@ -1,0 +1,558 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Feb.",
+      "num_results": "14",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "63",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/63.json",
+           "bill_number": "S.534",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to prohibit funds from being used to carry out certain Executive actions related to immigration and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-27",
+           "time": "11:29:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "39",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "57",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "62",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/62.json",
+           "bill_number": "H.R.240",
+           "question": "On Passage of the Bill", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-02-27",
+           "time": "11:10:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "23",
+             "no": "31",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "68",
+             "no": "31",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "61",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/61.json",
+           "bill_number": "H.R. 240",
+           "question": "On the Amendment", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "1/2",
+           "date": "2015-02-27",
+           "time": "10:52:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "21",
+             "no": "33",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "66",
+             "no": "33",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "60",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/60.json",
+           "bill_number": "H.R. 240",
+           "question": "On the Motion to Table", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "1/2",
+           "date": "2015-02-27",
+           "time": "10:35:00",
+           "result": "Motion to Table Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "34",
+             "no": "20",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "34",
+             "no": "65",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "59",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/59.json",
+           "bill_number": "H.R.240",
+           "question": "On the Cloture Motion", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-27",
+           "time": "10:02:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "23",
+             "no": "31",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "68",
+             "no": "31",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "58",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/58.json",
+           "bill_number": "H.R.240",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-25",
+           "time": "14:47:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "57",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/57.json",
+           "bill_number": "H.R.240",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-23",
+           "time": "17:32:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "46",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "56",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/56.json",
+           "bill_number": "PN1",
+           "question": "On the Nomination", 
+           "description": "Ashton B. Carter, of Massachusetts, to be Secretary of Defense",
+           "vote_type": "1/2",
+           "date": "2015-02-12",
+           "time": "14:07:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "5",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "5",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "55",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/55.json",
+           "bill_number": "S.295",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to amend section 2259 of title 18, United States Code, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-02-11",
+           "time": "15:46:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "54",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/54.json",
+           "bill_number": "PN60",
+           "question": "On the Nomination", 
+           "description": "Michael P. Botticelli, of the District of Columbia, to be Director of National Drug Control Policy",
+           "vote_type": "1/2",
+           "date": "2015-02-09",
+           "time": "17:32:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "92",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "53",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/53.json",
+           "bill_number": "H.R.240",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-05",
+           "time": "11:32:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "52",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/52.json",
+           "bill_number": "H.R.240",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-04",
+           "time": "14:47:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "47",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "51",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/51.json",
+           "bill_number": "H.R.240",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-02-03",
+           "time": "14:32:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "48",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "50",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/50.json",
+           "bill_number": "H.R.203",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to direct the Secretary of Veterans Affairs to provide for the conduct of annual evaluations of mental health care and suicide prevention programs of the Department of Veterans Affairs, to require a pilot program on loan repayment for psychiatrists who agree to serve in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-02-03",
+           "time": "12:01:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            }
+          }
+         ]
+    }
+}

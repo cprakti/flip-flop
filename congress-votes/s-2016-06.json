@@ -1,0 +1,870 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2016",
+      "month": "June",
+      "num_results": "22",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "110",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/110.json",
+           "bill_number": "H.R. 2578",
+           "question": "On the Motion to Table", 
+           "description": "To authorize the Attorney General to delay or deny the transfer of firearms and explosives and issuance of Federal firearms and explosives licenses and permits to known or suspected terrorists.",
+           "vote_type": "1/2",
+           "date": "2016-06-23",
+           "time": "14:27:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "30",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "67",
+             "no": "31",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "109",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/109.json",
+           "bill_number": "H.R.2578",
+           "question": "On the Motion to Table", 
+           "description": "A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-06-23",
+           "time": "14:01:00",
+           "result": "Motion to Table Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "46",
+             "no": "52",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "108",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/108.json",
+           "bill_number": "H.R. 2578",
+           "question": "On the Cloture Motion", 
+           "description": "To amend section 2709 of title 18, United States Code, to clarify that the Government may obtain a specified set of electronic communication transactional records under that section, and to make permanent the authority for individual terrorists to be treated as agents of foreign powers under the Foreign Intelligence Surveillance Act of 1978.",
+           "vote_type": "3/5",
+           "date": "2016-06-22",
+           "time": "10:31:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "11",
+             "no": "30",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "7",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "58",
+             "no": "38",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "107",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/107.json",
+           "bill_number": "H.R.2578",
+           "question": "On the Motion to Table", 
+           "description": "A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-06-20",
+           "time": "18:53:00",
+           "result": "Motion to Table Agreed to",
+           "democratic": {
+             "yes": "3",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "106",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/106.json",
+           "bill_number": "H.R. 2578",
+           "question": "On the Cloture Motion", 
+           "description": "To authorize the Attorney General to deny requests to transfer a firearm to known or suspected terrorists.",
+           "vote_type": "3/5",
+           "date": "2016-06-20",
+           "time": "18:37:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "43",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "52",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "53",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "105",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/105.json",
+           "bill_number": "H.R. 2578",
+           "question": "On the Cloture Motion", 
+           "description": "To Secure our Homeland from radical Islamists by Enhancing Law enforcement Detection (\&quot;SHIELD\&quot;).",
+           "vote_type": "3/5",
+           "date": "2016-06-20",
+           "time": "18:21:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "47",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "104",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/104.json",
+           "bill_number": "H.R.2578",
+           "question": "On the Cloture Motion", 
+           "description": "A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-20",
+           "time": "18:03:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "53",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "44",
+             "no": "56",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "103",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/103.json",
+           "bill_number": "H.R. 2578",
+           "question": "On the Cloture Motion", 
+           "description": "To address gun violence and improve the availability of records to the National Instant Criminal Background Check System.",
+           "vote_type": "3/5",
+           "date": "2016-06-20",
+           "time": "17:36:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "47",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "102",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/102.json",
+           "bill_number": "S.524",
+           "question": "On the Motion", 
+           "description": "To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the national epidemics of prescription opioid abuse and heroin use, and to provide for the establishment of an inter-agency task force to review, modify, and update best practices for pain management and prescribing pain medication, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-06-16",
+           "time": "14:39:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "28",
+             "no": "24",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "70",
+             "no": "24",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "101",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/101.json",
+           "bill_number": "S.524",
+           "question": "On the Motion", 
+           "description": "To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the national epidemics of prescription opioid abuse and heroin use, and to provide for the establishment of an inter-agency task force to review, modify, and update best practices for pain management and prescribing pain medication, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-06-16",
+           "time": "14:19:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "29",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "66",
+             "no": "29",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "100",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/100.json",
+           "bill_number": "S.524",
+           "question": "On the Cloture Motion", 
+           "description": "To authorize the Attorney General and Secretary of Health and Human Services to award grants to address the national epidemics of prescription opioid abuse and heroin use, and to provide for the establishment of an inter-agency task force to review, modify, and update best practices for pain management and prescribing pain medication, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-16",
+           "time": "13:49:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "95",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "99",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/99.json",
+           "bill_number": "H.R.2578",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-14",
+           "time": "14:41:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "94",
+             "no": "3",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "98",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/98.json",
+           "bill_number": "S.2943",
+           "question": "On Passage of the Bill", 
+           "description": "An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-06-14",
+           "time": "11:04:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "36",
+             "no": "7",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "6",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "85",
+             "no": "13",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "97",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/97.json",
+           "bill_number": "S.2943",
+           "question": "On the Cloture Motion", 
+           "description": "An original bill to authorize appropriations for fiscal year 2017 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-10",
+           "time": "09:02:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "17",
+             "no": "20",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "68",
+             "no": "23",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "96",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/96.json",
+           "bill_number": "S. 2943",
+           "question": "On the Cloture Motion", 
+           "description": "To address unfunded priorities of the Armed Forces.",
+           "vote_type": "3/5",
+           "date": "2016-06-09",
+           "time": "11:53:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "12",
+             "no": "31",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "11",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "95",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/95.json",
+           "bill_number": "S. 2943",
+           "question": "On the Cloture Motion", 
+           "description": "To authorize parity for defense and nondefense spending pursuant to the Bipartisan Budget Act of 2015.",
+           "vote_type": "3/5",
+           "date": "2016-06-09",
+           "time": "11:16:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "40",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "52",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "43",
+             "no": "55",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "94",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/94.json",
+           "bill_number": "H.R.2577",
+           "question": "On the Motion", 
+           "description": "A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-08",
+           "time": "20:38:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "38",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "56",
+             "no": "38",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "93",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/93.json",
+           "bill_number": "H.R.2577",
+           "question": "On the Motion", 
+           "description": "A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-08",
+           "time": "20:13:00",
+           "result": "Motion Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "49",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "46",
+             "no": "49",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "92",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/92.json",
+           "bill_number": "H.R.2577",
+           "question": "On the Cloture Motion", 
+           "description": "A bill making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-06-08",
+           "time": "19:37:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "91",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/91.json",
+           "bill_number": "S. 2943",
+           "question": "On the Amendment", 
+           "description": "To strike the provision relating to the pilot program on privatization of the Defense Commissary System.",
+           "vote_type": "1/2",
+           "date": "2016-06-07",
+           "time": "16:36:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "40",
+             "no": "3",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "30",
+             "no": "24",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "70",
+             "no": "28",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "90",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/90.json",
+           "bill_number": "S. 2943",
+           "question": "On the Amendment", 
+           "description": "To provide that certain provisions in this Act relating to limitations, transparency, and oversight regarding medical research conducted by the Department of Defense shall have mo force or effect.",
+           "vote_type": "1/2",
+           "date": "2016-06-07",
+           "time": "15:59:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "22",
+             "no": "32",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "66",
+             "no": "32",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "89",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/89.json",
+           "bill_number": "S. 2943",
+           "question": "On the Amendment", 
+           "description": "To modify the requirement that the Secretary of Defense implement measures to maintain the critical wartime medical readiness skills and core competencies of health care providers within the Armed Forces.",
+           "vote_type": "1/2",
+           "date": "2016-06-06",
+           "time": "17:30:00",
+           "result": "Amendment Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "91",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9"
+            }
+          }
+         ]
+    }
+}

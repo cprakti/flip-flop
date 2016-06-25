@@ -1,0 +1,714 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2016",
+      "month": "Feb.",
+      "num_results": "18",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "27",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/27.json",
+           "bill_number": "S.524",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to authorize the Attorney General to award grants to address the national epidemics of prescription opioid abuse and heroin use.",
+           "vote_type": "3/5",
+           "date": "2016-02-29",
+           "time": "17:31:00",
+           "result": "Cloture on the Motion to Proceed Agreed to",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "26",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/26.json",
+           "bill_number": "S.Res.374",
+           "question": "On the Resolution", 
+           "description": "A resolution relating to the death of Antonin Scalia, Associate Justice of the Supreme Court of the United States.",
+           "vote_type": "1/2",
+           "date": "2016-02-25",
+           "time": "13:45:00",
+           "result": "Resolution Agreed to",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "25",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/25.json",
+           "bill_number": "PN849",
+           "question": "On the Nomination", 
+           "description": "Robert McKinnon Califf, of South Carolina, to be Commissioner of Food and Drugs, Department of Health and Human Services",
+           "vote_type": "1/2",
+           "date": "2016-02-24",
+           "time": "12:03:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "39",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "89",
+             "no": "4",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "24",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/24.json",
+           "bill_number": "PN849",
+           "question": "On the Cloture Motion", 
+           "description": "Robert McKinnon Califf, of South Carolina, to be Commissioner of Food and Drugs, Department of Health and Human Services",
+           "vote_type": "1/2",
+           "date": "2016-02-22",
+           "time": "17:41:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "36",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "2",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "80",
+             "no": "6",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "23",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/23.json",
+           "bill_number": "PN675",
+           "question": "On the Nomination", 
+           "description": "Leonard Terry Strand, of South Dakota, to be United States District Judge for the Northern District of Iowa",
+           "vote_type": "1/2",
+           "date": "2016-02-11",
+           "time": "13:43:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "22",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/22.json",
+           "bill_number": "H.R.644",
+           "question": "On the Conference Report", 
+           "description": "An act to reauthorize trade facilitation and trade enforcement functions and activities, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-02-11",
+           "time": "12:04:00",
+           "result": "Conference Report Agreed to",
+           "democratic": {
+             "yes": "27",
+             "no": "17",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "75",
+             "no": "20",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "21",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/21.json",
+           "bill_number": "H.R.644",
+           "question": "On the Cloture Motion", 
+           "description": "An act to reauthorize trade facilitation and trade enforcement functions and activities, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-02-11",
+           "time": "10:35:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "25",
+             "no": "19",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "73",
+             "no": "22",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "20",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/20.json",
+           "bill_number": "H.R.757",
+           "question": "On Passage of the Bill", 
+           "description": "A bill to improve the enforcement of sanctions against the Government of North Korea, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2016-02-10",
+           "time": "17:11:00",
+           "result": "Bill Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "19",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/19.json",
+           "bill_number": "PN915",
+           "question": "On the Nomination", 
+           "description": "Scot Alan Marciel, of California, to be Ambassador to the Union of Burma",
+           "vote_type": "1/2",
+           "date": "2016-02-09",
+           "time": "14:18:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "90",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "18",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/18.json",
+           "bill_number": "PN831",
+           "question": "On the Nomination", 
+           "description": "Rebecca Goodgame Ebinger, of Iowa, to be United States District Judge for the Southern District of Iowa",
+           "vote_type": "1/2",
+           "date": "2016-02-08",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "83",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "17",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/17.json",
+           "bill_number": "S.2012",
+           "question": "On the Cloture Motion", 
+           "description": "An original bill to provide for the modernization of the energy policy of the United States, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2016-02-04",
+           "time": "12:05:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "5",
+             "no": "39",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "37",
+             "no": "15",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "43",
+             "no": "54",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "16",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/16.json",
+           "bill_number": "S. 2012",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2016-02-04",
+           "time": "11:32:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "5",
+             "no": "38",
+             "present": "1",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "40",
+             "no": "12",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "46",
+             "no": "50",
+             "present": "1",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "15",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/15.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To require campaign finance disclosures for certain persons benefitting from fossil fuel activities.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "16:23:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "42",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "50",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "43",
+             "no": "52",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "14",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/14.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To amend the Internal Revenue Code of 1986 to phase out tax preferences for fossil fuels on the same schedule as the phase out of the tax credits for wind facilities.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "16:01:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "47",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "45",
+             "no": "50",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "13",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/13.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To require each agency to repeal or amend 1 or more rules before issuing or amending a rule.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "15:41:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "0",
+             "no": "44",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "49",
+             "no": "46",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "12",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/12.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To establish deadlines and expedite permits for certain natural gas gathering lines on Federal land and Indian land.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "15:21:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "2",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "52",
+             "no": "43",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "11",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/11.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To establish a Federal energy efficiency resource standard for electricity and natural gas suppliers.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "14:59:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "41",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "49",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "43",
+             "no": "52",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "10",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/2/votes/10.json",
+           "bill_number": "S. 2012",
+           "question": "On the Amendment", 
+           "description": "To modify the authority of the President of the United States to declare national monuments.",
+           "vote_type": "3/5",
+           "date": "2016-02-02",
+           "time": "14:33:00",
+           "result": "Amendment Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "4",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "47",
+             "no": "48",
+             "present": "0",
+             "not_voting": "5"
+            }
+          }
+         ]
+    }
+}

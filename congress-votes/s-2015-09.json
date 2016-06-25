@@ -1,0 +1,402 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "Senate",
+      "year": "2015",
+      "month": "Sept.",
+      "num_results": "10",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "272",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/272.json",
+           "bill_number": "H.R.719",
+           "question": "On the Motion", 
+           "description": "A bill to require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.",
+           "vote_type": "1/2",
+           "date": "2015-09-30",
+           "time": "10:00:00",
+           "result": "Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "32",
+             "no": "20",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "78",
+             "no": "20",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "271",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/271.json",
+           "bill_number": "H.R.719",
+           "question": "On the Cloture Motion", 
+           "description": "A bill to require the Transportation Security Administration to conform to existing Federal law and regulations regarding criminal investigator positions, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-09-28",
+           "time": "17:41:00",
+           "result": "Cloture Motion Agreed to",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "31",
+             "no": "19",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "77",
+             "no": "19",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "270",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/270.json",
+           "bill_number": "H.J.Res. 61",
+           "question": "On the Cloture Motion", 
+           "description": "Making continuing appropriations for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-09-24",
+           "time": "13:55:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "8",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "47",
+             "no": "52",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "269",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/269.json",
+           "bill_number": "H.R.2685",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill making appropriations for the Department of Defense for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-09-22",
+           "time": "12:01:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "40",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "53",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "42",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "268",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/268.json",
+           "bill_number": "H.R.36",
+           "question": "On Cloture on the Motion to Proceed", 
+           "description": "A bill to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.",
+           "vote_type": "3/5",
+           "date": "2015-09-22",
+           "time": "11:02:00",
+           "result": "Cloture on the Motion to Proceed Rejected",
+           "democratic": {
+             "yes": "3",
+             "no": "38",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "2",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "54",
+             "no": "42",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "267",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/267.json",
+           "bill_number": "H.J.Res. 61",
+           "question": "On the Cloture Motion", 
+           "description": "In the nature of a substitute.",
+           "vote_type": "3/5",
+           "date": "2015-09-17",
+           "time": "11:49:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "266",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/266.json",
+           "bill_number": "H.J.Res. 61",
+           "question": "On the Cloture Motion", 
+           "description": "To prohibit the President from waiving, suspending, reducing, providing relief from, or otherwise limiting the application of sanctions pursuant to an agreement related to the nuclear program of Iran.",
+           "vote_type": "3/5",
+           "date": "2015-09-17",
+           "time": "11:07:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "1",
+             "no": "43",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "45",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "265",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/265.json",
+           "bill_number": "H.J.Res. 61",
+           "question": "On the Cloture Motion", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "3/5",
+           "date": "2015-09-15",
+           "time": "18:17:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "42",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "264",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/264.json",
+           "bill_number": "H.J.Res. 61",
+           "question": "On the Cloture Motion", 
+           "description": "Of a perfecting nature.",
+           "vote_type": "3/5",
+           "date": "2015-09-10",
+           "time": "15:48:00",
+           "result": "Cloture Motion Rejected",
+           "democratic": {
+             "yes": "4",
+             "no": "40",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "54",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "58",
+             "no": "42",
+             "present": "0",
+             "not_voting": "0"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "263",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/senate/sessions/1/votes/263.json",
+           "bill_number": "PN17",
+           "question": "On the Nomination", 
+           "description": "Roseann A. Ketchmark, of Missouri, to be United States District Judge for the Western District of Missouri",
+           "vote_type": "1/2",
+           "date": "2015-09-08",
+           "time": "17:32:00",
+           "result": "Nomination Confirmed",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4"
+            }
+          }
+         ]
+    }
+}

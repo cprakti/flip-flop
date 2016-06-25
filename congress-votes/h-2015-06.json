@@ -1,0 +1,4887 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2015",
+      "month": "June",
+      "num_results": "125",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "389",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/389.json",
+           "bill_number": "H R 2200",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "CBRN Intelligence and Information Sharing Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-25",
+           "time": "12:46:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "420",
+             "no": "2",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "388",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/388.json",
+           "bill_number": "H R 1295",
+           "question": "On Motion to Concur in Senate Amendment to House Amendment to Senate Amendment", 
+           "description": "To extend the African Growth and Opportunity Act, the Generalized System of Preferences, the preferential duty treatment program for Haiti, and for other purposes.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-25",
+           "time": "12:38:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "175",
+             "no": "6",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "111",
+             "no": "132",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "286",
+             "no": "138",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "387",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/387.json",
+           "bill_number": "H R 1615",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "DHS FOIA Efficiency Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-25",
+           "time": "10:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "423",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "386",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/386.json",
+           "bill_number": "H RES 338",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the Senate amendment to the House amendment to the Senate amendment to the bill (H.R. 1295) to extend the African Growth and Opportunity Act, the Generalized System of Preferences, the preferential duty treatment for Haiti, and for other purposes.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-25",
+           "time": "10:46:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "11",
+             "no": "174",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "251",
+             "no": "176",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "385",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/385.json",
+           "bill_number": "H RES 341",
+           "question": "On Motion to Refer", 
+           "description": "Raising a question of the privileges of the House.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-25",
+           "time": "10:38:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "1",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "184",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "384",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/384.json",
+           "bill_number": "H R 2042",
+           "question": "On Passage", 
+           "description": "Ratepayer Protection Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-24",
+           "time": "17:19:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "8",
+             "no": "176",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "4",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "247",
+             "no": "180",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "383",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/383.json",
+           "bill_number": "H R 2042",
+           "question": "On Agreeing to the Amendment", 
+           "description": "McNerney of California Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-24",
+           "time": "17:01:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "177",
+             "no": "7",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "243",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "177",
+             "no": "250",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "382",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/382.json",
+           "bill_number": "H R 2042",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Rush of Illinois Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-24",
+           "time": "16:55:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "177",
+             "no": "5",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "238",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "243",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "381",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/381.json",
+           "bill_number": "H R 2042",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pallone of New Jersey Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-24",
+           "time": "16:49:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "179",
+             "no": "4",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "241",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "245",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "380",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/380.json",
+           "bill_number": "H RES 333",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 2822) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2016; providing for consideration of the bill (H.R. 2042) Ratepayer Protection Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-24",
+           "time": "14:22:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "178",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "243",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "178",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "379",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/379.json",
+           "bill_number": "H RES 333",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the bill (H.R. 2822) making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2016; providing for consideration of the bill (H.R. 2042) Ratepayer Protection Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-24",
+           "time": "14:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "243",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "181",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "378",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/378.json",
+           "bill_number": "H R 2576",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "TSCA Modernization Act of 2015",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-23",
+           "time": "19:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "167",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "1",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "398",
+             "no": "1",
+             "present": "0",
+             "not_voting": "34"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "377",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/377.json",
+           "bill_number": "H R 805",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Domain Openness Through Continued Oversight Matters Act of 2015 (DOTCOM Act of 2015).",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-23",
+           "time": "19:09:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "167",
+             "no": "1",
+             "present": "0",
+             "not_voting": "20",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "211",
+             "no": "24",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "378",
+             "no": "25",
+             "present": "0",
+             "not_voting": "30"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "376",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/376.json",
+           "bill_number": "H R 1190",
+           "question": "On Passage", 
+           "description": "Protecting Seniors",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-23",
+           "time": "18:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "11",
+             "no": "154",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "154",
+             "present": "0",
+             "not_voting": "35"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "375",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/375.json",
+           "bill_number": "H R 160",
+           "question": "On Passage", 
+           "description": "Protect Medical Innovation Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-18",
+           "time": "12:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "46",
+             "no": "140",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "280",
+             "no": "140",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "374",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/374.json",
+           "bill_number": "H R 2146",
+           "question": "On Motion to Concur in Senate Amendment With Amendment", 
+           "description": "To amend the Internal Revenue Code of 1986 to allow Federal law enforcement officers, firefighters, and air traffic controllers to make penalty-free withdrawals from governmental plans after age 50, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-18",
+           "time": "12:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "28",
+             "no": "158",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "190",
+             "no": "50",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "218",
+             "no": "208",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "373",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/373.json",
+           "bill_number": "H RES 321",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the Senate Amendment to the bill (H.R. 2146) to amend the Internal Revenue Code of 1986 to allow Federal law enforcement officers, firefighters, and air traffic controllers to make penalty-free withdrawals from governmental plans after age 50, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-18",
+           "time": "11:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "7",
+             "no": "180",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "1",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "181",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "372",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/372.json",
+           "bill_number": "H RES 319",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 160, the Protect Medical Innovation Act of 2015; and providing for consideration of H.R. 1190, the Protecting Seniors",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-17",
+           "time": "16:20:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "186",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "186",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "371",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/371.json",
+           "bill_number": "H RES 319",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 160, the Protect Medical Innovation Act of 2015; and providing for consideration of H.R. 1190, the Protecting Seniors",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-17",
+           "time": "16:14:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "186",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "186",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "370",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/370.json",
+           "bill_number": "H CON RES 55",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces deployed to Iraq or Syria on or after August 7, 2014, other than Armed Forces required to protect United States diplomatic facilities and personnel, from Iraq and Syria",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-17",
+           "time": "16:06:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "120",
+             "no": "66",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "19",
+             "no": "222",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "139",
+             "no": "288",
+             "present": "1",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "369",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/369.json",
+           "bill_number": "H R 2596",
+           "question": "On Passage", 
+           "description": "Intelligence Authorization Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-16",
+           "time": "17:53:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "31",
+             "no": "153",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "216",
+             "no": "25",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "247",
+             "no": "178",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "368",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/368.json",
+           "bill_number": "H R 2596",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Intelligence Authorization Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-16",
+           "time": "17:46:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "183",
+             "no": "240",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "367",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/367.json",
+           "bill_number": "H R 2596",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Schiff of California Amendment No. 6",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-16",
+           "time": "17:30:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "11",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "235",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "246",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "366",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/366.json",
+           "bill_number": "H RES 315",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 2596) to authorize appropriations for fiscal year 2016 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-16",
+           "time": "13:56:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "183",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "6",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "189",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "365",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/365.json",
+           "bill_number": "H R 2559",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To designate the ",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-15",
+           "time": "19:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "165",
+             "no": "0",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "389",
+             "no": "0",
+             "present": "0",
+             "not_voting": "44"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "364",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/364.json",
+           "bill_number": "H RES 233",
+           "question": "On Motion to Suspend the Rules and Agree", 
+           "description": "Expressing the sense of the House of Representatives that Iran should immediately release the three United States citizens that it holds, as well as provide all known information on any United States citizens that have disappeared within its borders",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-15",
+           "time": "18:58:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "166",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "391",
+             "no": "0",
+             "present": "0",
+             "not_voting": "42"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "363",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/363.json",
+           "bill_number": "H R 644",
+           "question": "Concurring in Senate amendments with amendment", 
+           "description": "Trade Facilitation and Trade Enforcement Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-12",
+           "time": "14:14:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "12",
+             "no": "173",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "17",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "190",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "362",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/362.json",
+           "bill_number": "H R 1314",
+           "question": "Concurring in portion of senate amendment preceding title II", 
+           "description": "Trade Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-12",
+           "time": "13:54:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "28",
+             "no": "157",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "191",
+             "no": "54",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "219",
+             "no": "211",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "361",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/361.json",
+           "bill_number": "H R 1314",
+           "question": "Concurring in portion of Senate Amdt comprising title II (except section 212)", 
+           "description": "Trade Act of 2015",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-12",
+           "time": "13:47:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "40",
+             "no": "144",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "86",
+             "no": "158",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "126",
+             "no": "302",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "360",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/360.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "16:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "96",
+             "no": "80",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "143",
+             "no": "92",
+             "present": "1",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "239",
+             "no": "172",
+             "present": "1",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "359",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/359.json",
+           "bill_number": "H RES 305",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the Senate Amendment to H.R. 1314, to provide for a right to an administrative appeal relating to adverse determinations of tax exempt status of certain organizations; and for consideration of the Senate Amendments to H.R. 644, Fighting Hunger Incentive Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-11",
+           "time": "16:50:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "8",
+             "no": "178",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "209",
+             "no": "34",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "217",
+             "no": "212",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "358",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/358.json",
+           "bill_number": "H R 2685",
+           "question": "On Passage", 
+           "description": "Making appropriations for the Department of Defense for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-11",
+           "time": "14:59:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "43",
+             "no": "144",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "5",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "278",
+             "no": "149",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "357",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/357.json",
+           "bill_number": "H R 2685",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Making appropriations for the Department of Defense for the fiscal year ending September 30, 2016, and for other purposes.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "240",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "356",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/356.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Massie of Kentucky Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:35:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "146",
+             "no": "40",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "109",
+             "no": "134",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "255",
+             "no": "174",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "355",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/355.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Smith of Missouri Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:31:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "1",
+             "no": "186",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "132",
+             "no": "111",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "133",
+             "no": "297",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "354",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/354.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Ellison of Minnesota Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:27:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "186",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "241",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "187",
+             "no": "242",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "353",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/353.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Johnson of Georgia Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:24:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "149",
+             "no": "37",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "17",
+             "no": "225",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "166",
+             "no": "262",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "352",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/352.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Gosar of Arizona Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:21:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "4",
+             "no": "183",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "195",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "51",
+             "no": "378",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "351",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/351.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Johnson of Georgia Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:17:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "147",
+             "no": "40",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "18",
+             "no": "225",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "165",
+             "no": "265",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "350",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/350.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Gosar of Arizona Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "30",
+             "no": "155",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "192",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "81",
+             "no": "347",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "349",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/349.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Sablan of Northern Mariana Islands Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:10:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "166",
+             "no": "21",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "7",
+             "no": "235",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "256",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "348",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/348.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Lee of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:07:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "151",
+             "no": "36",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "14",
+             "no": "228",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "165",
+             "no": "264",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "347",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/347.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Lee of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:03:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "144",
+             "no": "41",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "13",
+             "no": "229",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "157",
+             "no": "270",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "346",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/346.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Schiff of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-11",
+           "time": "14:00:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "163",
+             "no": "23",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "33",
+             "no": "208",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "196",
+             "no": "231",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "345",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/345.json",
+           "bill_number": "H R 1295",
+           "question": "Concurring in Senate amendments with amendment", 
+           "description": "Trade Preferences Extension Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-11",
+           "time": "13:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "185",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "212",
+             "no": "31",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "397",
+             "no": "32",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "344",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/344.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Poe of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:45:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "16",
+             "no": "172",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "98",
+             "no": "146",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "114",
+             "no": "318",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "343",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/343.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Clawson of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:42:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "51",
+             "no": "137",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "56",
+             "no": "186",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "107",
+             "no": "323",
+             "present": "0",
+             "not_voting": "3"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "342",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/342.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Nolan of Minnesota Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:39:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "42",
+             "no": "146",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "14",
+             "no": "229",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "375",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "341",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/341.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Walberg of Michigan Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:37:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "89",
+             "no": "99",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "144",
+             "no": "100",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "199",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "340",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/340.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Poe of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:33:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "22",
+             "no": "166",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "95",
+             "no": "149",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "117",
+             "no": "315",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "339",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/339.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Forbes of Virginia Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:30:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "140",
+             "no": "48",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "181",
+             "no": "63",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "321",
+             "no": "111",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "338",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/338.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Nadler of New York Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:25:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "175",
+             "no": "13",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "238",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "251",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "337",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/337.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Nadler of New York Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:22:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "169",
+             "no": "19",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "240",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "259",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "336",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/336.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Visclosky of Indiana Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "170",
+             "no": "17",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "240",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "174",
+             "no": "257",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "335",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/335.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Huffman of California Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:16:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "164",
+             "no": "23",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "88",
+             "no": "156",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "252",
+             "no": "179",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "334",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/334.json",
+           "bill_number": "H R 2685",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Lowenthal of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-10",
+           "time": "22:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "176",
+             "no": "12",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "19",
+             "no": "225",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "195",
+             "no": "237",
+             "present": "0",
+             "not_voting": "1"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "333",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/333.json",
+           "bill_number": "H R 2393",
+           "question": "On Passage", 
+           "description": "Country of Origin Labeling Amendments Act of 2015",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-10",
+           "time": "22:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "66",
+             "no": "121",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "300",
+             "no": "131",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "332",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/332.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-10",
+           "time": "14:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "109",
+             "no": "74",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "147",
+             "no": "94",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "256",
+             "no": "168",
+             "present": "2",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "331",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/331.json",
+           "bill_number": "H RES 295",
+           "question": "On Motion to Suspend the Rules and Agree", 
+           "description": "Suporting local law enforcement agencies in their continued work to serve our communities, and supporting their use of body worn cameras to promote transparency to protect both citizens and officers alike.",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2015-06-10",
+           "time": "14:21:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "187",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "6",
+             "present": "1",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "421",
+             "no": "6",
+             "present": "1",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "330",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/330.json",
+           "bill_number": "H RES 303",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 2685) making appropriations for the Department of Defense for the fiscal year ending Sept. 30, 2016, and providing for consideration of the bill (H.R. 2393) Country of Origin Labeling Amendments Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-10",
+           "time": "14:11:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "185",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "242",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "187",
+             "present": "0",
+             "not_voting": "2"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "329",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/329.json",
+           "bill_number": "H R 2577",
+           "question": "On Passage", 
+           "description": "Making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-09",
+           "time": "23:35:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "179",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "213",
+             "no": "31",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "216",
+             "no": "210",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "328",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/328.json",
+           "bill_number": "H R 2577",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Making appropriations for the Departments of Transportation, and Housing and Urban Development, and related agencies for the fiscal year ending September 30, 2016, and for other purposes",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "23:29:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "244",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "181",
+             "no": "244",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "327",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/327.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Issa of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "23:09:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "72",
+             "no": "110",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "19",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "297",
+             "no": "129",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "326",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/326.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Peters of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "23:05:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "181",
+             "no": "0",
+             "present": "1",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "60",
+             "no": "184",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "241",
+             "no": "184",
+             "present": "1",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "325",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/325.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Emmer of Minnesota Amendment No. 28",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "23:01:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "212",
+             "no": "32",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "212",
+             "no": "214",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "324",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/324.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Ellison of Minnesota Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:57:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "1",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "242",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "243",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "323",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/323.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Garrett of New Jersey Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:54:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "13",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "231",
+             "no": "195",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "322",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/322.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Meehan of Pennsylvania Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "15",
+             "no": "167",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "184",
+             "no": "60",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "199",
+             "no": "227",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "321",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/321.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Hultgren of Illinois Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:47:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "34",
+             "no": "148",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "206",
+             "no": "38",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "186",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "320",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/320.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Brooks of Alabama Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:42:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "5",
+             "no": "177",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "3",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "180",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "319",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/319.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Yoho of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "22:37:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "4",
+             "no": "178",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "240",
+             "no": "3",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "244",
+             "no": "181",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "318",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/318.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Third Posey of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:44:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "134",
+             "no": "105",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "134",
+             "no": "287",
+             "present": "0",
+             "not_voting": "12"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "317",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/317.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Posey of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:39:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "1",
+             "no": "182",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "147",
+             "no": "93",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "148",
+             "no": "275",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "316",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/316.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Schiff of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:34:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "143",
+             "no": "40",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "14",
+             "no": "226",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "157",
+             "no": "266",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "315",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/315.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Sessions of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:30:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "186",
+             "no": "54",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "186",
+             "no": "237",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "314",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/314.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Sessions of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:26:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "205",
+             "no": "35",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "205",
+             "no": "218",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "313",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/313.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Posey of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:23:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "1",
+             "no": "182",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "162",
+             "no": "78",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "163",
+             "no": "260",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "312",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/312.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Gosar of Arizona Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "136",
+             "no": "103",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "136",
+             "no": "286",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "311",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/311.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Gosar of Arizona Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:16:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "11",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "229",
+             "no": "193",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "310",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/310.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Blackburn of Tennessee Amendment No. 7",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-09",
+           "time": "19:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "2",
+             "no": "180",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "161",
+             "no": "79",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "163",
+             "no": "259",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "309",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/309.json",
+           "bill_number": "H R 2289",
+           "question": "On Passage", 
+           "description": "Commodity End-User Relief Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-09",
+           "time": "18:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "9",
+             "no": "170",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "237",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "246",
+             "no": "171",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "308",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/308.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Esty of Connecticut Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:37:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "164",
+             "no": "15",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "20",
+             "no": "215",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "230",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "307",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/307.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Stivers of Ohio Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:28:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "182",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "224",
+             "no": "16",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "224",
+             "no": "198",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "306",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/306.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Lee of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:25:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "158",
+             "no": "26",
+             "present": "1",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "18",
+             "no": "221",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "247",
+             "present": "1",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "305",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/305.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Capps of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "6",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "24",
+             "no": "216",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "202",
+             "no": "222",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "304",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/304.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Brooks of Alabama Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:14:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "185",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "139",
+             "no": "101",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "139",
+             "no": "286",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "303",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/303.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Brooks of Alabama Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:11:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "1",
+             "no": "184",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "142",
+             "no": "99",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "143",
+             "no": "283",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "302",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/302.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Garrett of New Jersey Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:07:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "11",
+             "no": "174",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "149",
+             "no": "92",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "160",
+             "no": "266",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "301",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/301.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Cartwright of Pennsylvania Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "12:03:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "166",
+             "no": "18",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "10",
+             "no": "229",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "176",
+             "no": "247",
+             "present": "0",
+             "not_voting": "9"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "299",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/299.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Walberg of Michigan Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "11:57:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "7",
+             "no": "177",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "12",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "189",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "298",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/298.json",
+           "bill_number": "H R 2577",
+           "question": "On Agreeing to the Amendment", 
+           "description": "McClintock of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-04",
+           "time": "11:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "8",
+             "no": "173",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "158",
+             "no": "82",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "166",
+             "no": "255",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "297",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/297.json",
+           "bill_number": "H R 2578",
+           "question": "On Passage", 
+           "description": "Making appropriations for Commerce and Justice, Science, and Related Agencies, FY 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-03",
+           "time": "19:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "12",
+             "no": "173",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "10",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "183",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "296",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/296.json",
+           "bill_number": "H R 2578",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Making appropriations for Commerce and Justice, Science, and Related Agencies, FY 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-03",
+           "time": "18:59:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "184",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "240",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "240",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "295",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/295.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Denham of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:41:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "6",
+             "no": "179",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "2",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "245",
+             "no": "181",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "294",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/294.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "King of Iowa Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:38:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "227",
+             "no": "14",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "227",
+             "no": "198",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "293",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/293.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "King of Iowa Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:35:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "185",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "222",
+             "no": "19",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "222",
+             "no": "204",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "292",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/292.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Sanford of South Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:31:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "183",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "134",
+             "no": "107",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "134",
+             "no": "290",
+             "present": "0",
+             "not_voting": "8"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "291",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/291.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Flores of Texas Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:28:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "2",
+             "no": "183",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "7",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "236",
+             "no": "190",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "290",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/290.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Third Massie of Kentucky Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:25:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "147",
+             "no": "38",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "236",
+             "no": "5",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "383",
+             "no": "43",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "289",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/289.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Massie of Kentucky Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:18:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "12",
+             "no": "169",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "2",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "250",
+             "no": "171",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "288",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/288.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Massie of Kentucky Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "18:12:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "172",
+             "no": "10",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "117",
+             "no": "122",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "289",
+             "no": "132",
+             "present": "0",
+             "not_voting": "11"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "287",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/287.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Garrett of New Jersey Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:38:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "185",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "11",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "232",
+             "no": "196",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "286",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/286.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Perry of Pennsylvania Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:33:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "179",
+             "no": "5",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "118",
+             "no": "125",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "297",
+             "no": "130",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "285",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/285.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "McClintock of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:29:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "161",
+             "no": "24",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "198",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "206",
+             "no": "222",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "284",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/284.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Second Grayson of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:24:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "174",
+             "no": "11",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "71",
+             "no": "171",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "245",
+             "no": "182",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "283",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/283.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Rohrabacher of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:20:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "175",
+             "no": "10",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "67",
+             "no": "176",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "186",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "282",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/282.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "First Grayson of Florida Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:16:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "8",
+             "no": "175",
+             "present": "1",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "19",
+             "no": "224",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "27",
+             "no": "399",
+             "present": "1",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "281",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/281.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Ellison of Minnesota Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:13:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "183",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "242",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "184",
+             "no": "244",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "280",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/280.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Bonamici of Oregon Amendment No. 9",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:07:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "181",
+             "no": "4",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "101",
+             "no": "142",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "282",
+             "no": "146",
+             "present": "0",
+             "not_voting": "4"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "279",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/279.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Foster of Illinois Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "14:03:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "98",
+             "no": "87",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "97",
+             "no": "145",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "195",
+             "no": "232",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "278",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/278.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Blackburn of Tennessee Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "13:58:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "2",
+             "no": "180",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "166",
+             "no": "77",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "168",
+             "no": "257",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "277",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/277.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Farr of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "13:55:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "151",
+             "no": "32",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "241",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "153",
+             "no": "273",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "276",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/276.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Nadler of New York Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "13:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "165",
+             "no": "18",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "5",
+             "no": "238",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "170",
+             "no": "256",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "275",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/275.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pittenger of North Carolina Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-03",
+           "time": "13:47:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "3",
+             "no": "181",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "160",
+             "no": "82",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "163",
+             "no": "263",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "274",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/274.json",
+           "bill_number": "H RES 288",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 2289) Commodity End-User Relief Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-03",
+           "time": "13:40:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "182",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "241",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "243",
+             "no": "182",
+             "present": "0",
+             "not_voting": "7"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "273",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/273.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Gosar of Arizona Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-02",
+           "time": "18:56:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "0",
+             "no": "184",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "14",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "228",
+             "no": "198",
+             "present": "0",
+             "not_voting": "6"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "272",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/272.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Lujan Grisham of New Mexico Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-02",
+           "time": "18:52:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": "184",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "417",
+             "no": "10",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "271",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/271.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Esty of Connecticut Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-02",
+           "time": "18:46:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "181",
+             "no": "3",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "32",
+             "no": "211",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "213",
+             "no": "214",
+             "present": "0",
+             "not_voting": "5"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "270",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/270.json",
+           "bill_number": "H R 2578",
+           "question": "On Agreeing to the Amendment", 
+           "description": "McClintock of California Amendment",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-02",
+           "time": "18:38:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "0",
+             "no": "177",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "154",
+             "no": "86",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "154",
+             "no": "263",
+             "present": "0",
+             "not_voting": "15"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "269",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/269.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-02",
+           "time": "14:01:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "100",
+             "no": "76",
+             "present": "1",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "140",
+             "no": "94",
+             "present": "1",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "240",
+             "no": "170",
+             "present": "2",
+             "not_voting": "20"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "268",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/268.json",
+           "bill_number": "H RES 287",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the bill (H.R. 2577) making appropriations for the Dept. of Transportation, and Housing and Urban Development for FY ending Sept. 30, 2016 and providing for consideration of the bill (H.R. 2578) making appropriations for the Dept. Commerce and Justice, Science for FY ending Sept. 30, 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-02",
+           "time": "13:53:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "180",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "239",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "242",
+             "no": "180",
+             "present": "0",
+             "not_voting": "10"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "267",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/267.json",
+           "bill_number": "H R 1335",
+           "question": "On Passage", 
+           "description": "To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide flexibility for fishery managers and stability for fisherman, and for other purposes.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-01",
+           "time": "19:41:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "5",
+             "no": "149",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "220",
+             "no": "3",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "225",
+             "no": "152",
+             "present": "0",
+             "not_voting": "55"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "266",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/266.json",
+           "bill_number": "H R 1335",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide flexibility for fishery managers and stability for fisherman, and for other purposes.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2015-06-01",
+           "time": "19:31:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "155",
+             "no": "0",
+             "present": "0",
+             "not_voting": "33",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "223",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "155",
+             "no": "223",
+             "present": "0",
+             "not_voting": "54"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "265",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/265.json",
+           "bill_number": "H R 1335",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Lowenthal of California Amendment No. 4",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-01",
+           "time": "19:12:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "149",
+             "no": "5",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "222",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "149",
+             "no": "227",
+             "present": "0",
+             "not_voting": "56"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "1",
+           "roll_call": "264",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/1/votes/264.json",
+           "bill_number": "H R 1335",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Dingell of Michigan Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2015-06-01",
+           "time": "19:02:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "155",
+             "no": "1",
+             "present": "0",
+             "not_voting": "32",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "0",
+             "no": "222",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "155",
+             "no": "223",
+             "present": "0",
+             "not_voting": "54"
+            }
+          }
+         ]
+    }
+}

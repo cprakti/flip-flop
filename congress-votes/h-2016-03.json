@@ -1,0 +1,1416 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "year": "2016",
+      "month": "March",
+      "num_results": "36",
+      "votes": [
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "138",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/138.json",
+           "bill_number": "H RES 658",
+           "question": "On Motion to Suspend the Rules and Agree", 
+           "description": "Condemning in the strongest terms the terrorist attacks in Brussels on March 22, 2016, which murdered more than 30 innocent people, and severely wounded many more",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-23",
+           "time": "11:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "177",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "409",
+             "no": "0",
+             "present": "0",
+             "not_voting": "24"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "137",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/137.json",
+           "bill_number": "H R 2745",
+           "question": "On Passage", 
+           "description": "Standard Merger and Acquisition Reviews Through Equal Rules Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-23",
+           "time": "11:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "5",
+             "no": "170",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "1",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "171",
+             "present": "0",
+             "not_voting": "27"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "136",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/136.json",
+           "bill_number": "H R 2745",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Standard Merger and Acquisition Reviews Through Equal Rules Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-23",
+           "time": "11:00:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "5",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "2",
+             "no": "230",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "174",
+             "no": "235",
+             "present": "0",
+             "not_voting": "24"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "135",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/135.json",
+           "bill_number": "H R 4336",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "To amend title 38, United States Code, to provide for the burial of the cremated remains of persons who served as Women’s Air Forces Service Pilots in Arlington National Cemetery",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-22",
+           "time": "15:34:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "153",
+             "no": "0",
+             "present": "0",
+             "not_voting": "35",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "232",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "385",
+             "no": "0",
+             "present": "0",
+             "not_voting": "48"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "134",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/134.json",
+           "bill_number": "H R 4755",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-22",
+           "time": "15:27:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "154",
+             "no": "0",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "226",
+             "no": "3",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "380",
+             "no": "3",
+             "present": "0",
+             "not_voting": "50"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "133",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/133.json",
+           "bill_number": "H R 4742",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Promoting Women in Entrepreneurship Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-22",
+           "time": "15:21:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "154",
+             "no": "0",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "4",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "383",
+             "no": "4",
+             "present": "0",
+             "not_voting": "46"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "132",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/132.json",
+           "bill_number": "H RES 653",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 2745, the Standard Merger and Acquisition Reviews Through Equal Rules Act of 2015; and providing for proceedings during the period from March 24, 2016, through April 11, 2016",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-22",
+           "time": "15:14:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "154",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "154",
+             "present": "0",
+             "not_voting": "46"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "131",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/131.json",
+           "bill_number": "H RES 653",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 2745, the Standard Merger and Acquisition Reviews Through Equal Rules Act of 2015; and providing for proceedings during the period from March 24, 2016, through April 11, 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-22",
+           "time": "15:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "154",
+             "present": "0",
+             "not_voting": "34",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "0",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "231",
+             "no": "154",
+             "present": "0",
+             "not_voting": "48"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "130",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/130.json",
+           "bill_number": "H R 4314",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "Counterterrorism Screening and Assistance Act of 2016",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-21",
+           "time": "18:50:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "143",
+             "no": "0",
+             "present": "0",
+             "not_voting": "45",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "2",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "371",
+             "no": "2",
+             "present": "0",
+             "not_voting": "60"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "129",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/129.json",
+           "bill_number": "H RES 639",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15-674",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-17",
+           "time": "12:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "5",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "186",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "128",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/128.json",
+           "bill_number": "H RES 649",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of the resolution (H.Res. 639) authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15-674",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-17",
+           "time": "10:50:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "180",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "180",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "127",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/127.json",
+           "bill_number": "H RES 649",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of the resolution (H.Res. 639) authorizing the Speaker to appear as amicus curiae on behalf of the House of Representatives in the matter of United States, et al. v. Texas, et al., No. 15-674",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-17",
+           "time": "10:43:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "181",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "234",
+             "no": "181",
+             "present": "0",
+             "not_voting": "18"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "126",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/126.json",
+           "bill_number": "H R 4434",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To extend the deadline for commencement of construction of a hydroelectric project",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-16",
+           "time": "13:35:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "179",
+             "no": "1",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "417",
+             "no": "2",
+             "present": "0",
+             "not_voting": "14"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "125",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/125.json",
+           "bill_number": "H R 4416",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To extend the deadline for commencement of construction of a hydroelectric project",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-16",
+           "time": "13:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "238",
+             "no": "1",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "418",
+             "no": "2",
+             "present": "0",
+             "not_voting": "13"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "124",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/124.json",
+           "bill_number": "H R 4596",
+           "question": "On Passage", 
+           "description": "Small Business Broadband Deployment Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-16",
+           "time": "13:22:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "180",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "0",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "411",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "123",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/123.json",
+           "bill_number": "H R 3797",
+           "question": "On Passage", 
+           "description": "Satisfying Energy Needs and Saving the Environment Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "16:31:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "3",
+             "no": "175",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "8",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "231",
+             "no": "183",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "122",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/122.json",
+           "bill_number": "H R 3797",
+           "question": "On Motion to Recommit with Instructions", 
+           "description": "Satisfying Energy Needs and Saving the Environment Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "16:26:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "172",
+             "no": "1",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "1",
+             "no": "235",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "173",
+             "no": "236",
+             "present": "0",
+             "not_voting": "24"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "121",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/121.json",
+           "bill_number": "H R 3797",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Veasey of Texas Part B Amendment No. 5",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "16:08:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "178",
+             "no": "1",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "233",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "182",
+             "no": "234",
+             "present": "0",
+             "not_voting": "17"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "120",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/120.json",
+           "bill_number": "H R 3797",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Bera of California Part B Amendment No. 3",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "16:04:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "176",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "3",
+             "no": "234",
+             "present": "0",
+             "not_voting": "9",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "179",
+             "no": "235",
+             "present": "0",
+             "not_voting": "19"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "119",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/119.json",
+           "bill_number": "H R 3797",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pallone of New Jersey Part B Amendment No. 2",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "15:59:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "171",
+             "no": "3",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "4",
+             "no": "230",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "175",
+             "no": "233",
+             "present": "0",
+             "not_voting": "25"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "118",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/118.json",
+           "bill_number": "H R 3797",
+           "question": "On Agreeing to the Amendment", 
+           "description": "Pallone of New Jersey Part B Amendment No. 1",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "15:55:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": "160",
+             "no": "3",
+             "present": "0",
+             "not_voting": "25",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "6",
+             "no": "221",
+             "present": "0",
+             "not_voting": "19",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "166",
+             "no": "224",
+             "present": "0",
+             "not_voting": "43"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "117",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/117.json",
+           "bill_number": "H R 3447",
+           "question": "On Motion to Suspend the Rules and Pass, as Amended", 
+           "description": "To extend the deadline for commencement of construction of a hydroelectric project",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-15",
+           "time": "14:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "176",
+             "no": "2",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "230",
+             "no": "1",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "406",
+             "no": "3",
+             "present": "0",
+             "not_voting": "24"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "116",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/116.json",
+           "bill_number": "H R 2081",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To extend the deadline for commencement of construction of a hydroelectric project involving the Gibson Dam",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-15",
+           "time": "14:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "176",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "1",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "410",
+             "no": "2",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "115",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/115.json",
+           "bill_number": "H RES 640",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 4596, the Small Business Boradband Deployment Act and H.R. 3797, the Satisfying Energy Needs and Saving the Environment Act",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-15",
+           "time": "14:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "1",
+             "no": "176",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "234",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "176",
+             "present": "0",
+             "not_voting": "22"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "114",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/114.json",
+           "bill_number": "H RES 640",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 4596, the Small Business Boradband Deployment Act and H.R. 3797, the Satisfying Energy Needs and Saving the Environment Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-15",
+           "time": "13:53:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "177",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "177",
+             "present": "0",
+             "not_voting": "21"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "113",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/113.json",
+           "bill_number": "H CON RES 121",
+           "question": "On Motion to Suspend the Rules and Agree, as Amended", 
+           "description": "Expressing the sense of the Congress condemning the gross violations of international law amounting to war crimes and crimes against humanity by the Government of Syria, its allies, and other parties to the conflict in Syria",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-14",
+           "time": "19:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "164",
+             "no": "1",
+             "present": "0",
+             "not_voting": "23",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "228",
+             "no": "2",
+             "present": "0",
+             "not_voting": "16",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "392",
+             "no": "3",
+             "present": "0",
+             "not_voting": "38"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "112",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/112.json",
+           "bill_number": "H CON RES 75",
+           "question": "On Motion to Suspend the Rules and Agree, as Amended", 
+           "description": "Expressing the sense of Congress that those who commit or support atrocities against Christians and other ethnic and religious minorities and who target them specifically for ethnic or religious reasons, are committing, and are hereby declared to be committing, “war crimes”, “crimes against humanity”, and “genocide”.",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-14",
+           "time": "18:54:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "164",
+             "no": "0",
+             "present": "0",
+             "not_voting": "24",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "229",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "393",
+             "no": "0",
+             "present": "0",
+             "not_voting": "40"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "111",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/111.json",
+           "bill_number": "S 2426",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To direct the Secretary of State to develop a strategy to obtain observer status for Taiwan in the International Criminal Police Organization, and for other purposes",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-14",
+           "time": "18:47:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "156",
+             "no": "0",
+             "present": "0",
+             "not_voting": "32",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "225",
+             "no": "0",
+             "present": "0",
+             "not_voting": "21",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "381",
+             "no": "0",
+             "present": "0",
+             "not_voting": "52"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "110",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/110.json",
+           "bill_number": "JOURNAL",
+           "question": "On Approving the Journal", 
+           "description": "",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-03",
+           "time": "11:48:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "94",
+             "no": "64",
+             "present": "1",
+             "not_voting": "29",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "123",
+             "no": "90",
+             "present": "0",
+             "not_voting": "33",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "217",
+             "no": "154",
+             "present": "1",
+             "not_voting": "61"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "109",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/109.json",
+           "bill_number": "H R 4557",
+           "question": "On Passage", 
+           "description": "Blocking Regulatory Interference from Closing Kilns Act of 2016",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-03",
+           "time": "11:40:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "7",
+             "no": "163",
+             "present": "0",
+             "not_voting": "18",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "231",
+             "no": "0",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "238",
+             "no": "163",
+             "present": "0",
+             "not_voting": "32"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "108",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/108.json",
+           "bill_number": "S 1826",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Lieutenant Colonel James “Maggie” Megellas Post Office",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-03",
+           "time": "10:39:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "173",
+             "no": "0",
+             "present": "0",
+             "not_voting": "15",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "1",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "406",
+             "no": "1",
+             "present": "0",
+             "not_voting": "26"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "107",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/107.json",
+           "bill_number": "H RES 635",
+           "question": "On Agreeing to the Resolution", 
+           "description": "Providing for consideration of H.R. 4557, the Blocking Regulatory Interference from Closing Kilns Act of 2016; and providing for proceedings during the period from March 4, 2016, through March 11, 2016.",
+           "vote_type": "RECORDED VOTE",
+           "date": "2016-03-03",
+           "time": "10:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "2",
+             "no": "173",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "235",
+             "no": "173",
+             "present": "0",
+             "not_voting": "25"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "106",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/106.json",
+           "bill_number": "H RES 635",
+           "question": "On Ordering the Previous Question", 
+           "description": "Providing for consideration of H.R. 4557, the Blocking Regulatory Interference from Closing Kilns Act of 2016; and providing for proceedings during the period from March 4, 2016, through March 11, 2016.",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-03",
+           "time": "10:26:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "0",
+             "no": "174",
+             "present": "0",
+             "not_voting": "14",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "233",
+             "no": "0",
+             "present": "0",
+             "not_voting": "13",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "233",
+             "no": "174",
+             "present": "0",
+             "not_voting": "26"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "105",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/105.json",
+           "bill_number": "H R 3716",
+           "question": "On Passage", 
+           "description": "Ensuring Removal of Terminated Providers from Medicaid and CHIP Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2016-03-02",
+           "time": "17:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "171",
+             "no": "0",
+             "present": "0",
+             "not_voting": "17",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "235",
+             "no": "0",
+             "present": "0",
+             "not_voting": "11",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "406",
+             "no": "0",
+             "present": "0",
+             "not_voting": "27"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "104",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/104.json",
+           "bill_number": "H R 3735",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "Maya Angelou Memorial Post Office",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-01",
+           "time": "14:32:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "166",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "205",
+             "no": "9",
+             "present": "1",
+             "not_voting": "31",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "371",
+             "no": "9",
+             "present": "1",
+             "not_voting": "52"
+            }
+          },
+        {
+           "congress": "114",
+           "session": "2",
+           "roll_call": "103",
+           "vote_uri": "https://api.propublica.org/congress/v1/114/house/sessions/2/votes/103.json",
+           "bill_number": "H R 136",
+           "question": "On Motion to Suspend the Rules and Pass", 
+           "description": "To designate the facility of the United States Postal Service located at 1103 USPS Building 1103 in Camp Pendleton, California, as the “Camp Pendleton Medal of Honor Post Office”.",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2016-03-01",
+           "time": "14:22:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": "166",
+             "no": "0",
+             "present": "0",
+             "not_voting": "22",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "215",
+             "no": "0",
+             "present": "0",
+             "not_voting": "31",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "381",
+             "no": "0",
+             "present": "0",
+             "not_voting": "52"
+            }
+          }
+         ]
+    }
+}
