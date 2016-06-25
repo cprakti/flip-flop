@@ -2,7 +2,7 @@ Issue.delete_all
 Politician.delete_all
 PoliticianIssue.delete_all
 
-["Gun Control", "Immigration", "Healthcare", "Social Justice", "Economy"].each do |word|
+["Gun Control", "Immigration", "Healthcare", "LGBT", "Economy"].each do |word|
 Issue.create(name: word)
 end
 

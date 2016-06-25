@@ -1,11 +1,11 @@
-require 'twitter'
+# require 'twitter'
 
-$client = Twitter::REST::Client.new do |config|
-    config.consumer_key        = TWITTER_CONSUMER_KEY
-    config.consumer_secret     = TWITTER_CONSUMER_SECRET
-    config.access_token        = TWITTER_ACCESS_TOKEN
-    config.access_token_secret = TWITTER_ACCESS_TOKEN_SECRET
-    end
+# $client = Twitter::REST::Client.new do |config|
+#     config.consumer_key        = TWITTER_CONSUMER_KEY
+#     config.consumer_secret     = TWITTER_CONSUMER_SECRET
+#     config.access_token        = TWITTER_ACCESS_TOKEN
+#     config.access_token_secret = TWITTER_ACCESS_TOKEN_SECRET
+#     end
 
     #     def collect_with_max_id(collection=[], max_id=nil, &block)
 #   response = yield(max_id)

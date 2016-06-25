@@ -3,6 +3,10 @@ class ApplicationController < ActionController::Base
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
 
+  require 'twitter'
+
+
+
   # before_filter :get_all_tweets
 
   # def collect_with_max_id(collection=[], max_id=nil, &block)
