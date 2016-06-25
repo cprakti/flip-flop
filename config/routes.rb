@@ -1,4 +1,14 @@
 Rails.application.routes.draw do
+
+  resources :politicians do
+    resources :issues
+  end
+
+  resources :issues do
+    resources :politicians
+  end
+
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
