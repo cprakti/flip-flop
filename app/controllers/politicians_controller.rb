@@ -4,20 +4,13 @@ class PoliticiansController < ApplicationController
     @politician = Politician.find_by(id: params[:id])
 
     client = Twitter::REST::Client.new do |config|
-    config.consumer_key        = "FItvkTJndpOawAnm6RtrxYVT7"
-    config.consumer_secret     = "Y0neV0epRp2AEtjyK4z3k6R397PeLyypnxuuXLc4jEF1pInvEw"
-    config.access_token        = "281426689-n5SEh2TFZPAMnxlD76nmRkGBxHtgaDQVm95CphGa"
-    config.access_token_secret = "2pHmgkR0UIBR4EwdRQLidy511fvnL3qcgxtGHtHq807Gl"
+    config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
+    config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
+    config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
+    config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
     end
 
-    # client = Twitter::REST::Client.new do |config|
-    # config.consumer_key        = TWITTER_CONSUMER_KEY
-    # config.consumer_secret     = TWITTER_CONSUMER_SECRET
-    # config.access_token        = TWITTER_ACCESS_TOKEN
-    # config.access_token_secret = TWITTER_ACCESS_TOKEN_SECRET
-    # end
-
-    ## The 2 methods we use to parse all 3200 tweets. But the load time will be long, so for now, we're only parsing 40.
+    ## The 2 methods we use to parse all 3200 tweets. But the load time will be long, so for now while we test, we're only parsing 40.
 
     # def collect_with_max_id(collection=[], max_id=nil, &block)
     #   response = yield(max_id)
