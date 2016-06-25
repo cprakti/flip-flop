@@ -2,7 +2,7 @@
 
 <ul>
 <% @tweets.each do |tweet| %>
-<li><%= tweet.full_text %></li>
-<li><%= tweet.user.name %></li>
+<li><%= tweet.full_text %> |
+<%= tweet.created_at.strftime('%B %e, %Y') %></li>
 <% end %>
 </ul>
