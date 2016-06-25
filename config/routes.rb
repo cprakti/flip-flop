@@ -1,10 +1,10 @@
 Rails.application.routes.draw do
 
-  resources :politicians
+  resources :politicians do
     resources :issues
   end
 
-  resources :issues
+  resources :issues do
     resources :politicians
   end
 

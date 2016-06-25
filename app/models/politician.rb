@@ -1,6 +1,6 @@
 class Politician < ActiveRecord::Base
   has_many :politicianissues
-  has_many :issues, through :politicianissues
+  has_many :issues, through: :politicianissues
 
 
   # def politician_tweets(politician)
