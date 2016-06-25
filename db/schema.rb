@@ -11,22 +11,28 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160624233913) do
+ActiveRecord::Schema.define(version: 20160625182715) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "issues", force: :cascade do |t|
-    t.string   "name",       null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
-  create_table "politician_issues", force: :cascade do |t|
+  create_table "interests", force: :cascade do |t|
     t.integer  "politician_id"
     t.integer  "issue_id"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
+  end
+
+  create_table "issues", force: :cascade do |t|
+    t.string   "name",                    null: false
+    t.string   "keywords",   default: [],              array: true
+    t.datetime "created_at",              null: false
+    t.datetime "updated_at",              null: false
+  end
+
+  create_table "legislators", force: :cascade do |t|
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
   create_table "politicians", force: :cascade do |t|
@@ -34,6 +40,7 @@ ActiveRecord::Schema.define(version: 20160624233913) do
     t.string   "political_party", null: false
     t.string   "title",           null: false
     t.string   "twitter_handle",  null: false
+    t.string   "twitter_profile", null: false
     t.datetime "created_at",      null: false
     t.datetime "updated_at",      null: false
   end

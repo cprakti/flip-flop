@@ -1,0 +1,7 @@
+<h1> List of all Politicians </h1>
+
+<ul>
+  <% @politicians.each do |politician| %>
+    <li> <%= link_to "#{politician.name}", politician_path(politician)  %> </li>
+  <% end %>
+</ul>

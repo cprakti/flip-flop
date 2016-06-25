@@ -1,4 +1,24 @@
-<h1> <%= @politician.name %> </h1>
+<h1>Politician Name: <%= @politician.name %>  </h1>
+
+<h2>Twitter Handle: @<%= @politician.twitter_handle %> </h2>
+<h2>Twitter Profile: <%= @politician.twitter_profile %> </h2>
+
+<h2> [Insert cool D3 Bar Graph] </h2>
+
+<h2> <%= @politician.name %>'s Key Issues:</h2>
+
+<h2>
+  <ol>
+    <% @politician.issues.each do |issue| %>
+
+    <li> <%=  link_to "#{issue.name}", interest_path(issue, :politician_id => @politician.id) %> </li>
+
+
+    <% end %>
+  </ol>
+</h2>
+
+<h2> All of <%= @politician.name %>'s recent tweets (not issue-specific): </h2>
 
 <ul>
 <% @tweets.each do |tweet| %>
@@ -6,3 +26,5 @@
 <%= tweet.created_at.strftime('%B %e, %Y') %></li>
 <% end %>
 </ul>
+
+

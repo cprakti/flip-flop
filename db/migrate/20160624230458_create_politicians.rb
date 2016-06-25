@@ -5,6 +5,7 @@ class CreatePoliticians < ActiveRecord::Migration
       t.string :political_party, null: false
       t.string :title, null: false
       t.string :twitter_handle, null: false
+      t.string :twitter_profile, null: false
 
       t.timestamps null: false
     end
