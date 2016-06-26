@@ -10,7 +10,6 @@ Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", 
 
 
 Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: File.open(File.join(Rails.root, '/app/assets/images/diana.jpg')) )
->>>>>>> Fix carrierwave functionality with seeding photos in politician table
 
 Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image: File.open(File.join(Rails.root, '/app/assets/images/hillary_clinton.jpg')) )
 
