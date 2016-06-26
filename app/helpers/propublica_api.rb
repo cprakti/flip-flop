@@ -1,7 +1,7 @@
 require 'json'
 require 'open-uri'
 
-module PropublicaAPI
+module ProPublicaAPI
 
   def self.request(endpoint)
     JSON.parse(open("https://api.propublica.org#{endpoint}", "X-API-Key" => ENV["PROPUBLICA_API_KEY"]).read)
@@ -13,8 +13,11 @@ module PropublicaAPI
   end
 
   def self.roll_call_vote(congress, chamber, session_number, roll_call_number)
-    endpoint = "/congress/v1/#{congress}/#{chamber}/sessions/#{session_number}/votes/#{roll_call_number}.json"
-    request(endpoint)
+    if (congress != nil && chamber != nil && session_number != nil && roll_call_number != nil)
+      chamber = chamber.downcase
+      endpoint = "/congress/v1/#{congress}/#{chamber}/sessions/#{session_number}/votes/#{roll_call_number}.json"
+      request(endpoint)
+    end
   end
 
   def self.bills(congress, bill_id)
