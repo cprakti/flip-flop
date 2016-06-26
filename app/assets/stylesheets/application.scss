@@ -28,7 +28,7 @@
 
 #homepage-tab .tab-content {
   color : white;
-  background-color: #428bca;
+  background-color: #432c6f;
   padding : 5px 15px;
 }
 
@@ -61,10 +61,11 @@
   text-align: center;
 }
 
-#footer {
-  text-align: center;
-  font-size: 11px;
+.footer, .push {
+  height: 155px;
 }
+
+
 
 // boostrap magic below
 
