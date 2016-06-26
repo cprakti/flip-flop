@@ -4,10 +4,9 @@
 
 require 'propublica_api'
 
-Issue.delete_all
-Politician.delete_all
-Interest.delete_all
-
+# Issue.delete_all
+# Politician.delete_all
+# Interest.delete_all
 
 #   client = Twitter::REST::Client.new do |config|
 #   config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
@@ -29,8 +28,6 @@ Interest.delete_all
 # paul_ryan_tweets = client.get_all_tweets("speakerryan")
 # ted_cruz_tweets = client.get_all_tweets("sentedcruz")
 
-
-
 Issue.create(name: "Gun Laws", keywords: ["second amendment", "gun", "guns", "firearms", "fire arms", "shooting", "shootings", "mass shootings", "gun violence", "endgunviolence", "disarmhate", "2nd amendment", "gun violence prevention laws", "nra", "gun show loophole", "gun show", "mass shootings"], image: "issue_twitter_gunlaws.png")
 
 Issue.create(name: "Immigration", keywords: ["immigration" "immigrant", "refugee", "refugees", "deportation", "undocumented", "undocumented immigrant", "illegal immigrant", "illegals", "border", "border control", "detention center", "amnesty", "sanctuary city", "sanctuary cities"], image: "issue_twitter_immigration.png")
@@ -41,29 +38,25 @@ Issue.create(name: "Economy", keywords: ["economy", "tax", "taxes", "raise", "mi
 
 Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", "healthcare", "health care", "aca", "obama care", "medicare", "medicaid", "affordable coverage", "affordable care", "high quality care", "high-quality care", "healthcare premium", "insurance companies", "insurance company"], image: "issue_twitter_healthcare.png")
 
-
-
 Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: 'diana.png')
 
 Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image:'hillary_clinton.png')
 
-
 Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: 'bernie_sanders.png')
-
 
 Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: 'elizabeth_warren.png')
 
-
-
 Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: 'donald_trump.png')
-
 
 Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: 'paul_ryan.png')
 
-
 Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.png')
 
-
+Politician.all.each do |p|
+  Issue.all.each do |i|
+    Interest.create(politician_id: p.id, issue_id: i.id)
+  end
+end
 
 votes_array = ['h-2015-01.json', 'h-2015-02.json', 'h-2015-03.json', 'h-2015-04.json', 'h-2015-05.json', 'h-2015-06.json', 'h-2015-07.json', 'h-2015-08.json', 'h-2015-09.json', 'h-2015-10.json', 'h-2015-11.json', 'h-2015-12.json', 'h-2016-01.json', 'h-2016-02.json', 'h-2016-03.json', 'h-2016-04.json', 'h-2016-05.json', 'h-2016-06.json', 's-2015-01.json', 's-2015-02.json', 's-2015-03.json', 's-2015-04.json', 's-2015-05.json', 's-2015-06.json', 's-2015-07.json', 's-2015-08.json', 's-2015-09.json', 's-2015-10.json', 's-2015-11.json', 's-2015-12.json', 's-2016-01.json', 's-2016-02.json', 's-2016-03.json', 's-2016-04.json', 's-2016-05.json', 's-2016-06.json']
 
@@ -94,21 +87,6 @@ votes_array.each do |bill_vote|
       total_no: vote['total']['no'],
       total_present: vote['total']['no'],
       total_not_voting: vote['total']['not_voting']
-      )
-  end
-end
-
-# Vote.all.each do |vote|
-votes = Vote.all
-first_ten_votes = votes[0..10]
-first_ten_votes.each do |vote|
-  vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
-  vote_positions['results']['votes']['vote']['positions'].map do |position|
-    # binding.pry
-    Position.create(
-      vote_id: vote.id,
-      bioguide_id: position['member_id'],
-      vote_position: position['vote_position']
       )
   end
 end
@@ -153,11 +131,10 @@ legislators = ProPublicaAPI.legislators(114, 'senate')
       )
   end
 
-# Vote.all.each do |vote|
-votes = Vote.all
-first_ten_votes = votes[0..10]
+Vote.all.each do |vote|
+# votes = Vote.all
+# first_ten_votes = votes[0..10]
 first_ten_votes.each do |vote|
-  # binding.pry
   bill = ProPublicaAPI.bills(vote.congress, vote.official_bill_id.downcase.gsub(/\s+/, "") )
     temp_bill = Bill.create(
       congress: bill['results'][0]['congress'],
@@ -173,19 +150,23 @@ first_ten_votes.each do |vote|
       )
     vote.update_attributes(bill_id: temp_bill.id)
 
-  bill['results'][0]['subjects'].map do |subject|
-    temp_subject = Subject.find_or_create_by(
-      name: subject['name']
+  vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
+  vote_positions['results']['votes']['vote']['positions'].map do |position|
+    temp_position = Position.create(
+      vote_id: vote.id,
+      bioguide_id: position['member_id'],
+      vote_position: position['vote_position']
       )
-    BillsSubject.create(
-      subject_id: temp_subject.id,
-      bill_id: temp_bill.id
-      )
-  end
-end
 
-Politician.all.each do |p|
-  Issue.all.each do |i|
-    Interest.create(politician_id: p.id, issue_id: i.id)
+    bill['results'][0]['subjects'].map do |subject|
+      temp_subject = Subject.find_or_create_by(
+        name: subject['name']
+        )
+      PositionsSubject.create(
+        subject_id: temp_subject.id,
+        position_id: temp_position.id
+        )
+    end
   end
+
 end

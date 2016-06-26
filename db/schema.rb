@@ -13,7 +13,6 @@
 
 ActiveRecord::Schema.define(version: 20160627201353) do
 
-
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
@@ -48,10 +47,18 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "interests", force: :cascade do |t|
+    t.integer  "politician_id", null: false
+    t.integer  "issue_id",      null: false
+    t.datetime "created_at",    null: false
+    t.datetime "updated_at",    null: false
+  end
+
   create_table "issues", force: :cascade do |t|
-    t.string   "name",       null: false
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.string   "name",                    null: false
+    t.string   "keywords",   default: [],              array: true
+    t.datetime "created_at",              null: false
+    t.datetime "updated_at",              null: false
   end
 
   create_table "legislators", force: :cascade do |t|
@@ -73,13 +80,6 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.datetime "updated_at",           null: false
   end
 
-  create_table "politician_issues", force: :cascade do |t|
-    t.integer  "politician_id"
-    t.integer  "issue_id"
-    t.datetime "created_at",    null: false
-    t.datetime "updated_at",    null: false
-  end
-
   create_table "politicians", force: :cascade do |t|
     t.string   "name",                         null: false
     t.string   "political_party",              null: false
@@ -98,6 +98,13 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.string   "vote_position"
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
+  end
+
+  create_table "positions_subjects", force: :cascade do |t|
+    t.integer  "position_id"
+    t.integer  "subject_id"
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
   end
 
   create_table "subjects", force: :cascade do |t|
