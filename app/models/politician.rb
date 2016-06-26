@@ -4,6 +4,7 @@ class Politician < ActiveRecord::Base
 
   validates :name, :political_party, :title, :twitter_handle, :twitter_profile, presence: true
 
+  mount_uploader :avatar, AvatarUploader
   # attr_reader :all_tweets
 
   # $client = Twitter::REST::Client.new do |config|
