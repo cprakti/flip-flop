@@ -8,6 +8,37 @@
 <h2>Photo: </h2> <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
 
 
+<div class="chart">
+</div>
+
+<script>
+function draw(data){
+  d3.select( ".chart" )
+    .selectAll( "div" )
+      .data( data )
+    .enter().append( "div" )
+      .style( "width", function(d) { return d * 10 + "px"; })
+      .text( function(d) { return d; });
+  }
+
+  function error(){
+    console.log("error");
+  }
+      
+      $.ajax({
+           type: "GET",
+           contentType: "application/json; charset=utf-8",
+           url: '/graph/tweet_data',
+           dataType: 'json',
+           success: function(data) {
+               draw(data);
+           },
+           error: function (result) {
+               error();
+           }
+       });
+</script>
+
 <h2> <%= @politician.name %>'s Key Issues:</h2>
 
 <h2>
