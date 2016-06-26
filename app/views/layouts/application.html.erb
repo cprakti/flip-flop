@@ -8,13 +8,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 </head>
 <body>
-<%= link_to "Home", root_path %> |
+<div id="top-space"></div>
+
+<p><%= link_to "Home", root_path %> |
 <%= link_to "Issues", issues_path %> |
-<%= link_to "Politicians", politicians_path %>
+<%= link_to "Politicians", politicians_path %></p>
 
 <%= yield %>
-
   <footer id="footer">&copy; 2016 | <%= link_to "about", about_path %></footer>
-
+  
+<div id="bottom-space"></div>
 </body>
 </html>

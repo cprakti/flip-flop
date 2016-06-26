@@ -1,10 +1,23 @@
+<div class="container">
 
-<h1> Politician Name: <%= @politician.name %> </h1>
+  <div class="row">
+    <div class="col-xs-6">
+      <div class="circle"></div>
+      <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
+    </div>
+    
+    <div class="col-xs-6">
+      <div class="circle"></div>
+    </div>
 
-<h1> Issue: <%= @issue.name %> </h1>
-<%= link_to "#{@politician.name} Main Page", politician_path(@politician) %>
+  </div>
 
-<h1> <%= @politician.name %>'s Tweets on "<%= @issue.name %>": </h1>
+
+    <h3><%= link_to "#{@politician.name}", politician_path(@politician) %></h3>
+    <p>@<%= @politician.twitter_handle %> </p>
+    <p><%= @politician.twitter_profile %> </p>
+
+
 
 <% result_bucket = [] %>
 
@@ -16,9 +29,17 @@
   <% end %>
 <% end %>
 
-<ul>
-<% result_bucket.each do |tweet| %>
-  <li> <%= tweet.full_text %> | <%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %> </li>
-<% end %>
+<ul class="list-unstyled">
+
+  <div class="tweet-container">
+    <% result_bucket.each do |tweet| %>
+    <div class="individual-tweet">
+      <li><%= tweet.full_text %> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
+    </div>
+    <% end %>
+  </div>
+
 </ul>
 
+
+</div>
