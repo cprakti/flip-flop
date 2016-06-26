@@ -17,8 +17,8 @@ ActiveRecord::Schema.define(version: 20160626021310) do
   enable_extension "plpgsql"
 
   create_table "interests", force: :cascade do |t|
-    t.integer  "politician_id"
-    t.integer  "issue_id"
+    t.integer  "politician_id", null: false
+    t.integer  "issue_id",      null: false
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
   end

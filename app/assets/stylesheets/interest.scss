@@ -1,3 +1,30 @@
 // Place all the styles related to the Interest controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.politican-tweet-issue-text {
+  border-bottom: 1px solid grey;
+}
+
+
+.tweet-timestamp {
+ font-style: italic;
+ font-size: 12px; 
+}
+
+
+.tweet-container {
+  border-left: 1px solid #55acee;
+  border-right: 1px solid #55acee;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.individual-tweet {
+  border-top: 1px solid #55acee;
+  border-bottom: 1px solid #55acee;
+  padding: 5%;
+}
+
+

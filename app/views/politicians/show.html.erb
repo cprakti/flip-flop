@@ -1,4 +1,5 @@
-<h1>Politician Name: <%= @politician.name %>  </h1>
+<div class="container">
+  <h2>Politician Name: <%= @politician.name %> </h2>
 
 
 <h2>Twitter Handle: @<%= @politician.twitter_handle %> </h2>
@@ -6,7 +7,6 @@
 
 <h2>Photo: </h2> <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
 
-<h2> [Insert cool D3 Bar Graph] </h2>
 
 <h2> <%= @politician.name %>'s Key Issues:</h2>
 
@@ -19,7 +19,11 @@
 
     <% end %>
   </ol>
+
+
+ <% @polit 
 </h2>
 
+</div>
 
 
