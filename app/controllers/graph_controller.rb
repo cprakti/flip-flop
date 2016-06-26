@@ -7,7 +7,7 @@ class GraphController < ApplicationController
     # point2 = model_method(2)
     respond_to do |format|
       format.json {
-        render :json => [point1, point2, point3, point4]
+        render :json => [55,66,77]
       }
     end
   end
