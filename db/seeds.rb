@@ -10,14 +10,15 @@ Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", 
 
 
 
-Politician.create(name: "Diana Eromosele", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "lecturestobeats", twitter_profile: "ABCD"  )
+Politician.create(name: "Diana Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Web/Software Developer-In-Training at @Devbootcamp | Former journo at @theroot | Social Content Creator at @universum_eb | Host/Producer of Lectures to Beats"  )
 
 Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "ABCD"   )
-Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "Make America Great again."   )
-Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Blah Blah Blah"    )
-Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Socialism is the bomb"  )
-Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "I should've ran."    )
-Politician.create(name: "Barack Obama", political_party: "Democrat", title: "President", twitter_handle: "barackobama", twitter_profile: "GOAT"    )
+Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H"   )
+Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan."    )
+Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff."  )
+Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts."    )
+Politician.create(name: "Barack Obama", political_party: "Democrat", title: "President", twitter_handle: "barackobama", twitter_profile: "This account is run by Organizing for Action staff. Tweets from the President are signed -bo."    )
+Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "tedcruz", twitter_profile: "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate."    )
 
 Interest.create(politician_id: 1, issue_id: 1)
 Interest.create(politician_id: 2, issue_id: 1)
@@ -26,6 +27,7 @@ Interest.create(politician_id: 4, issue_id: 1)
 Interest.create(politician_id: 5, issue_id: 1)
 Interest.create(politician_id: 6, issue_id: 1)
 Interest.create(politician_id: 7, issue_id: 1)
+Interest.create(politician_id: 8, issue_id: 1)
 
 Interest.create(politician_id: 1, issue_id: 2)
 Interest.create(politician_id: 2, issue_id: 2)
@@ -34,6 +36,7 @@ Interest.create(politician_id: 4, issue_id: 2)
 Interest.create(politician_id: 5, issue_id: 2)
 Interest.create(politician_id: 6, issue_id: 2)
 Interest.create(politician_id: 7, issue_id: 2)
+Interest.create(politician_id: 8, issue_id: 2)
 
 Interest.create(politician_id: 1, issue_id: 3)
 Interest.create(politician_id: 2, issue_id: 3)
@@ -42,6 +45,7 @@ Interest.create(politician_id: 4, issue_id: 3)
 Interest.create(politician_id: 5, issue_id: 3)
 Interest.create(politician_id: 6, issue_id: 3)
 Interest.create(politician_id: 7, issue_id: 3)
+Interest.create(politician_id: 8, issue_id: 3)
 
 Interest.create(politician_id: 1, issue_id: 4)
 Interest.create(politician_id: 2, issue_id: 4)
@@ -50,6 +54,7 @@ Interest.create(politician_id: 4, issue_id: 4)
 Interest.create(politician_id: 5, issue_id: 4)
 Interest.create(politician_id: 6, issue_id: 4)
 Interest.create(politician_id: 7, issue_id: 4)
+Interest.create(politician_id: 8, issue_id: 4)
 
 Interest.create(politician_id: 1, issue_id: 5)
 Interest.create(politician_id: 2, issue_id: 5)
@@ -58,5 +63,6 @@ Interest.create(politician_id: 4, issue_id: 5)
 Interest.create(politician_id: 5, issue_id: 5)
 Interest.create(politician_id: 6, issue_id: 5)
 Interest.create(politician_id: 7, issue_id: 5)
+Interest.create(politician_id: 8, issue_id: 5)
 
 
