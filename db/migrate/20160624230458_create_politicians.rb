@@ -7,6 +7,7 @@ class CreatePoliticians < ActiveRecord::Migration
       t.string :twitter_handle, null: false
       t.string :twitter_profile, null: false
 
+
       t.timestamps null: false
     end
   end
