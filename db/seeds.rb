@@ -10,16 +10,23 @@ Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", 
 
 
 
-Politician.create(name: "Diana Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Web/Software Developer-In-Training at @Devbootcamp | Former journo at @theroot | Social Content Creator at @universum_eb | Host/Producer of Lectures to Beats"  )
+Politician.create(name: "Diana Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Web/Software Developer-In-Training at @Devbootcamp | Former journo at @theroot | Social Content Creator at @universum_eb | Host/Producer of Lectures to Beats", image: open("https://pbs.twimg.com/profile_images/734577551721500672/g5g4ojHJ.jpg")  )
 
-Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", avatar: File.new(File.join(Rails.root, "/public/images/hillary_clinton_avatar.jpg"))   )
+hillary = Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image: open("https://pbs.twimg.com/profile_images/742075525024387072/1ZVfvPL4.jpg") )
 
-Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/"   )
-Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan."    )
-Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff."  )
-Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts."    )
-Politician.create(name: "Barack Obama", political_party: "Democrat", title: "President", twitter_handle: "barackobama", twitter_profile: "This account is run by Organizing for Action staff. Tweets from the President are signed -bo."    )
-Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "tedcruz", twitter_profile: "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate."    )
+
+
+Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: open("https://pbs.twimg.com/profile_images/1980294624/DJT_Headshot_V2.jpg")  )
+
+Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: open("https://pbs.twimg.com/profile_images/661312718176182273/Kv8VoqZK.jpg")    )
+
+Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: open("https://pbs.twimg.com/profile_images/706853261022773248/H2nn7Wy0.jpg")  )
+
+Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: open("https://pbs.twimg.com/profile_images/722044174799777792/bXaodRhx.jpg")    )
+
+Politician.create(name: "Barack Obama", political_party: "Democrat", title: "President", twitter_handle: "barackobama", twitter_profile: "This account is run by Organizing for Action staff. Tweets from the President are signed -bo.", image: open("https://pbs.twimg.com/profile_images/738744285101580288/OUoCVEXG.jpg")    )
+
+Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "tedcruz", twitter_profile: "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.", image: open("https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE.jpg")    )
 
 Interest.create(politician_id: 1, issue_id: 1)
 Interest.create(politician_id: 2, issue_id: 1)
