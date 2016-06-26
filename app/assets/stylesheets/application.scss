@@ -14,38 +14,59 @@
  *= require_self
  */
 
- @import "bootstrap-sprockets";
-  @import "bootstrap";
+@import "bootstrap-sprockets";
+@import "bootstrap";
 
+@font-face {
+  font-family: "Champagne_Limousines";
+  src: local("Champagne_Limousines")
+}
 
+body {
+  font-family: "Champagne_Limousines";
+}
 
-#homepage-tag .nav-pills > li > a {
-  border-radius: 4px 4px 0 0 ;
+#homepage-tab .nav-pills > li > a {
+  border-radius: 4px 4px 0 0;
 }
 
 #homepage-tab .tab-content {
   color : white;
   background-color: #428bca;
   padding : 5px 15px;
-  height: 100%;
 }
 
-#tab-pane {
-  height: 100%;
+#circle {
+  width: 100px;
+  height: 100px;
+  background: black;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
-html, body {
-  height: 100%;
+#rectangle {
+  width: 315px;
+  height: 150px;
+  background: grey;
+  margin-bottom: 10px;
 }
 
-#homepage-tab {
-  height: 100%;
+#search-bar-placeholder {
+  width: 315px;
+  height: 40px;
+  background: lightgrey;
+  margin-bottom: 10px;
 }
 
-.tab-content {
-  height: 100%;
+
+.center-text {
+  text-align: center;
 }
 
-.homepage-row, .col-xs-12, row {
-  height: 100%;
+#footer {
+  text-align: center;
+  font-size: 11px;
 }
