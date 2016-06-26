@@ -11,9 +11,10 @@
 <%= link_to "Home", root_path %> |
 <%= link_to "Issues", issues_path %> |
 <%= link_to "Politicians", politicians_path %>
+
 <%= yield %>
 
-  <footer id="footer">&copy; 2016 | name | name | name | name | name | </footer>
+  <footer id="footer">&copy; 2016 | <%= link_to "about", about_path %></footer>
 
 </body>
 </html>
