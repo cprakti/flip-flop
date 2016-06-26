@@ -1,0 +1,39 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2016 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "114",
+         "bill": "H.R.2393",
+         "url_number": "hr2393",
+         "title": "Country of Origin Labeling Amendments Act of 2015",
+         "sponsor": "K. Michael Conaway",
+         "sponsor_id": "C001062",
+         "introduced_date": "2015-05-18",
+         "number_of_cosponsors": "82",
+         "committees": "House Agriculture Committee",
+         "latest_major_action_date": "2015-06-11",
+         "latest_major_action": "Received in the Senate.",
+         "house_passage_vote": "",
+         "senate_passage_vote": "",
+                  "subjects":[
+         {
+           "name": "Meat",
+           "url_name": "meat"
+         },
+                  {
+           "name": "Agricultural trade",
+           "url_name": "agricultural-trade"
+         },
+                  {
+           "name": "Agricultural marketing and promotion",
+           "url_name": "agricultural-marketing-and-promotion"
+         },
+                  {
+           "name": "Agriculture and Food",
+           "url_name": "agriculture-and-food"
+         }
+         ]
+      }
+   ]
+}

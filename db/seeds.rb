@@ -61,6 +61,114 @@ Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Spea
 Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.png')
 
 
+votes_array = ['h-2015-01.json', 'h-2015-02.json', 'h-2015-03.json', 'h-2015-04.json', 'h-2015-05.json', 'h-2015-06.json', 'h-2015-07.json', 'h-2015-08.json', 'h-2015-09.json', 'h-2015-10.json', 'h-2015-11.json', 'h-2015-12.json', 'h-2016-01.json', 'h-2016-02.json', 'h-2016-03.json', 'h-2016-04.json', 'h-2016-05.json', 'h-2016-06.json', 's-2015-01.json', 's-2015-02.json', 's-2015-03.json', 's-2015-04.json', 's-2015-05.json', 's-2015-06.json', 's-2015-07.json', 's-2015-08.json', 's-2015-09.json', 's-2015-10.json', 's-2015-11.json', 's-2015-12.json', 's-2016-01.json', 's-2016-02.json', 's-2016-03.json', 's-2016-04.json', 's-2016-05.json', 's-2016-06.json']
+
+votes_array.each do |bill-vote|
+  file = File.read("congress-votes/#{bill-vote}")
+  results = JSON.parse(file)
+  votes = results['results']['votes']
+  votes.map do |vote|
+    Vote.create(
+      chamber: results['results']['chamber'],
+      congress: vote['congress'],
+      session: vote['session'],
+      roll_call: vote['roll_call'],
+      official_bill_id: vote['bill_number'],
+      democratic_yes: vote['democratic']['yes'],
+      democratic_no: vote['democratic']['no'],
+      democratic_present: vote['democratic']['present'],
+      democratic_not_voting: vote['democratic']['not_voting'],
+      republican_yes: vote['republican']['yes'],
+      republican_no: vote['republican']['no'],
+      republican_present: vote['republican']['present'],
+      republican_not_voting: vote['republican']['not_voting'],
+      independent_yes: vote['independent']['yes'],
+      independent_no: vote['independent']['no'],
+      independent_present: vote['independent']['present'],
+      independent_not_voting: vote['independent']['not_voting'],
+      total_yes: vote['total']['yes'],
+      total_no: vote['total']['no'],
+      total_present: vote['total']['no'],
+      total_not_voting: vote['total']['not_voting']
+      )
+  end
+end
+
+Vote.all.each do |vote|
+  vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
+  vote_positions['results']['votes']['vote']['positions'].map do |position|
+    Position.create(
+      vote_id: vote.id,
+      bioguide_id: position['member_id'],
+      vote_position: position['vote_position']
+      )
+  end
+end
+
+legislators = ProPublicaAPI.legislators(114, 'house')
+  legislators['results'][0]['members'].map do |legislator|
+    Legislator.create(
+      bioguide_id: legislator['id'],
+      chamber: legislators['results'][0]['chamber'],
+      first_name: legislator['first_name'],
+      last_name: legislator['last_name'],
+      party: legislator['party'],
+      twitter_account: legislator['twitter_account'],
+      seniority: legislator['seniority'],
+      next_election: legislator['next_election'],
+      total_votes: legislator['total_votes'],
+      missed_votes: legislator['missed_votes'],
+      total_present: legislator['total_present'],
+      state: legislator['state'],
+      missed_votes_pct: legislator['missed_vote_pct'],
+      votes_with_party_pct: legislator['votes_with_party_pct']
+      )
+  end
+
+legislators = ProPublicaAPI.legislators(114, 'senate')
+  legislators['results'][0]['members'].map do |legislator|
+    Legislator.create(
+      bioguide_id: legislator['id'],
+      chamber: legislators['results'][0]['chamber'],
+      first_name: legislator['first_name'],
+      last_name: legislator['last_name'],
+      party: legislator['party'],
+      twitter_account: legislator['twitter_account'],
+      seniority: legislator['seniority'],
+      next_election: legislator['next_election'],
+      total_votes: legislator['total_votes'],
+      missed_votes: legislator['missed_votes'],
+      total_present: legislator['total_present'],
+      state: legislator['state'],
+      missed_votes_pct: legislator['missed_vote_pct'],
+      votes_with_party_pct: legislator['votes_with_party_pct']
+      )
+  end
+
+Vote.all.each do |vote|
+  bill = ProPublicaAPI.bills(vote.congress, vote.official_bill_id)
+    temp_bill = Bill.create(
+      congress: bill['results'][0]['congress'],
+      bill: bill['results'][0]['bill'],
+      title: bill['results'][0]['title'],
+      sponsor: bill['results'][0]['sponsor'],
+      sponsor_id: bill['results'][0]['sponsor_id'],
+      introduced_date: bill['results'][0]['congress'],
+      cosponsors: bill['results'][0]['number_of_cosponsors'],
+      committees: bill['results'][0]['committees'],
+      latest_major_action_date: bill['results'][0]['latest_major_action_date'],
+      latest_major_action: bill['results'][0]['latest_major_action']
+      )
+  bill['results'][0]['subjects'].map do |subject|
+    temp_subject = Subject.create(
+      name: subject['name']
+      )
+    BillsSubjects.create(
+      subject_id: temp_subject.id,
+      bill_id: temp_bill.id
+      )
+  end
+end
 
 Politician.all.each do |p|
   Issue.all.each do |i|
