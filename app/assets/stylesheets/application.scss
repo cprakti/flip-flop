@@ -17,6 +17,15 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
+@font-face {
+  font-family: "Champagne_Limousines";
+  src: local("Champagne_Limousines")
+}
+
+body {
+  font-family: "Champagne_Limousines";
+}
+
 #homepage-tab .nav-pills > li > a {
   border-radius: 4px 4px 0 0;
 }
@@ -58,8 +67,6 @@
 }
 
 #footer {
-  text-align: right;
-  margin-right: 10px;
-  margin-bottom: 5px;
-  font-size: 9px;
+  text-align: center;
+  font-size: 11px;
 }

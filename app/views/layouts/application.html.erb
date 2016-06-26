@@ -8,10 +8,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 </head>
 <body>
+<%= link_to "home", root_path %>
 
 <%= yield %>
 
-  <footer id="footer">&copy; 2016 | name | name | name | name | name | </footer>
+  <footer id="footer">&copy; 2016 | <%= link_to "about", about_path %></footer>
 
 </body>
 </html>
