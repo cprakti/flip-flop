@@ -18,7 +18,7 @@
 
 <ul>
 <% result_bucket.each do |tweet| %>
-  <li> <%= tweet.full_text %> </li>
+  <li> <%= tweet.full_text %> | <%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %> </li>
 <% end %>
 </ul>
 

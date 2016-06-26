@@ -147,6 +147,7 @@ GEM
     rake (11.2.2)
     rdoc (4.2.2)
       json (~> 1.4)
+    rmagick (2.15.4)
     rspec-core (3.4.4)
       rspec-support (~> 3.4.0)
     rspec-expectations (3.4.0)
@@ -225,6 +226,7 @@ DEPENDENCIES
   pg (~> 0.15)
   pry-rails
   rails (= 4.2.6)
+  rmagick
   rspec-rails (~> 3.4)
   sass-rails (>= 3.2)
   sdoc (~> 0.4.0)
