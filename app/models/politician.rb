@@ -2,9 +2,9 @@ class Politician < ActiveRecord::Base
   has_many :interests
   has_many :issues, through: :interests
 
-  validates :name, :political_party, :title, :twitter_handle, :twitter_profile, :tweets, presence: true
+  validates :name, :political_party, :title, :twitter_handle, :twitter_profile, presence: true
 
-  mount_uploader :image, ImageUploader
+  # mount_uploader :image, ImageUploader
 
 
   $client = Twitter::REST::Client.new do |config|

@@ -27,7 +27,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #Photo upload gems
 gem 'carrierwave'
 gem "mini_magick"
-gem 'rmagick'
+# gem 'rmagick'
 
 
 #For D3 Javascript library

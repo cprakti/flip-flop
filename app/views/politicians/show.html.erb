@@ -48,7 +48,8 @@ function draw(data){
   <ol>
     <% @politician.issues.each do |issue| %>
 
-    <li> <%=  link_to "#{issue.name}", interest_path(issue, :politician_id => @politician.id) %>: <%= @politician.issue_tweets(issue.name).length %> </li>
+    <li> <%=  issue.name %>: <%= link_to "#{@politician.issue_tweets(issue.name).length}", interest_path(issue, :politician_id => @politician.id) %> </li>
+
     <% end %>
   </ol>
 </h2>
