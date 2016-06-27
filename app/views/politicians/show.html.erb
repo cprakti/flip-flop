@@ -8,6 +8,10 @@
 <h2>Photo: </h2> <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
 
 
+
+
+
+
 <div class="chart">
 </div>
 
@@ -24,7 +28,7 @@ function draw(data){
   function error(){
     console.log("error");
   }
-      
+
       $.ajax({
            type: "GET",
            contentType: "application/json; charset=utf-8",
@@ -39,20 +43,17 @@ function draw(data){
        });
 </script>
 
-<h2> <%= @politician.name %>'s Key Issues:</h2>
-
+<h2> <%= @politician.name %>'s Key Issues | Number of Tweets </h2>
 <h2>
   <ol>
     <% @politician.issues.each do |issue| %>
 
-    <li> <%=  link_to "#{issue.name}", interest_path(issue, :politician_id => @politician.id) %> </li>
-
-
+    <li> <%=  link_to "#{issue.name}", interest_path(issue, :politician_id => @politician.id) %>: <%= @politician.issue_tweets(issue.name).length %> </li>
     <% end %>
   </ol>
-
-
 </h2>
+
+
 
 </div>
 

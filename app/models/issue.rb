@@ -4,4 +4,6 @@ class Issue < ActiveRecord::Base
 
   validates :name, :keywords, presence: true
 
+
+
 end

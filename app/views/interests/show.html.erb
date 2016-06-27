@@ -5,7 +5,7 @@
       <div class="circle"></div>
       <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
     </div>
-    
+
     <div class="col-xs-6">
       <div class="circle"></div>
       <p>issue: <%= @issue.name %> </p>
@@ -20,21 +20,10 @@
     <p><%= @politician.twitter_profile %> </p>
 
 
-
-<% result_bucket = [] %>
-
-<% @all_tweets.each do |tweet| %>
-  <% @issue.keywords.each do |keyword| %>
-    <% if tweet.full_text.include?(keyword) && result_bucket.include?(tweet) == false %>
-      <% result_bucket << tweet %>
-    <% end %>
-  <% end %>
-<% end %>
-
 <ul class="list-unstyled">
 
   <div class="tweet-container">
-    <% result_bucket.each do |tweet| %>
+    <%@politician.issue_tweets(@issue.name).each do |tweet| %>
     <div class="individual-tweet">
       <li><%= tweet.full_text %> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
     </div>
