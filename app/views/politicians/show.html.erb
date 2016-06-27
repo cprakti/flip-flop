@@ -1,7 +1,7 @@
 <div class="container">
   <div class="row">
     <div class="col-xs-4">
-      <%= image_tag @politician.image_url(:thumb) if @politician.image? %>
+      <%= image_tag @politician.image if @politician.image? %>
       <div class="circle"></div>
     </div>
 
