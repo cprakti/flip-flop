@@ -5,10 +5,14 @@
   <div class="circle"></div>
   <%= @issue.name %>
 
-<ul>
+<ul class="unstyled-list">
 <% @politicians.each do |politician| %>
-  <li> <%= link_to "#{politician.name}", interest_path(@issue, :politician_id => politician.id)  %> </li>
+    <li><%= link_to image_tag(politician.image, class: "politician-image"), interest_path(@issue, :politician_id => politician.id) %><%= politician.name %></li>
+
+
+
 <% end %>
+
 </ul>
 
 </div>
