@@ -1,3 +1,35 @@
+// $(document).ready(function(){
+//   $('.pol').on('click', 'a', function(e){
+//           $.ajax({
+//            type: "GET",
+//            contentType: "application/json",
+//            url: '/politicians/17/tweet_data',
+//            dataType: 'json',
+//            success: function(data) {
+//             debugger
+//                draw(data);
+//            },
+//            error: function (result) {
+//                error();
+//            }
+//        });
+//   })
+
+//   function draw(data){
+//   d3.select( ".chart" )
+//     .selectAll( "div" )
+//       .data( data )
+//     .enter().append( "div" )
+//       .style( "width", function(d) { return d * 10 + "px"; })
+//       .text( function(d) { return d; });
+//   }
+
+//   function error(){
+//     console.log("error");
+//   }
+
+// })
+
 function draw(data){
   d3.select( ".chart" )
     .selectAll( "div" )
@@ -11,18 +43,22 @@ function draw(data){
     console.log("error");
   }
 
+
+
       $.ajax({
            type: "GET",
-           contentType: "application/json; charset=utf-8",
-           url: '/politicians/:id/tweet_data',
+           contentType: "application/json",
+           url: '/politicians/17/tweet_data',
            dataType: 'json',
            success: function(data) {
+            // debugger
                draw(data);
            },
            error: function (result) {
                error();
            }
        });
+    
 
 //Tutorial code below:
 

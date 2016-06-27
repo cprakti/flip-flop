@@ -4,7 +4,7 @@ class PoliticiansController < ApplicationController
     end
 
     def show
-    @politician = Politician.find_by(id: params[:id])
+        @politician = Politician.find_by(id: params[:id])
         if @politician
         else
             redirect_to root_path
@@ -13,11 +13,13 @@ class PoliticiansController < ApplicationController
 
     #/politicion/:id/tweet_data
     def tweet_data
+        # binding.pryd
           @politician = Politician.find_by(id: params[:id])
+          @issues = @politician.issues
 
           respond_to do |format|
           format.json {
-            render :json => [55,66,77]
+            render :json => @politician.issues_mention_counts
           }
         end
     end

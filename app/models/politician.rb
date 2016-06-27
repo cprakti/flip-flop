@@ -36,10 +36,6 @@ class Politician < ActiveRecord::Base
     CLIENT.user_timeline(twitter_handle, options)
   end
 
-  def issue_tweet_count(issue)
-    all_tweets.count { |tweet| tweet_mentions_issue(tweet, issue) }
-  end
-
   def tweet_mentions_issue(tweet, issue)
     issue.keywords.any? { |keyword| tweet_contains_keyword(tweet, keyword) }
   end
@@ -47,6 +43,17 @@ class Politician < ActiveRecord::Base
   def tweet_contains_keyword(tweet, keyword)
     tweet.full_text.include?(keyword)
   end
+
+  def issue_tweet_count(issue)
+    all_tweets.count { |tweet| tweet_mentions_issue(tweet, issue) }
+  end
+
+  def issues_mention_counts
+    self.issues.map do |issue|
+      issue_tweet_count(issue)
+    end
+  end
+
 
   # def tweets_per_issue(issue)
   #   tweet_frequency = []
