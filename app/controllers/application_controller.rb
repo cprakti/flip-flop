@@ -2,9 +2,16 @@ class ApplicationController < ActionController::Base
   # Prevent CSRF attacks by raising an exception.
   # For APIs, you may want to use :null_session instead.
   protect_from_forgery with: :exception
+  include InterestsHelper
+
 
   require 'twitter'
 
+  # def url_changer(string)
+  #   binding.pry
+  #     regex = /(^$)|(^(http|https):\/\/[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(([0-9]{1,5})?\/.*)?$)/
+  #     string.gsub(regex) {|url|'<a href="#{url}"></a>'}
+  # end
 
 
   # before_filter :get_all_tweets
