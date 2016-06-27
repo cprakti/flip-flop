@@ -22,15 +22,6 @@
   font-family: 'Fjalla One', sans-serif;
 }
 
-#homepage-tab .nav-pills > li > a {
-  border-radius: 4px 4px 0 0;
-}
-
-#homepage-tab .tab-content {
-  color : white;
-  background-color: #432c6f;
-  padding : 5px 15px;
-}
 
 .circle {
   width: 100px;
@@ -61,10 +52,16 @@
   text-align: center;
 }
 
-.footer, .push {
-  height: 155px;
+footer {
+  margin: 5%;
+  text-align: left
 }
 
+.nav-item {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: -2%;
+}
 
 
 // boostrap magic below
@@ -74,9 +71,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-size: 16px;
+
 }
 
 body {
+  background-color: #dbdbdb !important;
   margin: 0;
 }
 
@@ -806,6 +805,7 @@ pre code {
   padding-left: 15px;
   padding-right: 15px;
 }
+
 @media (min-width: 768px) {
   .container {
     width: 750px;

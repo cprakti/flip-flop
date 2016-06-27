@@ -1,25 +1,31 @@
 
 
   <div id="homepage-tab" class="container">
-    <div class='row'>
-      <div class='col-xs-12 homepage'>
 
-      <h1 class="heading-text">FLIP FLOP</h1>
-      <p>this is a description of the site in just a few words. we don't want our users to have to read a lot but they should know what the site is about.</p>
+    <div class="row homepage-header">
+      <div class="col-xs-5">
+        <%= image_tag("Flip-Flop-Logo", class: "logo-image") %>
+      </div>
+
+      <div class="col-xs-7">
+      <p id="tagline-text">do their words match their actions or do they...</p>
+        <h1 class="heading-text">FLIP FLOP</h1>
+      </div>
+    </div>
 
         <ul class="nav nav-pills">
 
-          <li class="active">
+          <li class="active tab-text">
             <a href="#1b" data-toggle="tab">people</a>
           </li>
-          <li><a href="#2b" data-toggle="tab">issues</a>
+          <li class="tab-text"><a href="#2b" data-toggle="tab">issues</a>
           </li>
         </ul>
 
-          <div class="tab-content clearfix">
+          <div class="tab-content clearfix homepage-tab-content">
 
             <div class="tab-pane active" id="1b">
-              <h4>trending keywords from your legislators or candidates</h4>
+              <h4>issues that politicians are talking about</h4>
                <div id="rectangle"></div>
 
                 <h5 class="center-text">look up a legislator or candidate</h5>
@@ -42,22 +48,28 @@
 
               <div class='row homepage-row'>
 
-                <div class='col-xs-6'>see what they're saying on
-                  <div class="circle"></div>
-                  <div class="circle"></div>
-                  <div class="circle"></div>
+                <div class='col-xs-6'>
+                  <p>Select an issue below to see which politicians are talking about it on twitter</p>
+                  <p><%= link_to image_tag("issue_twitter_economy.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_twitter_gunlaws.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_twitter_healthcare.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_twitter_immigration.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_twitter_lgbtq.png"), root_path, class: "homepage-issue-icon" %></p>
+               
                 </div>
 
-                <div class='col-xs-6'>Second Tab, Col Right
-                  <div class="circle"></div>
-                  <div class="circle"></div>
-                  <div class="circle"></div>
+                <div class='col-xs-6'>
+                <p>Select an issue below to see what legislators are doing about it in congress</p>
+                  <p><%= link_to image_tag("issue_congress_economy.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_congress_gunlaws.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_congress_healthcare.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_congress_immigration.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <p><%= link_to image_tag("issue_congress_lgbtq.png"), root_path, class: "homepage-issue-icon" %></p>
                 </div>
 
               </div>
             </div>
           </div>
-        </div>
 
     </div>
   </div>

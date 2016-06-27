@@ -7,7 +7,7 @@ class GraphController < ApplicationController
     # point2 = model_method(2)
     respond_to do |format|
       format.json {
-        render :json => [55,66,77]
+        render :json => ["Issue name: this politician has tweeted X many times about this issue in the last X days", 55,66,77]
       }
     end
   end
