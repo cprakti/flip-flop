@@ -23,7 +23,6 @@
   -webkit-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
-
 }
 
 .homepage-header {
@@ -31,8 +30,10 @@
   margin-bottom: 4%;
 }
 
+
 .homepage-header-text {
   text-align: right;
+  color: #432c6f;
 }
 
 #tagline-text {
@@ -90,6 +91,12 @@
 
 .homepage-issue-icon {
   width: 75%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.issues-tab-heading-text {
+  font-size: 20px;
   margin-left: 10%;
   margin-right: 10%;
 }
