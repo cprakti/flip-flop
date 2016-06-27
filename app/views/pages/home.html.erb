@@ -3,13 +3,13 @@
   <div id="homepage-tab" class="container">
 
     <div class="row homepage-header">
-      <div class="col-xs-5">
-        <%= image_tag("Flip-Flop-Logo", class: "logo-image") %>
-      </div>
-
-      <div class="col-xs-7">
+      <div class="col-xs-6 homepage-header-text">
       <p id="tagline-text">do their words match their actions or do they...</p>
         <h1 id="homepage-title-text">FLIP FLOP</h1>
+      </div>
+
+      <div class="col-xs-6 homepage-logo-container">
+        <%= image_tag("Flip-Flop-Logo", class: "logo-image") %>
       </div>
     </div>
 
@@ -50,7 +50,7 @@
               <div class='row homepage-row'>
 
                 <div class='col-xs-6'>
-                  <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon") %>
+                  <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon-header") %>
                   <h4>Select an issue below to see which politicians are talking about it on twitter</h4>
                   <p><%= link_to image_tag("issue_twitter_economy.png", class: "homepage-issue-icon"), root_path %></p>
                   <p><%= link_to image_tag("issue_twitter_gunlaws.png", class: "homepage-issue-icon"), root_path %></p>
@@ -61,7 +61,7 @@
                 </div>
 
                 <div class='col-xs-6'>
-                <%= image_tag("congress_icon.png", class:"homepage-issue-icon") %>
+                <%= image_tag("congress_icon.png", class:"homepage-issue-icon-header") %>
 
                 <h4>Select an issue below to see what legislators are doing about it in congress</h4>
                   <p><%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-icon"), root_path %></p>

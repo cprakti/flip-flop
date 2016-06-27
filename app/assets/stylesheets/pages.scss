@@ -21,11 +21,16 @@
 
 #tagline-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 17px;
+  font-size: 14px;
   margin-top: 5%;
   margin-right: 10%;
   margin-bottom: -10%;
   padding: -10%;
+}
+
+.homepage-logo-container {
+  margin-top: -8%;
+  margin-bottom: -10%;
 }
 
 .homepage-header {
@@ -35,7 +40,7 @@
 
 #homepage-title-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 #homepage-tab {
@@ -50,6 +55,9 @@
   width: 50%;
 }
 
+.homepage-header-text {
+  text-align: right;
+}
 
 .tab-pane {
   margin-top: 5%;
@@ -80,3 +88,12 @@
   margin-left: 10%;
   margin-right: 10%;
 }
+
+.homepage-issue-icon-header {
+  width: 60%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+
+
