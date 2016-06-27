@@ -1,6 +1,11 @@
 class PoliticiansController < ApplicationController
     def index
-        @politicians = Politician.order("name asc")
+        if params.has_key?(:search)
+            @politicians = Politician.search(params[:search])
+            binding.pry
+        else
+            @politicians = Politician.order("name asc")
+        end
     end
 
     def show

@@ -26,6 +26,8 @@ get '/politicians/:id/tweet_data' => 'politicians#tweet_data', :defaults => { :f
   # You can have the root of your site routed with "root"
   root 'pages#home'
 
+  get "pages" => 'pages#index'
+
   get "about" => "pages#about"
 
   # Example of regular route:

@@ -17,6 +17,7 @@ module InterestsHelper
         end
         urls.each do |url|
   			formatted_url = String.new(url)
+        formatted_url.tr!('"', '')
   			new_string[formatted_url] = "<a target='blank' href='#{formatted_url}'>#{formatted_url}</a>"
         end
   		new_string
