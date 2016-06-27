@@ -12,7 +12,7 @@ class GraphController < ApplicationController
     end
   end
 
-
+# render :json => [issue_tweet_count("economy"), issue_tweet_count("gun laws")]
  
 
 
