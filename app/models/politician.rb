@@ -98,6 +98,12 @@ class Politician < ActiveRecord::Base
     result_bucket
   end
 
+  def self.search(search)
+    if search
+      Politician.where('LOWER(name) LIKE ?', "%#{search.downcase}%")
+    end
+  end
+
 
 end
 
