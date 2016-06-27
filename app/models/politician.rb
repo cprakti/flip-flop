@@ -75,21 +75,21 @@ class Politician < ActiveRecord::Base
   #   tweet_frequency.length
   # end
 
-  # def issue_tweets(the_issue)
-  #   result_bucket = []
-  #   self.all_tweets.each do |tweet|
-  #     self.issues.each do |issue|
-  #       if issue.name == the_issue
-  #         issue.keywords.each do |keyword|
-  #           if tweet.full_text.include?(keyword) && result_bucket.include?(tweet) == false
-  #             result_bucket << tweet
-  #           end
-  #         end
-  #       end
-  #     end
-  #   end
-  #   result_bucket
-  # end
+  def issue_tweets(the_issue)
+    result_bucket = []
+    self.all_tweets.each do |tweet|
+      self.issues.each do |issue|
+        if issue.name == the_issue
+          issue.keywords.each do |keyword|
+            if tweet.full_text.include?(keyword) && result_bucket.include?(tweet) == false
+              result_bucket << tweet
+            end
+          end
+        end
+      end
+    end
+    result_bucket
+  end
 
 
 end

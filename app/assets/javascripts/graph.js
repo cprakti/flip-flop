@@ -1,20 +1,28 @@
-// Place all the behaviors and hooks related to the matching controller here.
-// All this logic will automatically be available in application.js.
-//Original bar chart code
- var data = [26,18,41,64,78]
-
-// var container = d3.select(".chart");
-// var barChart = container.selectAll("div").data(data).enter().append("div")
-// barChart.style("width", function(d){return d * 10 + "px";});
-// var text = barChart.text(function(d){return d;});
-function draw(data) {
+function draw(data){
   d3.select( ".chart" )
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
       .style( "width", function(d) { return d * 10 + "px"; })
       .text( function(d) { return d; });
-    }
+  }
+
+  function error(){
+    console.log("error");
+  }
+
+      $.ajax({
+           type: "GET",
+           contentType: "application/json; charset=utf-8",
+           url: '/politicians/:id/tweet_data',
+           dataType: 'json',
+           success: function(data) {
+               draw(data);
+           },
+           error: function (result) {
+               error();
+           }
+       });
 
 //Tutorial code below:
 
