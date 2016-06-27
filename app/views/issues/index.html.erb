@@ -2,7 +2,6 @@
 
   <h2 class="heading-text">Issues</h2>
 
-  <% @issues.each do |issue| %>
 
     <div class='row'>
 
@@ -12,19 +11,18 @@
 
         <h4>Select an issue below to see which politicians are talking about it on twitter</h4>
 
-          <p><%= link_to image_tag("issue_twitter_economy.png", class: "issue-index-icon"), issue_path(issue) %></p>
+          <p><%= link_to image_tag("issue_twitter_economy.png", class: "issue-index-icon"), issue_path(@economy) %></p>
 
-          <p><%= link_to image_tag("issue_twitter_gunlaws.png", class: "issue-index-icon"), issue_path(issue) %></p>
+          <p><%= link_to image_tag("issue_twitter_gunlaws.png", class: "issue-index-icon"), issue_path(@gunlaws) %></p>
 
-          <p><%= link_to image_tag("issue_twitter_healthcare.png", class: "issue-index-icon"), issue_path(issue) %></p>
+          <p><%= link_to image_tag("issue_twitter_healthcare.png", class: "issue-index-icon"), issue_path(@healthcare) %></p>
 
-          <p><%= link_to image_tag("issue_twitter_immigration.png", class: "issue-index-icon"), issue_path(issue) %></p>
+          <p><%= link_to image_tag("issue_twitter_immigration.png", class: "issue-index-icon"), issue_path(@immigration) %></p>
 
-          <p><%= link_to image_tag("issue_twitter_lgbtq.png", class: "issue-index-icon"), issue_path(issue) %></p>  
+          <p><%= link_to image_tag("issue_twitter_lgbtq.png", class: "issue-index-icon"), issue_path(@lgbtq) %></p>  
 
       </div>
 
-  <% end %>
 
       <div class='col-xs-6'>
 
