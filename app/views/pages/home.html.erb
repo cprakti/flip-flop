@@ -9,16 +9,16 @@
 
       <div class="col-xs-7">
       <p id="tagline-text">do their words match their actions or do they...</p>
-        <h1 class="heading-text">FLIP FLOP</h1>
+        <h1 id="homepage-title-text">FLIP FLOP</h1>
       </div>
     </div>
 
         <ul class="nav nav-pills">
 
-          <li class="active tab-text">
-            <a href="#1b" data-toggle="tab">people</a>
+          <li class="active">
+            <a href="#1b" data-toggle="tab" class="tab-text">PEOPLE</a>
           </li>
-          <li class="tab-text"><a href="#2b" data-toggle="tab">issues</a>
+          <li><a href="#2b" data-toggle="tab" class="tab-text">ISSUES</a>
           </li>
         </ul>
 
@@ -34,37 +34,41 @@
               <div class='row homepage-row'>
 
                 <div class='col-xs-6 center-text'>see what they're saying on twitter
-                  <div class="circle"></div>
                 </div>
 
                 <div class='col-xs-6 center-text'>see what bills they voted for
-                  <div class="circle"></div>
                 </div>
 
               </div>
             </div>
 
             <div class="tab-pane" id="2b">
+                          <h4>issues that politicians are talking about</h4>
+               <div id="rectangle"></div>
+
 
               <div class='row homepage-row'>
 
                 <div class='col-xs-6'>
-                  <p>Select an issue below to see which politicians are talking about it on twitter</p>
-                  <p><%= link_to image_tag("issue_twitter_economy.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_twitter_gunlaws.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_twitter_healthcare.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_twitter_immigration.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_twitter_lgbtq.png"), root_path, class: "homepage-issue-icon" %></p>
+                  <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon") %>
+                  <h4>Select an issue below to see which politicians are talking about it on twitter</h4>
+                  <p><%= link_to image_tag("issue_twitter_economy.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_gunlaws.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_healthcare.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_immigration.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_lgbtq.png", class: "homepage-issue-icon"), root_path %></p>
                
                 </div>
 
                 <div class='col-xs-6'>
-                <p>Select an issue below to see what legislators are doing about it in congress</p>
-                  <p><%= link_to image_tag("issue_congress_economy.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_congress_gunlaws.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_congress_healthcare.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_congress_immigration.png"), root_path, class: "homepage-issue-icon" %></p>
-                  <p><%= link_to image_tag("issue_congress_lgbtq.png"), root_path, class: "homepage-issue-icon" %></p>
+                <%= image_tag("congress_icon.png", class:"homepage-issue-icon") %>
+
+                <h4>Select an issue below to see what legislators are doing about it in congress</h4>
+                  <p><%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-icon"), root_path %></p>
                 </div>
 
               </div>

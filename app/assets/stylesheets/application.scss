@@ -20,8 +20,12 @@
 
 .heading-text {
   font-family: 'Fjalla One', sans-serif;
+  border-bottom: 1px solid grey;
 }
 
+.heading-container {
+  margin-top: -10%;
+}
 
 .circle {
   width: 100px;
@@ -33,28 +37,27 @@
 }
 
 
+.circle-image-placeholder {
+  width: 25%;
+}
+
 #rectangle {
-  width: 315px;
+  width: 300px;
   height: 150px;
   background: grey;
   margin-bottom: 10px;
 }
 
-#search-bar-placeholder {
-  width: 315px;
-  height: 40px;
-  background: lightgrey;
-  margin-bottom: 10px;
-}
-
-
 .center-text {
   text-align: center;
 }
 
+
 footer {
   margin: 5%;
-  text-align: left
+  font-size: 12px;
+  text-align: right;
+  margin-bottom: 10%;
 }
 
 .nav-item {

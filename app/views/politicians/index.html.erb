@@ -1,7 +1,9 @@
-<h1> List of all Politicians </h1>
+<div class="container heading-container">
+  <h2 class="heading-text">Politicians on Twitter </h2>
 
-<ul>
+<ul class="list-unstyled">
   <% @politicians.each do |politician| %>
-    <li> <%= link_to "#{politician.name}", politician_path(politician)  %> </li>
+    <li><%= link_to image_tag("image-placeholder.png", class:"circle-image-placeholder"), politician_path(politician)  %><%= politician.name %></li>
   <% end %>
 </ul>
+
