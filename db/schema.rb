@@ -36,13 +36,14 @@ ActiveRecord::Schema.define(version: 20160626021310) do
   end
 
   create_table "politicians", force: :cascade do |t|
-    t.string   "name",            null: false
-    t.string   "political_party", null: false
-    t.string   "title",           null: false
-    t.string   "twitter_handle",  null: false
-    t.string   "twitter_profile", null: false
-    t.datetime "created_at",      null: false
-    t.datetime "updated_at",      null: false
+    t.string   "name",                         null: false
+    t.string   "political_party",              null: false
+    t.string   "title",                        null: false
+    t.string   "twitter_handle",               null: false
+    t.string   "twitter_profile",              null: false
+    t.string   "tweets",          default: [],              array: true
+    t.datetime "created_at",                   null: false
+    t.datetime "updated_at",                   null: false
     t.string   "image"
   end
 
