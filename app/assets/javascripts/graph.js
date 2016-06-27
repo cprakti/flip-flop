@@ -30,36 +30,35 @@
 
 // })
 
+$(document).ready(function()  {
+
 function draw(data){
-  d3.select( ".chart" )
-    .selectAll( "div" )
+  d3.select( "#chart" )
+    .selectAll( ".bar" )
       .data( data )
     .enter().append( "div" )
+      .attr('class', 'bar')
       .style( "width", function(d) { return d * 10 + "px"; })
       .text( function(d) { return d; });
   }
 
-  function error(){
-    console.log("error");
-  }
-
-
-
-      $.ajax({
-           type: "GET",
-           contentType: "application/json",
-           url: '/politicians/17/tweet_data',
-           dataType: 'json',
-           success: function(data) {
-            // debugger
-               draw(data);
-           },
-           error: function (result) {
-               error();
-           }
-       });
-    
-
+//window.location.pathname
+        // debugger;
+if($("#chart")) {
+    $.ajax({
+         type: "GET",
+         url: window.location.pathname+'/tweet_data',
+         dataType: 'json',
+         success: function(data) {
+            draw(data);
+         },
+         error: function (xhr, status, error) {
+          // debugger;
+             console.log('ERROR', error)
+         }
+     });
+ };
+});
 //Tutorial code below:
 
 // $.ajax({
