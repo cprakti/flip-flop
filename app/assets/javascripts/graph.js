@@ -1,21 +1,64 @@
-// Place all the behaviors and hooks related to the matching controller here.
-// All this logic will automatically be available in application.js.
-//Original bar chart code
- var data = [26,18,41,64,78]
+// $(document).ready(function(){
+//   $('.pol').on('click', 'a', function(e){
+//           $.ajax({
+//            type: "GET",
+//            contentType: "application/json",
+//            url: '/politicians/17/tweet_data',
+//            dataType: 'json',
+//            success: function(data) {
+//             debugger
+//                draw(data);
+//            },
+//            error: function (result) {
+//                error();
+//            }
+//        });
+//   })
 
-// var container = d3.select(".chart");
-// var barChart = container.selectAll("div").data(data).enter().append("div")
-// barChart.style("width", function(d){return d * 10 + "px";});
-// var text = barChart.text(function(d){return d;});
-function draw(data) {
-  d3.select( ".chart" )
-    .selectAll( "div" )
+//   function draw(data){
+//   d3.select( ".chart" )
+//     .selectAll( "div" )
+//       .data( data )
+//     .enter().append( "div" )
+//       .style( "width", function(d) { return d * 10 + "px"; })
+//       .text( function(d) { return d; });
+//   }
+
+//   function error(){
+//     console.log("error");
+//   }
+
+// })
+
+$(document).ready(function()  {
+
+function draw(data){
+  d3.select( "#chart" )
+    .selectAll( ".bar" )
       .data( data )
     .enter().append( "div" )
+      .attr('class', 'bar')
       .style( "width", function(d) { return d * 10 + "px"; })
       .text( function(d) { return d; });
-    }
+  }
 
+//window.location.pathname
+        // debugger;
+if($("#chart")) {
+    $.ajax({
+         type: "GET",
+         url: window.location.pathname+'/tweet_data',
+         dataType: 'json',
+         success: function(data) {
+            draw(data);
+         },
+         error: function (xhr, status, error) {
+          // debugger;
+             console.log('ERROR', error)
+         }
+     });
+ };
+});
 //Tutorial code below:
 
 // $.ajax({

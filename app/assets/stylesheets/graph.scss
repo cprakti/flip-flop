@@ -4,24 +4,28 @@
 
 
 
-.chart div {
+#chart div {
   /*background-color: #b0e0e6;*/
   color: #b0e0e6;
   font-size: 12px;
   padding-left: 5%;
 }
 
+<<<<<<< 3608c9d40b42a0e73388d85142d5962909514de4
 
 
 
 .chart div:hover {
+=======
+#chart div:hover {
+>>>>>>> Add new charts with css
   color: #b3b3b3;
 }
 
 /*Load bar CSS*/
 
 
-.chart div:after {
+#chart div:after {
     content:'\A';
     position:absolute;
     /*background:blue;*/
@@ -57,10 +61,12 @@
 .chart div {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+#chart div {
     width:80%;
     height:50px;
     position:relative;
     /*-webkit-text-fill-color: red;*/
     -webkit-text-fill-color: black !important;
-
 }

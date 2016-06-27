@@ -57,49 +57,9 @@ Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Spea
 Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.png')
 
 
-Interest.create(politician_id: 1, issue_id: 1)
-Interest.create(politician_id: 2, issue_id: 1)
-Interest.create(politician_id: 3, issue_id: 1)
-Interest.create(politician_id: 4, issue_id: 1)
-Interest.create(politician_id: 5, issue_id: 1)
-Interest.create(politician_id: 6, issue_id: 1)
-Interest.create(politician_id: 7, issue_id: 1)
 
-
-Interest.create(politician_id: 1, issue_id: 2)
-Interest.create(politician_id: 2, issue_id: 2)
-Interest.create(politician_id: 3, issue_id: 2)
-Interest.create(politician_id: 4, issue_id: 2)
-Interest.create(politician_id: 5, issue_id: 2)
-Interest.create(politician_id: 6, issue_id: 2)
-Interest.create(politician_id: 7, issue_id: 2)
-
-
-Interest.create(politician_id: 1, issue_id: 3)
-Interest.create(politician_id: 2, issue_id: 3)
-Interest.create(politician_id: 3, issue_id: 3)
-Interest.create(politician_id: 4, issue_id: 3)
-Interest.create(politician_id: 5, issue_id: 3)
-Interest.create(politician_id: 6, issue_id: 3)
-Interest.create(politician_id: 7, issue_id: 3)
-
-
-Interest.create(politician_id: 1, issue_id: 4)
-Interest.create(politician_id: 2, issue_id: 4)
-Interest.create(politician_id: 3, issue_id: 4)
-Interest.create(politician_id: 4, issue_id: 4)
-Interest.create(politician_id: 5, issue_id: 4)
-Interest.create(politician_id: 6, issue_id: 4)
-Interest.create(politician_id: 7, issue_id: 4)
-
-
-Interest.create(politician_id: 1, issue_id: 5)
-Interest.create(politician_id: 2, issue_id: 5)
-Interest.create(politician_id: 3, issue_id: 5)
-Interest.create(politician_id: 4, issue_id: 5)
-Interest.create(politician_id: 5, issue_id: 5)
-Interest.create(politician_id: 6, issue_id: 5)
-Interest.create(politician_id: 7, issue_id: 5)
-
-
-
+Politician.all.each do |p|
+  Issue.all.each do |i|
+    Interest.create(politician_id: p.id, issue_id: i.id)
+  end
+end
