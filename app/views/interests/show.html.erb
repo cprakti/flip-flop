@@ -25,7 +25,7 @@
   <div class="tweet-container">
     <%@politician.issue_tweets(@issue.name).each do |tweet| %>
     <div class="individual-tweet">
-      <li><%= tweet.full_text %> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
+        <li><%= url_changer(tweet.full_text).html_safe %> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
     </div>
     <% end %>
   </div>
