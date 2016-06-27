@@ -1,5 +1,95 @@
 // Place all the styles related to the Pages controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
 
+.homepage-container {
+  margin-bottom: 8%;
+}
+
+#homepage-tab {
+  height: 100%;
+}
+
+#homepage-tab .nav-pills > li > a {
+  border-radius: 4px 4px 0 0;
+}
+
+#homepage-tab .tab-content {
+  color : white;
+  background-color: #432c6f;
+  padding : 5px 15px;
+  -webkit-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+
+}
+
+.homepage-header {
+  margin-top: -8%;
+  margin-bottom: 4%;
+}
+
+.homepage-header-text {
+  text-align: right;
+}
+
+#tagline-text {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 14px;
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-bottom: -10%;
+  padding: -10%;
+}
+
+#homepage-title-text {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 40px;
+}
+
+.homepage-logo-container {
+  margin-top: -8%;
+  margin-bottom: -10%;
+}
+
+.logo-image {
+  width: 100%;
+}
+
+.tab-text {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 20px;
+}
+
+.homepage-tab-content {
+  height: 100%;
+}
+
+.tab-pane {
+  margin-top: 5%;
+  margin-bottom: 8%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#search-bar-placeholder {
+  width: 300px;
+  height: 40px;
+  background: lightgrey;
+  margin-bottom: 10px;
+}
+
+.homepage-issue-icon-header {
+  width: 60%;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 3%;
+}
+
+.homepage-issue-icon {
+  width: 75%;
+  margin-left: 10%;
+  margin-right: 10%;
+}

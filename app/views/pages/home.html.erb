@@ -1,63 +1,78 @@
 
 
-  <div id="homepage-tab" class="container">
-    <div class='row'>
-      <div class='col-xs-12 homepage'>
+  <div id="homepage-tab" class="container homepage-container">
 
-      <h1 class="heading-text">FLIP FLOP</h1>
-      <p>this is a description of the site in just a few words. we don't want our users to have to read a lot but they should know what the site is about.</p>
+    <div class="row homepage-header">
+      <div class="col-xs-6 homepage-header-text">
+          <p id="tagline-text">do their words match their actions or do they...</p>
+          <h1 id="homepage-title-text">FLIP FLOP</h1>
+      </div>
+
+      <div class="col-xs-6 homepage-logo-container">
+        <%= image_tag("Flip-Flop-Logo", class: "logo-image") %>
+      </div>
+    </div>
 
         <ul class="nav nav-pills">
 
           <li class="active">
-            <a href="#1b" data-toggle="tab">people</a>
+            <a href="#1b" data-toggle="tab" class="tab-text">PEOPLE</a>
           </li>
-          <li><a href="#2b" data-toggle="tab">issues</a>
+          <li><a href="#2b" data-toggle="tab" class="tab-text">ISSUES</a>
           </li>
         </ul>
 
-          <div class="tab-content clearfix">
+          <div class="tab-content clearfix homepage-tab-content">
 
             <div class="tab-pane active" id="1b">
-              <h4>trending keywords from your legislators or candidates</h4>
-               <div id="rectangle"></div>
+              <h4>issues that politicians are talking about</h4>
+              <div id="rectangle"></div>
 
-                <h5 class="center-text">look up a legislator or candidate</h5>
-                    <div id="search-bar-placeholder"></div>
+              <h5 class="text-center">look up a legislator or candidate</h5>
+                <div id="search-bar-placeholder"></div>
 
-              <div class='row homepage-row'>
+              <div class='row'>
 
-                <div class='col-xs-6 center-text'>see what they're saying on twitter
-                  <div class="circle"></div>
+                <div class='col-xs-6 text-center'>see what they're saying on twitter
                 </div>
 
-                <div class='col-xs-6 center-text'>see what bills they voted for
-                  <div class="circle"></div>
+                <div class='col-xs-6 text-center'>see what bills they voted for
                 </div>
 
               </div>
             </div>
 
             <div class="tab-pane" id="2b">
+              <h4>issues that politicians are talking about</h4>
+               <div id="rectangle"></div>
 
-              <div class='row homepage-row'>
+              <div class='row'>
 
-                <div class='col-xs-6'>see what they're saying on
-                  <div class="circle"></div>
-                  <div class="circle"></div>
-                  <div class="circle"></div>
+                <div class='col-xs-6'>
+                  <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon-header") %>
+                  <h4>Select an issue below to see which politicians are talking about it on twitter</h4>
+                  <p><%= link_to image_tag("issue_twitter_economy.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_gunlaws.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_healthcare.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_immigration.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_twitter_lgbtq.png", class: "homepage-issue-icon"), root_path %></p>
+               
                 </div>
 
-                <div class='col-xs-6'>Second Tab, Col Right
-                  <div class="circle"></div>
-                  <div class="circle"></div>
-                  <div class="circle"></div>
+                <div class='col-xs-6'>
+                <%= image_tag("congress_icon.png", class:"homepage-issue-icon-header") %>
+
+                <h4>Select an issue below to see what legislators are doing about it in congress</h4>
+                  <p><%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-icon"), root_path %></p>
+                  <p><%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-icon"), root_path %></p>
                 </div>
 
               </div>
             </div>
           </div>
-        </div>
 
     </div>
   </div>

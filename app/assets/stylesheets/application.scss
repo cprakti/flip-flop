@@ -18,18 +18,17 @@
 @import "bootstrap";
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
+.heading-container {
+  margin-top: -10%;
+}
+
 .heading-text {
   font-family: 'Fjalla One', sans-serif;
-}
-
-#homepage-tab .nav-pills > li > a {
-  border-radius: 4px 4px 0 0;
-}
-
-#homepage-tab .tab-content {
-  color : white;
-  background-color: #432c6f;
-  padding : 5px 15px;
+  border-top: 3px solid #432c6f;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  border-bottom: 3px solid #432c6f;
+  color: #432c6f;
 }
 
 .circle {
@@ -41,30 +40,37 @@
   border-radius: 50px;
 }
 
+.circle-image-placeholder {
+  width: 25%;
+}
 
 #rectangle {
-  width: 315px;
+  width: 300px;
   height: 150px;
   background: grey;
   margin-bottom: 10px;
 }
 
-#search-bar-placeholder {
-  width: 315px;
-  height: 40px;
-  background: lightgrey;
-  margin-bottom: 10px;
+footer {
+  font-size: 12px;
+  text-align: right;
+  border-top: 3px solid #432c6f;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  border-bottom: 3px solid #432c6f;
+  color: #432c6f;
+  margin-bottom: 5%;
 }
 
-
-.center-text {
-  text-align: center;
+#copyright-text {
+  margin-right: 5%;
 }
 
-.footer, .push {
-  height: 155px;
+.nav-item {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: -2%;
 }
-
 
 
 // boostrap magic below
@@ -74,9 +80,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   font-size: 16px;
+
 }
 
 body {
+  background-color: #dbdbdb !important;
   margin: 0;
 }
 
@@ -806,6 +814,7 @@ pre code {
   padding-left: 15px;
   padding-right: 15px;
 }
+
 @media (min-width: 768px) {
   .container {
     width: 750px;

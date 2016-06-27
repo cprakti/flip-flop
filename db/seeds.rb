@@ -35,25 +35,26 @@ Issue.create(name: "Economy", keywords: ["economy", "tax", "taxes", "raise", "mi
 Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", "healthcare", "health care", "aca", "obama care", "medicare", "medicaid", "affordable coverage", "affordable care", "high quality care", "high-quality care", "healthcare premium", "insurance companies", "insurance company"] )
 
 
-Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC")
 
-Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H")
+Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: 'diana.jpg')
 
-
-Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.")
+Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image:'hillary_clinton.jpg')
 
 
-Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.")
+Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: 'bernie_sanders.jpg')
+
+
+Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: 'elizabeth_warren.jpg')
 
 
 
-Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/")
+Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: '/app/assets/images/donald_trump.jpg')
 
 
-Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan" )
+Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: 'paul_ryan.jpg')
 
 
-Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate." )
+Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.jpg')
 
 
 Interest.create(politician_id: 1, issue_id: 1)

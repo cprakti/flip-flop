@@ -20,7 +20,6 @@ class Politician < ActiveRecord::Base
   #   response = yield(max_id)
   #   collection += response
   #   response.empty? ? collection.flatten : collect_with_max_id(collection, response.last.id - 1, &block)
-  # end
 
   # def $client.get_all_tweets(politician)
   #   collect_with_max_id do |max_id|
