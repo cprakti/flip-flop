@@ -36,25 +36,25 @@ Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", 
 
 
 
-Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: File.open(File.join(Rails.root, '/app/assets/images/diana.jpg')), tweets: diana_tweets)
+Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: File.open(File.join(Rails.root, '/app/assets/images/diana.jpg')))
 
-Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image: File.open(File.join(Rails.root, '/app/assets/images/hillary_clinton.jpg')), tweets: hillary_tweets )
-
-
-Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: File.open(File.join(Rails.root, '/app/assets/images/bernie_sanders.jpg')), tweets: bernie_sanders_tweets )
+Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image: File.open(File.join(Rails.root, '/app/assets/images/hillary_clinton.jpg')))
 
 
-Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: File.open(File.join(Rails.root, '/app/assets/images/elizabeth_warren.jpg')), tweets: elizabeth_warren_tweets )
+Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: File.open(File.join(Rails.root, '/app/assets/images/bernie_sanders.jpg')))
+
+
+Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: File.open(File.join(Rails.root, '/app/assets/images/elizabeth_warren.jpg')))
 
 
 
-Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: File.open(File.join(Rails.root, '/app/assets/images/donald_trump.jpg')), tweets: donald_trump_tweets )
+Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: File.open(File.join(Rails.root, '/app/assets/images/donald_trump.jpg')))
 
 
-Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: File.open(File.join(Rails.root, '/app/assets/images/paul_ryan.jpg')), tweets: paul_ryan_tweets )
+Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: File.open(File.join(Rails.root, '/app/assets/images/paul_ryan.jpg')))
 
 
-Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: File.open(File.join(Rails.root, '/app/assets/images/ted_cruz.jpg')), tweets: ted_cruz_tweets )
+Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: File.open(File.join(Rails.root, '/app/assets/images/ted_cruz.jpg')))
 
 
 Interest.create(politician_id: 1, issue_id: 1)
