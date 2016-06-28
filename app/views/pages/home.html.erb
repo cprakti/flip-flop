@@ -52,6 +52,9 @@
 
               <div class='row'>
                 <div class='col-xs-6'>
+                  <% @issues.each do |issue| %>
+                    <p><%= link_to image_tag(issue.image, class: "homepage-issue-icon"), issue_path(issue) %></p>
+                  <% end %>
                 </div>
                
                 <div class='col-xs-6'>

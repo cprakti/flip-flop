@@ -21,7 +21,7 @@
     </div>
     <div class="col-xs-4">
       <% @politician.issues.each do |issue| %>
-        <p><%= link_to image_tag(issue.image, class: "homepage-issue-icon"), issue_path(issue) %></p>
+        <p><%= link_to image_tag(issue.image, class: "homepage-issue-icon"), politician_path(@politician) %></p>
        <% end %>
     </div>
 
