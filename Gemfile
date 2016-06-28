@@ -25,7 +25,7 @@ gem 'sass-rails', '>= 3.2'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'seed_dump'
+# gem 'seed_dump'
 
 #For D3 Javascript library
 gem "d3-rails"
