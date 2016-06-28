@@ -1,11 +1,11 @@
 class CreateVotes < ActiveRecord::Migration
   def change
     create_table :votes do |t|
-      t.string :chamber
-      t.string :congress
-      t.string :session
-      t.string :roll_call
-      t.string :official_bill_id
+      t.string :chamber, null: false
+      t.string :congress, null: false
+      t.string :session, null: false
+      t.string :roll_call, null: false
+      t.string :official_bill_id, null: false
       t.string :democratic_yes
       t.string :democratic_no
       t.string :democratic_present

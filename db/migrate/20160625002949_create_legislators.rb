@@ -1,8 +1,8 @@
 class CreateLegislators < ActiveRecord::Migration
   def change
     create_table :legislators do |t|
-      t.string :bioguide_id
-      t.string :chamber
+      t.string :bioguide_id, null: false, index: true
+      t.string :chamber, null: false
       t.string :first_name
       t.string :last_name
       t.string :party

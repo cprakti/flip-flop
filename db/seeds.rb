@@ -64,8 +64,9 @@ votes_array.each do |bill_vote|
   file = File.read("congress-votes/#{bill_vote}")
   results = JSON.parse(file)
   votes = results['results']['votes']
-  votes.map do |vote|
-    Vote.create(
+  votes.each do |vote|
+    print "Creating vote..."
+    vote = Vote.create(
       chamber: results['results']['chamber'],
       congress: vote['congress'],
       session: vote['session'],
@@ -88,85 +89,120 @@ votes_array.each do |bill_vote|
       total_present: vote['total']['no'],
       total_not_voting: vote['total']['not_voting']
       )
+    puts "vote #{vote.id} for roll call #{vote.roll_call} created."
   end
 end
 
-legislators = ProPublicaAPI.legislators(114, 'house')
-  legislators['results'][0]['members'].map do |legislator|
-    Legislator.create(
-      bioguide_id: legislator['id'],
-      chamber: legislators['results'][0]['chamber'],
-      first_name: legislator['first_name'],
-      last_name: legislator['last_name'],
-      party: legislator['party'],
-      twitter_account: legislator['twitter_account'],
-      seniority: legislator['seniority'],
-      next_election: legislator['next_election'],
-      total_votes: legislator['total_votes'],
-      missed_votes: legislator['missed_votes'],
-      total_present: legislator['total_present'],
-      state: legislator['state'],
-      missed_votes_pct: legislator['missed_votes_pct'],
-      votes_with_party_pct: legislator['votes_with_party_pct']
-      )
-  end
+house_legislators = ProPublicaAPI.legislators(114, 'house')
+house_legislators['results'][0]['members'].map do |legislator|
+  print "Creating legislator..."
+  legislator = Legislator.create(
+    bioguide_id: legislator['id'],
+    chamber: house_legislators['results'][0]['chamber'],
+    first_name: legislator['first_name'],
+    last_name: legislator['last_name'],
+    party: legislator['party'],
+    twitter_account: legislator['twitter_account'],
+    seniority: legislator['seniority'],
+    next_election: legislator['next_election'],
+    total_votes: legislator['total_votes'],
+    missed_votes: legislator['missed_votes'],
+    total_present: legislator['total_present'],
+    state: legislator['state'],
+    missed_votes_pct: legislator['missed_votes_pct'],
+    votes_with_party_pct: legislator['votes_with_party_pct']
+    )
+  puts "legislator #{legislator.id}, #{legislator.first_name} #{legislator.last_name} created."
+end
 
-legislators = ProPublicaAPI.legislators(114, 'senate')
-  legislators['results'][0]['members'].map do |legislator|
-    Legislator.create(
-      bioguide_id: legislator['id'],
-      chamber: legislators['results'][0]['chamber'],
-      first_name: legislator['first_name'],
-      last_name: legislator['last_name'],
-      party: legislator['party'],
-      twitter_account: legislator['twitter_account'],
-      seniority: legislator['seniority'],
-      next_election: legislator['next_election'],
-      total_votes: legislator['total_votes'],
-      missed_votes: legislator['missed_votes'],
-      total_present: legislator['total_present'],
-      state: legislator['state'],
-      missed_votes_pct: legislator['missed_votes_pct'],
-      votes_with_party_pct: legislator['votes_with_party_pct']
-      )
-  end
+senate_legislators = ProPublicaAPI.legislators(114, 'senate')
+senate_legislators['results'][0]['members'].map do |legislator|
+  print "Creating legislator..."
+  legislator = Legislator.create(
+    bioguide_id: legislator['id'],
+    chamber: senate_legislators['results'][0]['chamber'],
+    first_name: legislator['first_name'],
+    last_name: legislator['last_name'],
+    party: legislator['party'],
+    twitter_account: legislator['twitter_account'],
+    seniority: legislator['seniority'],
+    next_election: legislator['next_election'],
+    total_votes: legislator['total_votes'],
+    missed_votes: legislator['missed_votes'],
+    total_present: legislator['total_present'],
+    state: legislator['state'],
+    missed_votes_pct: legislator['missed_votes_pct'],
+    votes_with_party_pct: legislator['votes_with_party_pct']
+    )
+  puts "legislator #{legislator.id}, #{legislator.first_name} #{legislator.last_name} created."
+end
 
+bill_error_count = 0
 Vote.all.each do |vote|
-# votes = Vote.all
-# first_ten_votes = votes[0..10]
-first_ten_votes.each do |vote|
   bill = ProPublicaAPI.bills(vote.congress, vote.official_bill_id.downcase.gsub(/\s+/, "") )
-    temp_bill = Bill.create(
-      congress: bill['results'][0]['congress'],
-      bill: bill['results'][0]['bill'],
-      title: bill['results'][0]['title'],
-      sponsor: bill['results'][0]['sponsor'],
-      sponsor_id: bill['results'][0]['sponsor_id'],
-      introduced_date: bill['results'][0]['congress'],
-      cosponsors: bill['results'][0]['number_of_cosponsors'],
-      committees: bill['results'][0]['committees'],
-      latest_major_action_date: bill['results'][0]['latest_major_action_date'],
-      latest_major_action: bill['results'][0]['latest_major_action']
-      )
-    vote.update_attributes(bill_id: temp_bill.id)
+  puts "Creating bill for vote with id of #{vote.id}..."
+  puts "bill: #{bill}"
 
-  vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
-  vote_positions['results']['votes']['vote']['positions'].map do |position|
-    temp_position = Position.create(
-      vote_id: vote.id,
-      bioguide_id: position['member_id'],
-      vote_position: position['vote_position']
-      )
+  if bill['status'] == 'ERROR'
+    puts "BILL ERROR"
+    bill_error_count += 1
+    next
+  end
+  puts "bill['results']: #{bill['results']}"
+  puts "bill['results'][0]: #{bill['results'][0]}"
 
-    bill['results'][0]['subjects'].map do |subject|
-      temp_subject = Subject.find_or_create_by(
-        name: subject['name']
-        )
-      PositionsSubject.create(
-        subject_id: temp_subject.id,
-        position_id: temp_position.id
-        )
+  bill_args = {
+    congress: bill['results'][0]['congress'],
+    bill: bill['results'][0]['bill'],
+    title: bill['results'][0]['title'],
+    sponsor: bill['results'][0]['sponsor'],
+    sponsor_id: bill['results'][0]['sponsor_id'],
+    introduced_date: bill['results'][0]['congress'],
+    cosponsors: bill['results'][0]['number_of_cosponsors'],
+    committees: bill['results'][0]['committees'],
+    latest_major_action_date: bill['results'][0]['latest_major_action_date'],
+    latest_major_action: bill['results'][0]['latest_major_action']}
+
+  temp_bill = Bill.new(bill_args)
+
+  if temp_bill.valid?
+    temp_bill.save
+  else
+    File.open("seed_error_log.txt", "a") do |file|
+      file.puts "#{bill_args.to_json}"
+      file.puts "Errors: #{ temp_bill.errors.full_messages.join(", ") }"
+      file.puts
     end
   end
 
+  puts "Bill with id #{temp_bill.id}, #{temp_bill.bill} #{temp_bill.title} created."
+
+  vote.update_attributes(bill_id: temp_bill.id)
+
+  vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
+  vote_positions['results']['votes']['vote']['positions'].map do |position|
+    print "Creating position..."
+    position_args = {
+      vote_id: vote.id,
+      bioguide_id: position['member_id'],
+      vote_position: position['vote_position']
+      }
+    temp_position = Position.new(position_args)
+    if temp_position.valid?
+      temp_position.save
+    else
+      File.open("seed_error_log.txt", "a") do |file|
+        file.puts "#{position_args.to_json}"
+        file.puts "Errors: #{ temp_position.errors.full_messages.join(", ") }"
+        file.puts
+      end
+    end
+    puts "position #{temp_position.id} created."
+    bill['results'][0]['subjects'].each do |subject|
+      temp_subject = Subject.where(name: subject['name']).first_or_create
+      PositionsSubject.find_or_create_by(subject_id: temp_subject.id, position_id: temp_position.id)
+    end
+  end
+  puts "All vote positions for vote #{vote.id} created."
 end
+

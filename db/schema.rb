@@ -17,8 +17,8 @@ ActiveRecord::Schema.define(version: 20160627201353) do
   enable_extension "plpgsql"
 
   create_table "bills", force: :cascade do |t|
-    t.string   "congress"
-    t.string   "bill"
+    t.string   "congress",                 null: false
+    t.string   "bill",                     null: false
     t.string   "title"
     t.string   "sponsor"
     t.string   "sponsor_id"
@@ -37,8 +37,9 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
     t.string   "image"
-
   end
+
+  add_index "bills", ["bill"], name: "index_bills_on_bill", using: :btree
 
   create_table "bills_subjects", force: :cascade do |t|
     t.integer  "bill_id"
@@ -62,8 +63,8 @@ ActiveRecord::Schema.define(version: 20160627201353) do
   end
 
   create_table "legislators", force: :cascade do |t|
-    t.string   "bioguide_id"
-    t.string   "chamber"
+    t.string   "bioguide_id",          null: false
+    t.string   "chamber",              null: false
     t.string   "first_name"
     t.string   "last_name"
     t.string   "party"
@@ -80,6 +81,8 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.datetime "updated_at",           null: false
   end
 
+  add_index "legislators", ["bioguide_id"], name: "index_legislators_on_bioguide_id", using: :btree
+
   create_table "politicians", force: :cascade do |t|
     t.string   "name",                         null: false
     t.string   "political_party",              null: false
@@ -93,32 +96,40 @@ ActiveRecord::Schema.define(version: 20160627201353) do
   end
 
   create_table "positions", force: :cascade do |t|
-    t.integer  "vote_id"
-    t.string   "bioguide_id"
-    t.string   "vote_position"
+    t.integer  "vote_id",       null: false
+    t.string   "bioguide_id",   null: false
+    t.string   "vote_position", null: false
     t.datetime "created_at",    null: false
     t.datetime "updated_at",    null: false
   end
 
+  add_index "positions", ["bioguide_id"], name: "index_positions_on_bioguide_id", using: :btree
+  add_index "positions", ["vote_position"], name: "index_positions_on_vote_position", using: :btree
+
   create_table "positions_subjects", force: :cascade do |t|
-    t.integer  "position_id"
-    t.integer  "subject_id"
+    t.integer  "position_id", null: false
+    t.integer  "subject_id",  null: false
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
   end
 
+  add_index "positions_subjects", ["position_id"], name: "index_positions_subjects_on_position_id", using: :btree
+  add_index "positions_subjects", ["subject_id"], name: "index_positions_subjects_on_subject_id", using: :btree
+
   create_table "subjects", force: :cascade do |t|
-    t.string   "name"
+    t.string   "name",       null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
 
+  add_index "subjects", ["name"], name: "index_subjects_on_name", using: :btree
+
   create_table "votes", force: :cascade do |t|
-    t.string   "chamber"
-    t.string   "congress"
-    t.string   "session"
-    t.string   "roll_call"
-    t.string   "official_bill_id"
+    t.string   "chamber",                null: false
+    t.string   "congress",               null: false
+    t.string   "session",                null: false
+    t.string   "roll_call",              null: false
+    t.string   "official_bill_id",       null: false
     t.string   "democratic_yes"
     t.string   "democratic_no"
     t.string   "democratic_present"

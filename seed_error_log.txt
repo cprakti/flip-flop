@@ -1,3 +1,330 @@
+<<<<<<< c31980e2b911553fec8fc4ec772be31ccf99c2d4
+=======
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.7","title":"No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015","sponsor":"Christopher H. Smith","sponsor_id":"S000522","introduced_date":"114","cosponsors":"29","committees":"House Finance Committee","latest_major_action_date":"2015-01-26","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Finance."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.42","title":"Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.161","title":"Natural Gas Pipeline Permitting Reform Act","sponsor":"Mike Pompeo","sponsor_id":"P000602","introduced_date":"114","cosponsors":"33","committees":"House Energy and Commerce Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Received in the Senate."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.38","title":"Providing for consideration of the bill (H.R. 161) to provide for the timely consideration of all licenses, permits, and approvals required under Federal law with respect to the siting, construction, expansion, or operation of any natural gas pipeline projects, and providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-21","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.37","title":"Promoting Job Creation and Reducing Small Business Burdens Act","sponsor":"Michael G. Fitzpatrick","sponsor_id":"F000451","introduced_date":"114","cosponsors":"8","committees":"House Banking, Housing, and Urban Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.7","title":"No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015","sponsor":"Christopher H. Smith","sponsor_id":"S000522","introduced_date":"114","cosponsors":"29","committees":"House Finance Committee","latest_major_action_date":"2015-01-26","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Finance."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.42","title":"Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.161","title":"Natural Gas Pipeline Permitting Reform Act","sponsor":"Mike Pompeo","sponsor_id":"P000602","introduced_date":"114","cosponsors":"33","committees":"House Energy and Commerce Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Received in the Senate."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.38","title":"Providing for consideration of the bill (H.R. 161) to provide for the timely consideration of all licenses, permits, and approvals required under Federal law with respect to the siting, construction, expansion, or operation of any natural gas pipeline projects, and providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-21","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.37","title":"Promoting Job Creation and Reducing Small Business Burdens Act","sponsor":"Michael G. Fitzpatrick","sponsor_id":"F000451","introduced_date":"114","cosponsors":"8","committees":"House Banking, Housing, and Urban Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.7","title":"No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015","sponsor":"Christopher H. Smith","sponsor_id":"S000522","introduced_date":"114","cosponsors":"29","committees":"House Finance Committee","latest_major_action_date":"2015-01-26","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Finance."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.42","title":"Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.161","title":"Natural Gas Pipeline Permitting Reform Act","sponsor":"Mike Pompeo","sponsor_id":"P000602","introduced_date":"114","cosponsors":"33","committees":"House Energy and Commerce Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Received in the Senate."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.38","title":"Providing for consideration of the bill (H.R. 161) to provide for the timely consideration of all licenses, permits, and approvals required under Federal law with respect to the siting, construction, expansion, or operation of any natural gas pipeline projects, and providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-21","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.37","title":"Promoting Job Creation and Reducing Small Business Burdens Act","sponsor":"Michael G. Fitzpatrick","sponsor_id":"F000451","introduced_date":"114","cosponsors":"8","committees":"House Banking, Housing, and Urban Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.351","title":"LNG Permitting Certainty and Transparency Act","sponsor":"Bill Johnson","sponsor_id":"J000292","introduced_date":"114","cosponsors":"20","committees":"House Energy and Natural Resources Committee","latest_major_action_date":"2015-01-29","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.7","title":"No Taxpayer Funding for Abortion and Abortion Insurance Full Disclosure Act of 2015","sponsor":"Christopher H. Smith","sponsor_id":"S000522","introduced_date":"114","cosponsors":"29","committees":"House Finance Committee","latest_major_action_date":"2015-01-26","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Finance."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.42","title":"Providing for consideration of the bill (H.R. 7) to prohibit taxpayer funded abortions.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.161","title":"Natural Gas Pipeline Permitting Reform Act","sponsor":"Mike Pompeo","sponsor_id":"P000602","introduced_date":"114","cosponsors":"33","committees":"House Energy and Commerce Committee","latest_major_action_date":"2015-01-22","latest_major_action":"Received in the Senate."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.38","title":"Providing for consideration of the bill (H.R. 161) to provide for the timely consideration of all licenses, permits, and approvals required under Federal law with respect to the siting, construction, expansion, or operation of any natural gas pipeline projects, and providing for consideration of the bill (H.R. 36) to amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-21","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.37","title":"Promoting Job Creation and Reducing Small Business Burdens Act","sponsor":"Michael G. Fitzpatrick","sponsor_id":"F000451","introduced_date":"114","cosponsors":"8","committees":"House Banking, Housing, and Urban Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.185","title":"Regulatory Accountability Act of 2015","sponsor":"Robert W. Goodlatte","sponsor_id":"G000289","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.185","title":"Regulatory Accountability Act of 2015","sponsor":"Robert W. Goodlatte","sponsor_id":"G000289","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.185","title":"Regulatory Accountability Act of 2015","sponsor":"Robert W. Goodlatte","sponsor_id":"G000289","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.185","title":"Regulatory Accountability Act of 2015","sponsor":"Robert W. Goodlatte","sponsor_id":"G000289","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.185","title":"Regulatory Accountability Act of 2015","sponsor":"Robert W. Goodlatte","sponsor_id":"G000289","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.27","title":"Providing for consideration of the bill (H.R. 37) to make technical corrections to the Dodd-Frank Wall Street Reform and Consumer Protection Act, to enhance the ability of small and emerging growth companies to access capital through public and private markets, to reduce regulatory burdens, and for other purposes; providing for consideration of the bill (H.R. 185) to reform the process by which Federal agencies analyze and formulate new regulations and guidance documents; and providing for consideration of the bill (H.R. 240) making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.","sponsor":"Pete Sessions","sponsor_id":"S000250","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-13","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.3","title":"Keystone XL Pipeline Act","sponsor":"Kevin Cramer","sponsor_id":"C001096","introduced_date":"114","cosponsors":"30","committees":"House Natural Resources Committee","latest_major_action_date":"2015-01-12","latest_major_action":"Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.30","title":"Save American Workers Act of 2015","sponsor":"Todd Young","sponsor_id":"Y000064","introduced_date":"114","cosponsors":"156","committees":"House Ways and Means Committee","latest_major_action_date":"2015-03-30","latest_major_action":"Referred to the Subcommittee on Health."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.19","title":"Providing for consideration of the bill (H.R. 3) to approve the Keystone XL Pipeline, and providing for consideration of the bill (H.R. 30) to amend the Internal Revenue Code of 1986 to repeal the 30-hour threshold for classification as a full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act and replace it with 40 hours.","sponsor":"Michael C. Burgess","sponsor_id":"B001248","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-01-08","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.37","title":"Promoting Job Creation and Reducing Small Business Burdens Act","sponsor":"Michael G. Fitzpatrick","sponsor_id":"F000451","introduced_date":"114","cosponsors":"8","committees":"House Banking, Housing, and Urban Affairs Committee","latest_major_action_date":"2015-01-16","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.5","title":"Adopting rules for the One Hundred Fourteenth Congress.","sponsor":"Kevin McCarthy","sponsor_id":"M001165","introduced_date":"114","cosponsors":"0","committees":"","latest_major_action_date":"2015-01-06","latest_major_action":"On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 172, 1 Present (Roll no. 6). (text: CR H7-10)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.5","title":"Adopting rules for the One Hundred Fourteenth Congress.","sponsor":"Kevin McCarthy","sponsor_id":"M001165","introduced_date":"114","cosponsors":"0","committees":"","latest_major_action_date":"2015-01-06","latest_major_action":"On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 172, 1 Present (Roll no. 6). (text: CR H7-10)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.5","title":"Adopting rules for the One Hundred Fourteenth Congress.","sponsor":"Kevin McCarthy","sponsor_id":"M001165","introduced_date":"114","cosponsors":"0","committees":"","latest_major_action_date":"2015-01-06","latest_major_action":"On agreeing to the resolution Agreed to by the Yeas and Nays: 234 - 172, 1 Present (Roll no. 6). (text: CR H7-10)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.33","title":"To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.","sponsor":"Lou Barletta","sponsor_id":"B001269","introduced_date":"114","cosponsors":"15","committees":"House Ways and Means Committee","latest_major_action_date":"2015-03-30","latest_major_action":"Referred to the Subcommittee on Health."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.129","title":"Providing for consideration of the joint resolution (H.J. Res. 35) making further continuing appropriations for fiscal year 2015, and for other purposes.","sponsor":"Pete Sessions","sponsor_id":"S000250","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-27","latest_major_action":"On agreeing to the resolution Agreed to by the Yeas and Nays: 240 - 183 (Roll no. 101). (text: CR H1377)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.5","title":"Student Success Act","sponsor":"John Kline","sponsor_id":"K000363","introduced_date":"114","cosponsors":"11","committees":"House Financial Services Committee","latest_major_action_date":"2015-07-13","latest_major_action":"Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.5","title":"Student Success Act","sponsor":"John Kline","sponsor_id":"K000363","introduced_date":"114","cosponsors":"11","committees":"House Financial Services Committee","latest_major_action_date":"2015-07-13","latest_major_action":"Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.5","title":"Student Success Act","sponsor":"John Kline","sponsor_id":"K000363","introduced_date":"114","cosponsors":"11","committees":"House Financial Services Committee","latest_major_action_date":"2015-07-13","latest_major_action":"Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.5","title":"Student Success Act","sponsor":"John Kline","sponsor_id":"K000363","introduced_date":"114","cosponsors":"11","committees":"House Financial Services Committee","latest_major_action_date":"2015-07-13","latest_major_action":"Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 147."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.125","title":"Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children\u0026#39;s schools, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-26","latest_major_action":"On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 93). (text: CR H1180)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.125","title":"Providing for further consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children\u0026#39;s schools, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-26","latest_major_action":"On agreeing to the resolution Agreed to by recorded vote: 234 - 184 (Roll no. 93). (text: CR H1180)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.529","title":"To amend the Internal Revenue Code of 1986 to improve 529 plans.","sponsor":"Lynn Jenkins","sponsor_id":"J000290","introduced_date":"114","cosponsors":"38","committees":"House Finance Committee","latest_major_action_date":"2015-04-16","latest_major_action":"Read twice and referred to the Committee on Finance."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.121","title":"Providing for consideration of the bill (H.R. 529) to amend the Internal Revenue Code of 1986 to improve 529 plans; providing for consideration of the bill (H.R. 5) to support State and local accountability for public education, protect State and local authority, inform parents of the performance of their children\u0026#39;s schools, and for other purposes; and for other purposes.","sponsor":"Rob Woodall","sponsor_id":"W000810","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-25","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.636","title":"Federal Aviation Administration Reauthorization Act of 2016","sponsor":"Pat Tiberi","sponsor_id":"T000462","introduced_date":"114","cosponsors":"14","committees":"House Budget Committee","latest_major_action_date":"2016-04-19","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.644","title":"Trade Facilitation and Trade Enforcement Act of 2015","sponsor":"Tom Reed","sponsor_id":"R000585","introduced_date":"114","cosponsors":"7","committees":"House Ways and Means Committee","latest_major_action_date":"2016-02-24","latest_major_action":"Became Public Law No: 114-125."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.101","title":"Providing for consideration of the bill (H.R. 644) to amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory, and providing for consideration of the bill (H.R. 636) to amend the Internal Revenue Code of 1986 to permanently extend increased expensing limitations, and for other purposes.","sponsor":"Tom  Cole","sponsor_id":"C001053","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-12","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"S.1","title":"Keystone XL Pipeline Approval Act","sponsor":"John Hoeven","sponsor_id":"H001061","introduced_date":"114","cosponsors":"59","committees":"","latest_major_action_date":"2015-03-04","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.100","title":"Providing for consideration of the bill (S. 1) to approve the Keystone XL Pipeline, and providing for proceedings during the period from February 16, 2015, through February 23, 2015.","sponsor":"Rob Woodall","sponsor_id":"W000810","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-11","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.527","title":"Small Business Regulatory Flexibility Improvements Act of 2015","sponsor":"Steven J. Chabot","sponsor_id":"C000266","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-09","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.527","title":"Small Business Regulatory Flexibility Improvements Act of 2015","sponsor":"Steven J. Chabot","sponsor_id":"C000266","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-09","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.527","title":"Small Business Regulatory Flexibility Improvements Act of 2015","sponsor":"Steven J. Chabot","sponsor_id":"C000266","introduced_date":"114","cosponsors":"21","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-09","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.50","title":"Unfunded Mandates Information and Transparency Act of 2015","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"4","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-05","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.50","title":"Unfunded Mandates Information and Transparency Act of 2015","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"4","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-05","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.50","title":"Unfunded Mandates Information and Transparency Act of 2015","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"4","committees":"House Homeland Security and Governmental Affairs Committee","latest_major_action_date":"2015-02-05","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.78","title":"Providing for consideration of the bill (H.R. 527) to amend chapter 6 of title 5, United States Code (commonly known as the Regulatory Flexibility Act), to ensure complete analysis of potential impacts on small entities of rules, and for other purposes, and providing for consideration of the bill (H.R. 50) to provide for additional safeguards with respect to imposing Federal mandates, and for other purposes.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-04","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.596","title":"To repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.","sponsor":"Bradley  Byrne","sponsor_id":"B001289","introduced_date":"114","cosponsors":"112","committees":"House Education and the Workforce Committee","latest_major_action_date":"2015-02-05","latest_major_action":"Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 14."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.70","title":"Providing for consideration of the bill (H.R. 596) to repeal the Patient Protection and Affordable Care Act and health care-related provisions in the Health Care and Education Reconciliation Act of 2010, and for other purposes.","sponsor":"Michael C. Burgess","sponsor_id":"B001248","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-02-03","latest_major_action":"On agreeing to the resolution Agreed to by recorded vote: 242 - 178 (Roll no. 55). (text: CR H713)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.CON.RES.27","title":"Establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Tom Price","sponsor_id":"P000591","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-04-13","latest_major_action":"Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 34."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.163","title":"Providing for consideration of the concurrent resolution (H. Con. Res. 27) establishing the budget for the United States Government for fiscal year 2016 and setting forth appropriate budgetary levels for fiscal years 2017 through 2025.","sponsor":"Rob Woodall","sponsor_id":"W000810","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-03-24","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.152","title":"Providing for consideration of the resolution (H. Res. 132) providing for the expenses of certain committees of the House of Representatives in the One Hundred Fourteenth Congress, and providing for consideration of the joint resolution (S.J. Res. 8) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the National Labor Relations Board relating to representation case procedures.","sponsor":"Virginia Foxx","sponsor_id":"F000450","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-03-19","latest_major_action":"On agreeing to the resolution Agreed to by recorded vote: 233 - 181 (Roll no. 127). (text: CR H1775)"}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.1030","title":"Secret Science Reform Act of 2015","sponsor":"Lamar Smith","sponsor_id":"S000583","introduced_date":"114","cosponsors":"28","committees":"House Environment and Public Works Committee","latest_major_action_date":"2015-03-19","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.1030","title":"Secret Science Reform Act of 2015","sponsor":"Lamar Smith","sponsor_id":"S000583","introduced_date":"114","cosponsors":"28","committees":"House Environment and Public Works Committee","latest_major_action_date":"2015-03-19","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.1030","title":"Secret Science Reform Act of 2015","sponsor":"Lamar Smith","sponsor_id":"S000583","introduced_date":"114","cosponsors":"28","committees":"House Environment and Public Works Committee","latest_major_action_date":"2015-03-19","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.1029","title":"EPA Science Advisory Board Reform Act of 2015","sponsor":"Frank D. Lucas","sponsor_id":"L000491","introduced_date":"114","cosponsors":"24","committees":"House Environment and Public Works Committee","latest_major_action_date":"2015-03-18","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.1029","title":"EPA Science Advisory Board Reform Act of 2015","sponsor":"Frank D. Lucas","sponsor_id":"L000491","introduced_date":"114","cosponsors":"24","committees":"House Environment and Public Works Committee","latest_major_action_date":"2015-03-18","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.RES.138","title":"Providing for consideration of the bill (H.R. 1029) to amend the Environmental Research, Development, and Demonstration Authorization Act of 1978 to provide for Scientific Advisory Board member qualifications, public participation, and for other purposes, and providing for consideration of the bill (H.R. 1030) to prohibit the Environmental Protection Agency from proposing, finalizing, or disseminating regulations or assessments based upon science that is not transparent or reproducible.","sponsor":"Michael C. Burgess","sponsor_id":"B001248","introduced_date":"114","cosponsors":"0","committees":"House Rules Committee","latest_major_action_date":"2015-03-17","latest_major_action":"Motion to reconsider laid on the table Agreed to without objection."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.749","title":"Passenger Rail Reform and Investment Act of 2015","sponsor":"Bill Shuster","sponsor_id":"S001154","introduced_date":"114","cosponsors":"12","committees":"House Commerce, Science, and Transportation Committee","latest_major_action_date":"2015-03-09","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.749","title":"Passenger Rail Reform and Investment Act of 2015","sponsor":"Bill Shuster","sponsor_id":"S001154","introduced_date":"114","cosponsors":"12","committees":"House Commerce, Science, and Transportation Committee","latest_major_action_date":"2015-03-09","latest_major_action":"Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.240","title":"Department of Homeland Security Appropriations Act, 2015","sponsor":"Harold Rogers","sponsor_id":"R000395","introduced_date":"114","cosponsors":"0","committees":"House Budget Committee","latest_major_action_date":"2015-03-04","latest_major_action":"Became Public Law No: 114-4."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2028","title":"Energy and Water Development and Related Agencies Appropriations Act, 2017","sponsor":"Mike Simpson","sponsor_id":"S001148","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2016-05-12","latest_major_action":"Message on Senate action sent to the House."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+
+>>>>>>> Work on error handling for api calls and speeding up process of seeding the database
 {"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
 Errors: Bill has already been taken
 

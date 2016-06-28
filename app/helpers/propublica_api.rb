@@ -8,8 +8,10 @@ module ProPublicaAPI
   end
 
   def self.votes_by_month(chamber, year, month)
-    endpoint = "/congress/v1/#{chamber}/votes/#{year}/#{month}.json"
-    request(endpoint)
+    if (chamber != nil && year != nil && month != nil)
+      endpoint = "/congress/v1/#{chamber}/votes/#{year}/#{month}.json"
+      request(endpoint)
+    end
   end
 
   def self.roll_call_vote(congress, chamber, session_number, roll_call_number)
@@ -21,13 +23,17 @@ module ProPublicaAPI
   end
 
   def self.bills(congress, bill_id)
-    endpoint = "/congress/v1/#{congress}/bills/#{bill_id}/subjects.json"
-    request(endpoint)
+    if (congress != nil && bill_id != nil)
+      endpoint = "/congress/v1/#{congress}/bills/#{bill_id}/subjects.json"
+      request(endpoint)
+    end
   end
 
   def self.legislators(congress, chamber)
-    endpoint = "/congress/v1/#{congress}/#{chamber}/members.json"
-    request(endpoint)
+    if (congress != nil && chamber != nil)
+      endpoint = "/congress/v1/#{congress}/#{chamber}/members.json"
+      request(endpoint)
+    end
   end
 
 
