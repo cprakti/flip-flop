@@ -328,3 +328,6 @@ Errors: Bill has already been taken
 {"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
 Errors: Bill has already been taken
 
+{"congress":"114","bill":"H.R.2029","title":"Consolidated Appropriations Act, 2016","sponsor":"Charlie Dent","sponsor_id":"D000604","introduced_date":"114","cosponsors":"0","committees":"House Appropriations Committee","latest_major_action_date":"2015-12-18","latest_major_action":"Became Public Law No: 114-113."}
+Errors: Bill has already been taken
+

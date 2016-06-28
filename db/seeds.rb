@@ -4,9 +4,9 @@
 
 require 'propublica_api'
 
-# Issue.delete_all
-# Politician.delete_all
-# Interest.delete_all
+Issue.delete_all
+Politician.delete_all
+Interest.delete_all
 
 #   client = Twitter::REST::Client.new do |config|
 #   config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
@@ -204,5 +204,6 @@ Vote.all.each do |vote|
     end
   end
   puts "All vote positions for vote #{vote.id} created."
+
 end
 
