@@ -86,7 +86,7 @@ class Politician < ActiveRecord::Base
     result_bucket = []
     self.all_tweets.each do |tweet|
       self.issues.each do |issue|
-        if issue.name == the_issue
+        if issue.name.downcase == the_issue.downcase
           issue.keywords.each do |keyword|
             if tweet.full_text.include?(keyword) && result_bucket.include?(tweet) == false
               result_bucket << tweet
