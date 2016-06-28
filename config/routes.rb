@@ -14,6 +14,7 @@ Rails.application.routes.draw do
 
   resources :interests
 
+  resources :legislators, only: [:index, :show]
 
  # get 'graph/index'
  # get 'graph/tweet_data', :defaults => { :format => 'json' }
