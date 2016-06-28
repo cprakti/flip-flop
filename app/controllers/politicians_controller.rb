@@ -5,6 +5,9 @@ class PoliticiansController < ApplicationController
         else
             @politicians = Politician.order("name asc")
         end
+        if request.xhr?
+            render :layout => false
+        end
     end
 
     def show
