@@ -31,22 +31,17 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.datetime "updated_at",               null: false
   end
 
-  create_table "issues", force: :cascade do |t|
-    t.string   "name",                    null: false
-    t.string   "keywords",   default: [],              array: true
-    t.datetime "created_at",              null: false
-    t.datetime "updated_at",              null: false
-    t.string   "image"
-  end
-
   add_index "bills", ["bill"], name: "index_bills_on_bill", using: :btree
 
   create_table "bills_subjects", force: :cascade do |t|
-    t.integer  "bill_id"
-    t.integer  "subject_id"
+    t.integer  "bill_id",    null: false
+    t.integer  "subject_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
+
+  add_index "bills_subjects", ["bill_id"], name: "index_bills_subjects_on_bill_id", using: :btree
+  add_index "bills_subjects", ["subject_id"], name: "index_bills_subjects_on_subject_id", using: :btree
 
   create_table "interests", force: :cascade do |t|
     t.integer  "politician_id", null: false
@@ -60,6 +55,7 @@ ActiveRecord::Schema.define(version: 20160627201353) do
     t.string   "keywords",   default: [],              array: true
     t.datetime "created_at",              null: false
     t.datetime "updated_at",              null: false
+    t.string   "image"
   end
 
   create_table "legislators", force: :cascade do |t|
