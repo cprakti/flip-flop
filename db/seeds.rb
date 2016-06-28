@@ -143,7 +143,6 @@ votes_array.each do |bill_vote|
   end
 
 bill_error_count = 0
-# Vote.all.each do |vote|
   bill = ProPublicaAPI.bills(vote.congress, vote.official_bill_id.downcase.gsub(/\W+/, "") )
   puts "Creating bill for vote with id of #{vote.id}..."
   puts "bill: #{bill}"
@@ -180,7 +179,6 @@ bill_error_count = 0
 
   else
     temp_bill = Bill.find_by(bill: temp_bill.bill)
-      # binding.pry
     File.open("seed_error_log.txt", "a") do |file|
       file.puts "#{bill_args.to_json}"
       file.puts "Errors: #{ temp_bill.errors.full_messages.join(", ") }"
@@ -192,11 +190,6 @@ bill_error_count = 0
   puts "Bill with id #{temp_bill.id}, #{temp_bill.bill} #{temp_bill.title} created."
 
   vote.update_attributes(bill_id: temp_bill.id)
-
-  # if vote.bill_id == nil
-  #   binding.pry
-  # end
-
 
   vote_positions = ProPublicaAPI.roll_call_vote(vote.congress, vote.chamber, vote.session, vote.roll_call)
   vote_positions['results']['votes']['vote']['positions'].map do |position|
