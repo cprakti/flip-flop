@@ -1,4 +1,4 @@
-Dir[File.join(Rails.root, 'db', 'seeds', '*.rb')].sort.each { |seed| load seed }
+require_relative 'db/seeds/congress_data'
 
 
 # require 'twitter'
