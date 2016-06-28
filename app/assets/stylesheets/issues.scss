@@ -3,6 +3,12 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
+.issues-show-subheading-container {
+  border-bottom: 1px solid #432c6f;  
+  margin-left: 8%;
+  margin-right: 5%;
+  padding-bottom: 5%;
+}
 
 .issue-index-icon {
   width: 50%;
@@ -10,13 +16,32 @@
   margin-right: 5%;
 }
 
-.issue-container {
-  margin: auto;
+.issues-show-issue-icon-header {
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 #select-politician-issue {
   text-align: center;
   color: #432c6f;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: -2%;
+  margin-right: -2%;
   padding-bottom: 3%;
-  border-bottom: 2px solid #432c6f;
+  text-align: left;
+  margin-top: 10%;
 }
+
+.issues-show-politician-list-container {
+  font-size: 22px;
+  margin-left: 2%;
+  padding-top: 2%;
+}
+
+.issues-show-politician-list-text {
+  margin-top: 7%;
+}
+
+
