@@ -3,7 +3,7 @@ class PagesController < ApplicationController
   end
   
   def home
-  	
+    @issues = Issue.order("name asc")
   end
 
   def about

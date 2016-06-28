@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container header-container">
   <div class="row">
     <div class="col-xs-4">
       <%= image_tag(@politician.image, class: "politician-image") if @politician.image?  %>
@@ -16,6 +16,34 @@
 <div id="chart">
 </div>
 
+<script>
+function draw(data){
+  d3.select( ".chart" )
+    .selectAll( "div" )
+      .data( data )
+    .enter().append( "div" )
+      .style( "width", function(d) { return d * 3 + "px"; })
+      .text( function(d) { return d; });
+  }
+
+  function error(){
+    console.log("error");
+  }
+
+      $.ajax({
+           type: "GET",
+           contentType: "application/json; charset=utf-8",
+           url: '/graph/tweet_data',
+           dataType: 'json',
+           success: function(data) {
+               draw(data);
+           },
+           error: function (result) {
+               error();
+           }
+       });
+</script>
+>>>>>>> Style twitter feeds, politician show and index pages, interest show and index pages
 
 <h2> <%= @politician.name %>'s Key Issues | Number of Tweets </h2>
 <h2>

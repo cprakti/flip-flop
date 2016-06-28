@@ -3,7 +3,6 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
-
 .homepage-container {
   margin-bottom: 8%;
 }
@@ -17,13 +16,12 @@
 }
 
 #homepage-tab .tab-content {
-  color : white;
+  color: white;
   background-color: #432c6f;
   padding : 5px 15px;
   -webkit-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
-
 }
 
 .homepage-header {
@@ -33,6 +31,7 @@
 
 .homepage-header-text {
   text-align: right;
+  color: #432c6f;
 }
 
 #tagline-text {
@@ -90,6 +89,12 @@
 
 .homepage-issue-icon {
   width: 75%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.issues-tab-heading-text {
+  font-size: 20px;
   margin-left: 10%;
   margin-right: 10%;
 }

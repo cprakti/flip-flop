@@ -19,7 +19,7 @@
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
 .heading-container {
-  margin-top: -10%;
+  margin-top: -8%;
 }
 
 .heading-text {
@@ -29,6 +29,7 @@
   padding-bottom: 2%;
   border-bottom: 3px solid #432c6f;
   color: #432c6f;
+  font-size: 26px;
 }
 
 .circle {
@@ -38,10 +39,6 @@
   -moz-border-radius: 50px;
   -webkit-border-radius: 50px;
   border-radius: 50px;
-}
-
-.circle-image-placeholder {
-  width: 25%;
 }
 
 #rectangle {
