@@ -33,18 +33,18 @@
 $(document).ready(function()  {
 
 function draw(data){
-  d3.select( "#chart" )
+  d3.select( "#politician-show-chart" )
     .selectAll( ".bar" )
       .data( data )
     .enter().append( "div" )
       .attr('class', 'bar')
-      .style( "width", function(d) { return d * 10 + "px"; })
+      .style( "width", function(d) { return d * 6 + "px"; })
       .text( function(d) { return d; });
   }
 
 //window.location.pathname
         // debugger;
-if($("#chart")) {
+if($("#politician-show-chart")) {
     $.ajax({
          type: "GET",
          url: window.location.pathname+'/tweet_data',
