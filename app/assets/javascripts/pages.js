@@ -6,6 +6,8 @@ $(document).ready(function() {
 	$('.foo').on('submit', function(event){
 		event.preventDefault();
 
+		$('.list-unstyled').empty();
+
 		var $target = $(event.target);
 		$.ajax({
       		url: $target.attr('action'),
