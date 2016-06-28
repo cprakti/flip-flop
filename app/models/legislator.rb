@@ -16,7 +16,7 @@ class Legislator < ActiveRecord::Base
     end #end of loop
     issue_percent_yes = legis_issue_yes.uniq{|position| position.id}.count.to_f / legis_issue_total.uniq{|position| position.id}.count.to_f
     issue_percent_no = legis_issue_no.uniq{|position| position.id}.count.to_f/ legis_issue_total.uniq{|position| position.id}.count.to_f
-    return [issue_percent_yes, issue_percent_no]
+     {yes: issue_percent_yes, no:issue_percent_no}
   end #end of method
 
 end #end of class
