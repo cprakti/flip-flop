@@ -13,7 +13,6 @@ class ApplicationController < ActionController::Base
   #     string.gsub(regex) {|url|'<a href="#{url}"></a>'}
   # end
 
-
   # before_filter :get_all_tweets
 
   # def collect_with_max_id(collection=[], max_id=nil, &block)
@@ -33,7 +32,5 @@ class ApplicationController < ActionController::Base
   # def load_tweets
   #   @tweets = Twitter.user_timeline[0..4] # For this demonstration lets keep the tweets limited to the first 5 available.
   # end
-
-
 
 end

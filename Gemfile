@@ -15,6 +15,7 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'twitter'
 
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
@@ -24,6 +25,7 @@ gem 'sass-rails', '>= 3.2'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
+# gem 'seed_dump'
 
 #For D3 Javascript library
 gem "d3-rails"
@@ -40,7 +42,6 @@ gem 'figaro'
 # gem 'capistrano-rails', group: :development
 
 gem 'rails_12factor', group: :production
-
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
