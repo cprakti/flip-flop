@@ -4,28 +4,27 @@
 
 
 
-#chart div {
-  /*background-color: #b0e0e6;*/
-  color: #b0e0e6;
-  font-size: 12px;
-  padding-left: 5%;
+#politician-show-chart div {
+    color: #b0e0e6;
+    font-size: 12px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 80%;
+    height: 65px;
+    position:relative;
+    -webkit-text-fill-color: black !important;
+    
 }
 
-<<<<<<< 3608c9d40b42a0e73388d85142d5962909514de4
 
-
-
-.chart div:hover {
-=======
-#chart div:hover {
->>>>>>> Add new charts with css
+#politician-show-chart div:hover {
   color: #b3b3b3;
 }
 
 /*Load bar CSS*/
 
 
-#chart div:after {
+#politician-show-chart div:after {
     content:'\A';
     position:absolute;
     /*background:blue;*/
@@ -38,8 +37,6 @@
     -webkit-animation: filler 1.5s ease-in-out;
     -moz-animation: filler 1.5s ease-in-out;
     animation: filler 1.5s ease-in-out;
-
-
 }
 
 @-webkit-keyframes filler {
@@ -56,17 +53,4 @@
     0% {
         width:0;
     }
-}
-
-.chart div {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-#chart div {
-    width:80%;
-    height:50px;
-    position:relative;
-    /*-webkit-text-fill-color: red;*/
-    -webkit-text-fill-color: black !important;
 }
