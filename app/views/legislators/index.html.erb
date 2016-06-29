@@ -13,7 +13,7 @@
         <% @legislators.each do |legislator| %>
           <% if legislator.chamber == "Senate" %>
           <ul class="list-unstyled">
-            <li class="legislator-name-link-text"><%= link_to legislator.first_name + " " + legislator.last_name, root_path %></li>
+            <li class="legislator-name-link-text"><%= link_to legislator.first_name + " " + legislator.last_name, legislator_path(legislator) %></li>
             <% if legislator.party == "R" %>
               <li><%= "Republican" %>, <%= legislator.state %></li>
             <% else %>
@@ -28,7 +28,7 @@
             <% @legislators.each do |legislator| %>
               <% if legislator.chamber == "House" %>
                 <ul class="list-unstyled">
-                  <li class="legislator-name-link-text"><%= link_to legislator.first_name + " " + legislator.last_name, root_path %></li>
+                  <li class="legislator-name-link-text"><%= link_to legislator.first_name + " " + legislator.last_name, legislator_path(legislator) %></li>
                 <% if legislator.party == "R" %>
                   <li><%= "Republican" %>, <%= legislator.state %></li>
                 <% else %>

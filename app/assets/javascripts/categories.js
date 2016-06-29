@@ -4,16 +4,16 @@
 $(document).ready(function()  {
 
 function draw(data){
-  d3.select( ".category-party-chart" )
+  d3.select( ".category-show-chart-container" )
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
       .style( "width", function(d) { return d * 100 + "px"; })
-      .text( function(d) { return d; });
+      .text( function(d) { return (d * 100).toFixed(2) + "%"; });
   }
 
 
-if($(".category-party-chart")) {
+if($(".category-show-chart-container")) {
     $.ajax({
          type: "GET",
          url: window.location.pathname+'/category_positions',

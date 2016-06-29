@@ -1,8 +1,26 @@
-<h1>Category Show</h1>
+<div class="container header-container">
+  <h2 class="heading-text">Congress: <%= @category.name%></h2>
+ 
 
-<div class="category-party-chart"></div>
 
-<script type="text/javascript" src="categories.js"></script>
+
+
+     <div class="row">
+      <div class="col-xs-7">
+        <div class="category-show-chart-container"></div>
+      </div>
+      <div class="col-xs-5 vote-info-container">
+        <h5 class="vote-info-text">Republicans - Y</h5>
+        <h5 class="vote-info-text">Republicans - N</h5>
+        <h5 class="vote-info-text">Democrats - Y</h5>
+        <h5 class="vote-info-text">Democrats - N</h5>
+      </div>
+
+    </div>
+
+
+
+  <script type="text/javascript" src="categories.js"></script>
 
 
 
