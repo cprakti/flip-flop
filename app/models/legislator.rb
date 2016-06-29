@@ -15,7 +15,7 @@ class Legislator < ActiveRecord::Base
       legis_category_total += Position.joins(:legislator, vote: {bill: :subjects}).where("subjects.name LIKE ?", "%#{subject.name}%").where(legislators: {last_name: "#{self.last_name}"})
     end #end of loop
     category_percent_yes = legis_category_yes.uniq{|position| position.id}.count.to_f / legis_category_total.uniq{|position| position.id}.count.to_f
-    category_percent_no = legis_category_no.uniq{|position| position.id}.count.to_f/ legis_category_total.uniq{|position| position.id}.count.to_f
+    category_percent_no = legis_category_no.uniq{|position| position.id}.count.to_f / legis_category_total.uniq{|position| position.id}.count.to_f
      {yes: category_percent_yes, no:category_percent_no}
   end #end of method
 
