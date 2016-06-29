@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160628222305) do
+ActiveRecord::Schema.define(version: 20160629154119) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -117,6 +117,7 @@ ActiveRecord::Schema.define(version: 20160628222305) do
     t.integer  "category_id"
   end
 
+  add_index "subjects", ["category_id"], name: "index_subjects_on_category_id", using: :btree
   add_index "subjects", ["name"], name: "index_subjects_on_name", using: :btree
 
   create_table "votes", force: :cascade do |t|
