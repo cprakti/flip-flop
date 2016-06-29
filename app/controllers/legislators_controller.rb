@@ -9,5 +9,6 @@ class LegislatorsController < ApplicationController
     @legislator = Legislator.find_by(last_name: "Sanders")
     @categories_percents = []
     @categories_percents << @legislator.all_positions
+  end
 
 end
