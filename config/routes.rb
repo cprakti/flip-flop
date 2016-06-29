@@ -24,6 +24,8 @@ get '/politicians/:id/tweet_data' => 'politicians#tweet_data', :defaults => { :f
 
 get '/legislators/:id/legislator_votes' => 'legislators#legislator_votes', :defaults => { :format => 'json' }
 
+get '/categories/:id/category_positions' => 'categories#category_positions', :defaults => { :format => 'json' }
+
 # get '/legislators/:id/yes_votes' => 'legislators#yes_votes', :defaults => { :format => 'json' }
 
 # get '/legislators/:id/no_votes' => 'legislators#no_votes', :defaults => { :format => 'json' }
