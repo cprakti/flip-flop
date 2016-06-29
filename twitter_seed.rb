@@ -139,6 +139,48 @@ Politician.create(name: "Jason Chaffetz", political_party: "Republican", title: 
 
 Politician.create(name: "Mike Coffman", political_party: "Republican", title: "U.S. Representative, Utah", twitter_handle: "RepMikeCoffman", twitter_profile: "Proudly representing Colorado's Sixth Congressional District | @USMC Combat Vet | http://fb.me/repmikecoffman  | Insta: @repmikecoffman | RTs/follow ≠ endorsement.", image: "mike_coffman.png")
 
+Politician.create(name: "Gerry Connolly", political_party: "Democrat", title: "U.S. Representative, Virginia", twitter_handle: "GerryConnolly", twitter_profile: "Proudly representing Virginia's 11th District.", image: "gerry_connolly.png")
+
+Politician.create(name: "Judy Chu", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepJudyChu", twitter_profile: "Proudly representing California's 27th District in the U.S. House of Representatives. Chair of @CAPAC.", image: "judy_chu.png")
+
+Politician.create(name: "John Carney", political_party: "Democrat", title: "U.S. Representative, Delaware", twitter_handle: "JohnCarneyDE", twitter_profile: "Official Twitter page for U.S. Representative John Carney (D-DE). http://www.JohnCarney.house.gov ", image: "john_carney.png")
+
+Politician.create(name: "David Cicilline", political_party: "Democrat", title: "U.S. Representative, Rhode Island", twitter_handle: "davidcicilline", twitter_profile: "Member of Congress for Rhode Island's First Congressional District, Democrat", image: "david_cicilline.png")
+
+Politician.create(name: "Rick Crawford", political_party: "Republican", title: "U.S. Representative, Arkansas", twitter_handle: "davidcicilline", twitter_profile: "Follow me on instagram: http://instagram.com/reprickcrawford/ … Representing Arkansas's 1st District in the United States Congress.", image: "rick_crawford.png")
+
+Politician.create(name: "Matt Cartwright", political_party: "Democrat", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepCartwright", twitter_profile: "Proudly representing Pennsylvania's 17th Congressional District. For more information, please use my official website: http://cartwright.house.gov/ ", image: "matt_cartwright.png")
+
+Politician.create(name: "Joaquin Castro", political_party: "Democrat", title: "U.S. Representative, Texas", twitter_handle: "JoaquinCastrotx", twitter_profile: "Texas Congressman, Member of the House Foreign Affairs and House Armed Services Committees", image: "joaquin_castro.png")
+
+Politician.create(name: "Chris Collins", political_party: "Republican", title: "U.S. Representative, New York", twitter_handle: "RepChrisCollins", twitter_profile: "Proud to represent New York’s 27th Congressional District. Focused on less spending in Washington and more jobs in America. Member of @HouseCommerce", image: "chris_collins.png")
+
+Politician.create(name: "Doug Collins", political_party: "Republican", title: "U.S. Representative, Georgia", twitter_handle: "RepDougCollins", twitter_profile: "Working for Georgia's 9th Congressional District. Find me @HouseJudiciary when in session, beautiful #GA09 all other times.", image: "doug_collins.png")
+
+Politician.create(name: "Paul Cook", political_party: "Republican", title: "U.S. Representative, California", twitter_handle: "RepPaulCook", twitter_profile: "Twenty-six year retired @USMC Colonel serving as a United States Congressman from California's 8th Congressional District. Join the conversation #CA08 #Semperfi", image: "paul_cook.png")
+
+Politician.create(name: "Kevin Cramer", political_party: "Republican", title: "U.S. Representative, North Dakota", twitter_handle: "RepKevinCramer", twitter_profile: "Representing the great people of North Dakota in the United States House of Representatives. Member of @HouseCommerce", image: "kevin_cramer.png")
+
+Politician.create(name: "Tony Cardenas", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepCardenas", twitter_profile: "U.S. Congressman proudly representing California's 29th Congressional District - the San Fernando Valley.", image: "tony_cardenas.png")
+
+Politician.create(name: "Katherine Clark", political_party: "Democrat", title: "U.S. Representative, Massachusetts", twitter_handle: "RepKClark", twitter_profile: "Proudly representing the people of the 5th District of Massachusetts.", image: "katherine_clark.png")
+
+Politician.create(name: "Curt Clawson", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "RepCurtClawson", twitter_profile: "Member of Congress (FL-19)", image: "curt_clawson.png")
+
+Politician.create(name: "Buddy Carter", political_party: "Republican", title: "U.S. Representative, Georgia", twitter_handle: "RepBuddyCarter", twitter_profile: "Proudly serving Georgia's 1st Congressional District", image: "buddy_carter.png")
+
+Politician.create(name: "Barbara Comstock", political_party: "Republican", title: "U.S. Representative, Georgia", twitter_handle: "RepComstock", twitter_profile: "Honored To Represent Virginia’s 10th Congressional District. Attorney • Legislator • Mom", image: "barbara_comstock.png")
+
+Politician.create(name: "Ryan Costello", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepRyanCostello", twitter_profile: "U.S. Rep. for #PA06 Congressional District including portions of Berks, Chester, Lebanon & Montgomery Counties. @Transport & @HouseVetAffairs Committees", image: "ryan_costello.png")
+
+Politician.create(name: "Carlos Curbelo", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "RepCurbelo", twitter_profile: "Representing Florida's 26th Congressional District, Husband, Dad, Catholic, Son of Cuban exiles, GOP, UM gradx2, Belen Jesuit", image: "carlos_curbelo.png")
+
+Politician.create(name: "Carlos Curbelo", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "RepCurbelo", twitter_profile: "Representing Florida's 26th Congressional District, Husband, Dad, Catholic, Son of Cuban exiles, GOP, UM gradx2, Belen Jesuit", image: "carlos_curbelo.png")
+
+Politician.create(name: "Danny Davis", political_party: "Democrat", title: "U.S. Representative, Illinois", twitter_handle: "RepDannyDavis", twitter_profile: "US House Representative for Illinois' 7th Congressional District. Serving on the Committee on Ways and Means. Following/retweeting does not equal endorsement.", image: "danny_davis.png")
+
+
+
 
 
 
