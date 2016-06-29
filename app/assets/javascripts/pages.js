@@ -3,7 +3,21 @@
 
 $(document).ready(function() {
 
-	$('.foo').on('submit', function(event){
+	$('.poli-search').hide();
+	$('.twitter-button').click(function() {
+		$('.twitter-button').hide();
+		$('.legis-button').hide();
+		$('.poli-search').show();
+	});
+
+	$('.legis-search').hide();
+	$('.legis-button').click(function() {
+		$('.twitter-button').hide();
+		$('.legis-button').hide();
+		$('.legis-search').show();
+	});
+
+	$('.poli-search').on('submit', function(event){
 		event.preventDefault();
 
 		$('.list-unstyled').empty();
@@ -18,6 +32,22 @@ $(document).ready(function() {
 		});
 		
 	});
+
+	$('.legis-search').on('submit', function(event){
+		event.preventDefault();
+
+		$('.list-unstyled').empty();
+
+		var $target = $(event.target);
+		$.ajax({
+      		url: $target.attr('action'),
+			type: $target.attr('method'),
+			data: $target.serialize()
+		}).done(function(response){
+			$('#homepage-tab').append(response);
+		});
+		
+	});	
 
 
 });
