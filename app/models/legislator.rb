@@ -28,4 +28,12 @@ class Legislator < ActiveRecord::Base
     end
   end
 
+  def categories_percents
+    categories_percents_array = []
+    self.each do |object|
+      categories_percents_array << object[:yes]
+      categories_percents_array << object[:no]
+    end
+    return categories_percents_array
+  end #end of method
 end #end of class
