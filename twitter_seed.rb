@@ -135,6 +135,11 @@ Politician.create(name: "Joe Courtney", political_party: "Democrat", title: "U.S
 
 Politician.create(name: "Andre Carson", political_party: "Democrat", title: "U.S. Representative, Connecticut", twitter_handle: "RepAndreCarson", twitter_profile: "The official Twitter account for Congressman André Carson of Indiana's 7th District. #Indianapolis #Indy", image: "andre_carson.png")
 
+Politician.create(name: "Jason Chaffetz", political_party: "Republican", title: "U.S. Representative, Utah", twitter_handle: "jasoninthehouse", twitter_profile: "United States Congressman (UT-3). Chairman, Oversight & Government Reform. Tweets come from me, not my staff.", image: "jason_chaffetz.png")
+
+Politician.create(name: "Mike Coffman", political_party: "Republican", title: "U.S. Representative, Utah", twitter_handle: "RepMikeCoffman", twitter_profile: "Proudly representing Colorado's Sixth Congressional District | @USMC Combat Vet | http://fb.me/repmikecoffman  | Insta: @repmikecoffman | RTs/follow ≠ endorsement.", image: "mike_coffman.png")
+
+
 
 
 
