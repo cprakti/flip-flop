@@ -13,9 +13,16 @@ class LegislatorsController < ApplicationController
 
   def show
     # @legislator = Legislator.find_by(first_name: params[first_name], last_name: params[last_name])
+
     @legislator = Legislator.find_by(last_name: "Sanders")
     @categories_percents = []
-    @categories_percents << @legislator.all_positions
+    @legislator.all_positions.each do |object|
+      @categories_percents << object[:yes]
+      @categories_percents << object[:no]
+    end
+    @categories_percents
+
   end
+
 
 end
