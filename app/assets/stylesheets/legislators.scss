@@ -28,6 +28,10 @@
     -webkit-text-fill-color: black !important;    
 }
 
+.legislator-show-chart-container div:nth-child(odd){
+  margin-bottom: 0;
+}
+
 .legislator-show-chart-container div:hover {
   color: #b3b3b3;
 }
