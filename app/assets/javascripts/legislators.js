@@ -12,8 +12,7 @@ function draw(data){
       .text( function(d) { return d; });
   }
 
-//window.location.pathname
-        // debugger;
+
 if($(".yes-no-chart")) {
     $.ajax({
          type: "GET",
@@ -27,5 +26,5 @@ if($(".yes-no-chart")) {
          }
      });
  };
- 
+
 });

@@ -19,13 +19,58 @@ class LegislatorsController < ApplicationController
       @categories_percents << object[:yes]
       @categories_percents << object[:no]
     end
-    # binding.pry
+
      respond_to do |format|
           format.json {
             render :json => @categories_percents
           }
       end
   end
+
+# def yes_votes #create route
+#       @legislator = Legislator.find_by(last_name: "Sanders")
+#       @categories_percents = []
+#       Category.all.each do |category|
+#       subjects = category.subjects
+#       @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
+#       end
+
+#       respond_to do |format|
+#             format.json {
+#             render :json => @legislator.yes_vote_list
+#           }
+#     end
+# end
+
+#   def no_votes #create route
+#       @legislator = Legislator.find_by(last_name: "Sanders")
+#       @categories_percents = []
+#       Category.all.each do |category|
+#       subjects = category.subjects
+#       @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
+#       end
+
+      
+#       respond_to do |format|
+#             format.json {
+#             render :json => no_vote_list
+#           }
+#     end
+# end
+
+# def parse_yes_votes(votes_array)
+#   votes_array.select do |vote|
+#   vote.has_key?(:yes)
+#   end
+# end
+
+
+# def parse_no_votes(votes_array)
+#    votes_array.select do |vote|
+#      vote.has_key?(:no)
+#   end
+# end
+
 
 # def yes_votes #create route
 #       @legislator = Legislator.find_by(last_name: "Sanders")
@@ -55,4 +100,19 @@ class LegislatorsController < ApplicationController
 #           }
 #   end
 
-end
+
+# def yes_vote_list
+#   parse_yes_votes(@categories_percents).map do |vote|
+#     vote.values.join
+#   end
+# end
+
+
+
+# def no_vote_list
+#   parse_no_votes(@categories_percents).map do |vote|
+#     vote.values.join 
+#   end
+# end
+
+#   end #end def show
