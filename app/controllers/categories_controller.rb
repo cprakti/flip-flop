@@ -5,7 +5,7 @@ class CategoriesController < ApplicationController
   end
 
   def show
-    # @category = Category.find_by(name: "Gun Laws")
+    @category = Category.find_by(id: params[:id])
     # # @legislator = Legislator.find_by(id: params[:id])
     # @parties_percents = []
     # @all_positions = @category.party_positions
@@ -24,7 +24,7 @@ class CategoriesController < ApplicationController
   end
 
   def category_positions
-    @category = Category.find_by(name: "Gun Laws")
+    @category = Category.find_by(id: params[:id])
     # @legislator = Legislator.find_by(id: params[:id])
     @parties_percents = []
     @all_positions = @category.party_positions

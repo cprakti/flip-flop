@@ -3,16 +3,16 @@
 $(document).ready(function()  {
 
 function draw(data){
-  d3.select( ".yes-no-chart" )
+  d3.select( ".legislator-show-chart-container" )
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
-      .style( "width", function(d) { return d * 100 + "px"; })
-      .text( function(d) { return d; });
+      .style( "width", function(d) { return d * 500 + "px"; })
+      .text( function(d) { return (d * 100).toFixed(2) + "%"; });
   }
 
 
-if($(".yes-no-chart")) {
+if($(".legislator-show-chart-container")) {
     $.ajax({
          type: "GET",
          url: window.location.pathname+'/legislator_votes',

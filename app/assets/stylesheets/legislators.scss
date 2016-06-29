@@ -3,15 +3,11 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-.legislator-name-link-text {
-  font-family: 'Fjalla One', sans-serif;
-  font-size: 16px;
-}
-
 .legislator-index-container {
   margin-left: 2%;
   margin-right: 2%;
 }
+
 
 #legislator-index-sub-heading-text {
   font-size: 20px;
@@ -20,30 +16,65 @@
   text-align: center;
 }
 
+.legislator-show-chart-container div {
+    color: #b0e0e6;
+    font-size: 52px;
+    margin-bottom: 6%;
+    margin-left: 3%;
+    padding-left: 3%;
+    width: 50%;
+    height: 62px;
+    position:relative;
+    -webkit-text-fill-color: black !important;    
+}
 
-.legislator-show-bar-chart-container div{
-  height: 50px;
-  background-color: #432C6F;
-  color: black;
-  margin-bottom: 6%;
-  margin-left: 3%;
-  padding-left: 3%;
-  width: 90%;
-  position:relative;
-  opacity: 0.5;
-  top:0; 
-  bottom:0;
-  left:0;
-  -webkit-animation: filler 1.5s ease-in-out;
-  -moz-animation: filler 1.5s ease-in-out;
-  animation: filler 1.5s ease-in-out;
+.legislator-show-chart-container div:hover {
+  color: #b3b3b3;
+}
+
+/*Load bar CSS*/
+
+.legislator-show-chart-container div:after {
+    content:'\A';
+    position:absolute;
+    /*background:blue;*/
+    background: #432C6F;
+    opacity: 0.5;
+    top:0; 
+    bottom:0;
+    left:0;
+    width:50%;
+    -webkit-animation: filler 1.5s ease-in-out;
+    -moz-animation: filler 1.5s ease-in-out;
+    animation: filler 1.5s ease-in-out;
+}
+
+@-webkit-keyframes filler {
+    0% {
+        width:0;
+    }
+}
+@-moz-keyframes filler {
+    0% {
+        width:0;
+    }
+}
+@keyframes filler {
+    0% {
+        width:0;
+    }
+}
+
+.legislator-show-chart-container div:nth-child(2) {
+    background-color: #432C6F;
+    opacity: 0.25;
 }
 
 .vote-info-text {
-  font-size: 20px;
-  padding: 15px;
-
+  font-size: 30px;
 }
-  
 
+.vote-info-container {
+  padding-bottom: 20px;
+}
 

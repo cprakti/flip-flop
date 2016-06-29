@@ -5,3 +5,71 @@
 .category-party-chart div {
   background-color: yellow;
 }
+
+
+
+.category-show-chart-container div {
+    color: #b0e0e6;
+    font-size: 52px;
+    margin-bottom: 6%;
+    margin-left: 3%;
+    padding-left: 3%;
+    width: 50%;
+    height: 62px;
+    position:relative;
+    -webkit-text-fill-color: black !important;    
+}
+
+.category-show-chart-container div:hover {
+  color: #b3b3b3;
+}
+
+/*Load bar CSS*/
+
+.category-show-chart-container div:after {
+    content:'\A';
+    position:absolute;
+    /*background:blue;*/
+    background: #432C6F;
+    opacity: 0.5;
+    top:0; 
+    bottom:0;
+    left:0;
+    width:50%;
+    -webkit-animation: filler 1.5s ease-in-out;
+    -moz-animation: filler 1.5s ease-in-out;
+    animation: filler 1.5s ease-in-out;
+}
+
+.category-show-chart-container div:nth-child(2) {
+    background-color: #432C6F;
+    opacity: 0.25;
+}
+
+
+
+@-webkit-keyframes filler {
+    0% {
+        width:0;
+    }
+}
+@-moz-keyframes filler {
+    0% {
+        width:0;
+    }
+}
+@keyframes filler {
+    0% {
+        width:0;
+    }
+}
+
+
+.vote-info-text {
+  font-size: 30px;
+}
+
+.vote-info-container {
+  padding-bottom: 20px;
+}
+
