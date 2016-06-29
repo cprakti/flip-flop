@@ -7,8 +7,7 @@ function draw(data){
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
-      .attr('class', 'bar')
-      .style( "width", function(d) { return d * 6 + "px"; })
+      .style( "width", function(d) { return d * 100 + "px"; })
       .text( function(d) { return d; });
   }
 
@@ -16,7 +15,7 @@ function draw(data){
 if($(".yes-no-chart")) {
     $.ajax({
          type: "GET",
-         url: window.location.pathname,
+         url: window.location.pathname+'/legislator_votes',
          dataType: 'json',
          success: function(data) {
             draw(data);

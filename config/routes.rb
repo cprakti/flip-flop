@@ -22,7 +22,7 @@ Rails.application.routes.draw do
 get '/politicians/:id/tweet_data' => 'politicians#tweet_data', :defaults => { :format => 'json' }
 
 
-get '/legislators/:id' => 'legislators#show', :defaults => { :format => 'json' }
+get '/legislators/:id/legislator_votes' => 'legislators#legislator_votes', :defaults => { :format => 'json' }
 
 # get '/legislators/:id/yes_votes' => 'legislators#yes_votes', :defaults => { :format => 'json' }
 

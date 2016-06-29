@@ -15,8 +15,23 @@ def show
     # @legislator = Legislator.find_by(first_name: params[first_name], last_name: params[last_name])
     # @legislator = Legislator.find_by(last_name: "Sanders")
     @legislator = Legislator.find_by(id: params[:id])
-    @categories_percents = []
-    @legislator.all_positions.each do |object|
+    # @categories_percents = []
+    # @legislator.all_positions.each do |object|
+    #   @categories_percents << object[:yes]
+    #   @categories_percents << object[:no]
+    # end
+
+    #  respond_to do |format|
+    #       format.json {
+    #         render :json => @categories_percents
+    #       }
+    #   end
+  end
+
+  def legislator_votes
+      @legislator = Legislator.find_by(id: params[:id])
+      @categories_percents = []
+      @legislator.all_positions.each do |object|
       @categories_percents << object[:yes]
       @categories_percents << object[:no]
     end
@@ -153,8 +168,4 @@ def show
 #   end
 # end
 
-<<<<<<< a1ebf9303377a2ec62c477d97156e812a3a85617
-#   end #end def show
-=======
-end #end def show
->>>>>>> Bind data to bar graph
+end
