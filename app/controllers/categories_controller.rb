@@ -32,8 +32,6 @@ class CategoriesController < ApplicationController
       @parties_percents << @all_positions[:rep_no]
       @parties_percents << @all_positions[:dem_yes]
       @parties_percents << @all_positions[:dem_no]
-      @parties_percents << @all_positions[:ind_yes]
-      @parties_percents << @all_positions[:ind_no]
 
     respond_to do |format|
       format.json {
