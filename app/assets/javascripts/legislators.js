@@ -8,7 +8,7 @@ function draw(data){
       .data( data )
     .enter().append( "div" )
       .style( "width", function(d) { return d * 500 + "px"; })
-      .text( function(d) { return (d * 100).toFixed(2) + "%"; });
+      .text( function(d) { return (d * 100).toFixed(1) + "%"; });
   }
 
 
