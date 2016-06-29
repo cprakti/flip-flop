@@ -13,32 +13,24 @@
 
   </div>
 
-  <div class="politician-profile-">
+  <div class="politician-profile">
     <%= @politician.twitter_profile %>
   </div>
 
+  <div class="politician-show-graph-header">
+    <h4 id="number-of-tweets-text"><%= @politician.name %>: # of tweets per issue</h4>
+    <p id="click-to-view-tweets-text">click to view their recent tweets on each issue</p>
+  </div>
 
-  <div class="row">
-    <div class="col-xs-8">
+  <div class="row politician-show-graph-container">
+    <div class="col-xs-8 issues-show-politician-list-text">
       <div id="politician-show-chart"></div>
     </div>
-    <div class="col-xs-4">
+    <div class="col-xs-4 politician-show-icon-column">
       <% @politician.issues.each do |issue| %>
-        <p><%= link_to image_tag(issue.image, class: "homepage-issue-icon"), politician_path(@politician) %></p>
+        <p><%= link_to image_tag(issue.image, class: "homepage-issue-icon"), interest_path(issue, :politician_id => @politician.id) %></p>
        <% end %>
     </div>
-
-
-
-<h2> <%= @politician.name %>'s Key Issues | Number of Tweets </h2>
-<h2>
-  <ol>
-    <% @politician.issues.each do |issue| %>
-
-    <li> <%=  issue.name %>: <%= link_to "#{@politician.issue_tweets(issue.name).length}", interest_path(issue, :politician_id => @politician.id) %> </li>
-    <% end %>
-  </ol>
-</h2>
 
 
 </div>

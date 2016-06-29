@@ -19,7 +19,12 @@
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
 .heading-container {
-  margin-top: -8%;
+  margin-top: -10%;
+}
+
+
+.header-container {
+  margin-top: -8%;  
 }
 
 .heading-text {
@@ -62,6 +67,7 @@ footer {
 
 #copyright-text {
   margin-right: 5%;
+  padding-top: 1%;
 }
 
 .nav-item {

@@ -1,10 +1,51 @@
 <% if !request.xhr? %>
 	<div class="container heading-container">
- 	 <h2 class="heading-text">trending politicians</h2>
- 	 	<ul class="list-unstyled">
- 	 <% @politicians.each do |politician| %>
-    	<li class="politician-name"><%= link_to image_tag(politician.image, class: "politician-image")+politician.name, politician_path(politician) %></li>
- 	 <% end %>
+ 	 <h2 class="heading-text">politicians on twitter</h2>
+
+
+  <% @politicians.each do |politician| %>
+
+    <div class="row">
+      <div class="col-xs-4">
+        <ul class="list-unstyled">
+          <li class="politician-name"><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
+        </ul>
+
+      </div>
+
+      <div class="col-xs-8 politician-show-politician-list-text">
+        <ul class="list-unstyled">
+          <li class="politician-name"><%= link_to politician.name, politician_path(politician) %></li>
+        </ul>
+      </div>
+      </div>
+    <% end %>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <% else %>
 	<ul class="list-unstyled">
  	 <% @politicians.each do |politician| %>
@@ -12,4 +53,9 @@
  	 <% end %>
 <% end %>
 </ul>
+
+
+
+
+
 
