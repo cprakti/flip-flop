@@ -19,7 +19,7 @@ class LegislatorsController < ApplicationController
       @categories_percents << object[:yes]
       @categories_percents << object[:no]
     end
-    
+    # binding.pry
      respond_to do |format|
           format.json {
             render :json => @categories_percents
