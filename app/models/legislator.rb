@@ -37,3 +37,35 @@ class Legislator < ActiveRecord::Base
     return categories_percents_array
   end #end of method
 end #end of class
+
+
+# def parse_yes_votes(votes_array)
+#   votes_array.select do |vote|
+#   vote.has_key?(:yes)
+#   end
+# end
+
+
+# def parse_no_votes(votes_array)
+#    votes_array.select do |vote|
+#      vote.has_key?(:no)
+#   end
+# end
+
+
+# def yes_vote_list
+#   parse_yes_votes(votes_array).map do |vote|
+#     vote.values.join
+#   end
+# end
+
+
+# def no_vote_list
+#   parse_no_votes(votes_array).map do |vote|
+#     vote.values.join 
+#   end
+# end
+
+
+# end #end of class 
+
