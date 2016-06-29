@@ -66,11 +66,11 @@ def show
 #       @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
 #       end
 
-      
+
 
 # end
 
-# def yes_votes 
+# def yes_votes
 #       # @legislator = Legislator.find_by(last_name: "Sanders")
 #       @legislator = Legislator.find_by(id: params[:id])
 #       @categories_percents = []
@@ -79,7 +79,7 @@ def show
 #             @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
 #       end
 #       # binding.pry
-      
+
 #       respond_to do |format|
 #             format.json {
 #                   render :json => @categories_percents[:yes].where(name: "Immigration")
@@ -88,7 +88,7 @@ def show
 #       end
 # end
 
-# def no_votes 
+# def no_votes
 #       @legislator = Legislator.find_by(last_name: "Sanders")
 #       @categories_percents = []
 #       Category.all.each do |category|
@@ -164,7 +164,7 @@ def show
 
 # def no_vote_list
 #   parse_no_votes(@categories_percents).map do |vote|
-#     vote.values.join 
+#     vote.values.join
 #   end
 # end
 

@@ -15,7 +15,7 @@ Rails.application.routes.draw do
   resources :interests
 
   resources :legislators, only: [:index, :show]
-
+  resources :categories, only: [:index, :show]
  # get 'graph/index'
  # get 'graph/tweet_data', :defaults => { :format => 'json' }
 
@@ -23,6 +23,8 @@ get '/politicians/:id/tweet_data' => 'politicians#tweet_data', :defaults => { :f
 
 
 get '/legislators/:id/legislator_votes' => 'legislators#legislator_votes', :defaults => { :format => 'json' }
+
+get '/categories/:id/category_positions' => 'categories#category_positions', :defaults => { :format => 'json' }
 
 # get '/legislators/:id/yes_votes' => 'legislators#yes_votes', :defaults => { :format => 'json' }
 
