@@ -1,6 +1,6 @@
 class LegislatorsController < ApplicationController
 
-  def index
+def index
       if params.has_key?(:search)
         @legislators = Legislator.search(params[:search])
       else
@@ -9,11 +9,12 @@ class LegislatorsController < ApplicationController
                render :layout => false
             end
       end
-  end
+end
 
-  def show
+def show
     # @legislator = Legislator.find_by(first_name: params[first_name], last_name: params[last_name])
-    @legislator = Legislator.find_by(last_name: "Sanders")
+    # @legislator = Legislator.find_by(last_name: "Sanders")
+    @legislator = Legislator.find_by(id: params[:id])
     @categories_percents = []
     @legislator.all_positions.each do |object|
       @categories_percents << object[:yes]
@@ -51,12 +52,49 @@ class LegislatorsController < ApplicationController
 #       end
 
       
+
+# end
+
+# def yes_votes 
+#       # @legislator = Legislator.find_by(last_name: "Sanders")
+#       @legislator = Legislator.find_by(id: params[:id])
+#       @categories_percents = []
+#       Category.all.each do |category|
+#             subjects = category.subjects
+#             @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
+#       end
+#       # binding.pry
+      
 #       respond_to do |format|
 #             format.json {
-#             render :json => no_vote_list
-#           }
-#     end
+#                   render :json => @categories_percents[:yes].where(name: "Immigration")
+#                   # binding.pry
+#             }
+#       end
 # end
+
+# def no_votes 
+#       @legislator = Legislator.find_by(last_name: "Sanders")
+#       @categories_percents = []
+#       Category.all.each do |category|
+#             subjects = category.subjects
+#             @categories_percents << (@legislator.category_positions(subjects)).merge!(name: category.name)
+#       end
+
+# >>>>>>> Bind data to bar graph
+# #       respond_to do |format|
+# #             format.json {
+# #             render :json => no_vote_list
+# #           }
+# #     end
+# # end
+# <<<<<<< a1ebf9303377a2ec62c477d97156e812a3a85617
+# =======
+
+# def yes_votes_on(issue_name)
+#       self[:yes].where(name: issue_name)
+# end
+# >>>>>>> Bind data to bar graph
 
 # def parse_yes_votes(votes_array)
 #   votes_array.select do |vote|
@@ -115,4 +153,8 @@ class LegislatorsController < ApplicationController
 #   end
 # end
 
+<<<<<<< a1ebf9303377a2ec62c477d97156e812a3a85617
 #   end #end def show
+=======
+end #end def show
+>>>>>>> Bind data to bar graph

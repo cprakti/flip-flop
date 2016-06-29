@@ -21,7 +21,14 @@ Rails.application.routes.draw do
 
 get '/politicians/:id/tweet_data' => 'politicians#tweet_data', :defaults => { :format => 'json' }
 
+
 get '/legislators/:id' => 'legislators#show', :defaults => { :format => 'json' }
+
+# get '/legislators/:id/yes_votes' => 'legislators#yes_votes', :defaults => { :format => 'json' }
+
+# get '/legislators/:id/no_votes' => 'legislators#no_votes', :defaults => { :format => 'json' }
+
+
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

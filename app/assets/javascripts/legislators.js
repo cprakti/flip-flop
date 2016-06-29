@@ -27,4 +27,50 @@ if($(".yes-no-chart")) {
      });
  };
 
+    // $.ajax({
+    //      type: "GET",
+    //      url: window.location.pathname+'/yes_votes',
+    //      dataType: 'json',
+    //      success: function(data) {
+    //         draw(data);
+    //      },
+    //      error: function (xhr, status, error) {
+    //       // debugger;
+    //          console.log('ERROR', error)
+    //      }
+    //  });
+
+//window.location.pathname
+        // debugger;
+// if($(".votes-yes")) {
+//     $.ajax({
+//          type: "GET",
+//          url: window.location.pathname+'/yes_votes',
+//          dataType: 'json',
+//          success: function(data) {
+//             draw(data);
+//          },
+//          error: function (xhr, status, error) {
+//           // debugger;
+//              console.log('ERROR', error)
+//          }
+//      });
+//  // };
+
+// // if($(".votes-no")) {
+//     $.ajax({
+//          type: "GET",
+//          url: window.location.pathname+'/no_votes',
+//          dataType: 'json',
+//          success: function(data) {
+//             draw(data);
+//          },
+//          error: function (xhr, status, error) {
+//           // debugger;
+//              console.log('ERROR', error)
+//          }
+//      });
+ // };
+
+
 });
