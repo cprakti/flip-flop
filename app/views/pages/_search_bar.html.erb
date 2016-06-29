@@ -1,6 +1,6 @@
 <%= form_tag politicians_path, :class => "foo", :method => 'get' do %>
    <p>
-     <%= text_field_tag :search, params[:search], class: "search-form" %>
+     <%= text_field_tag :search, params[:search], class: "search-form", placeholder: "find an elected officials' twitter" %>
      <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary" %></button>
    </p>
  <% end %>
