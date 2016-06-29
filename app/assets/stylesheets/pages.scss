@@ -25,7 +25,7 @@
 }
 
 .homepage-header {
-  margin-top: -8%;
+  margin-top: -6%;
   margin-bottom: 4%;
 }
 
@@ -62,6 +62,13 @@
   font-size: 20px;
 }
 
+#homepage-tab-image-title {
+  font-family: 'Fjalla One', sans-serif;
+  text-align: center;
+  font-size: 17px;
+  letter-spacing: 0.75px;
+}
+
 .homepage-tab-content {
   height: 100%;
 }
@@ -71,6 +78,11 @@
   margin-bottom: 8%;
   margin-left: 3%;
   margin-right: 3%;
+}
+
+#search-header-text {
+  font-size: 18px;
+  letter-spacing: 0.5px;
 }
 
 #search-bar-div {
@@ -84,7 +96,7 @@
 }
 
 .homepage-issue-icon-header {
-  width: 60%;
+  width: 70%;
   margin-left: 10%;
   margin-right: 10%;
   margin-top: 3%;
@@ -140,6 +152,19 @@ fieldset[disabled] .search-form {
   cursor: not-allowed;
   background-color: #eeeeee;
   opacity: 1;
+}
+
+.underline-text {
+  border-bottom: 1px solid black;
+}
+
+.about-list-items {
+  margin-left: 5%;
+}
+
+.about-blurb {
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 

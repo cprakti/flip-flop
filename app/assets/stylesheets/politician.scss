@@ -16,10 +16,34 @@
   margin-right: 10%;
 }
 
-.politician-twitter-profile-info {
-  margin-left: 5%;
-}
-
 .politician-name {
   font-size: 20px;
+}
+
+.politician-show-graph-header {
+  border-bottom: 1px solid #432c6f;
+  text-align: center;
+  margin-top: 2%;
+  color: #432c6f;
+}
+
+.politician-show-graph-container {
+  margin-top: 0%;
+}
+
+#number-of-tweets-text {
+  font-size: 22px;
+}
+
+#click-to-view-tweets-text {
+  margin-top: -5%;
+  font-size: 18px;
+}
+
+.politician-show-politician-list-text {
+  margin-top: 0%;
+}
+
+.politician-show-icon-column {
+  margin-top: 2%;
 }
