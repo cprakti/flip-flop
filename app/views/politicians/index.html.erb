@@ -4,8 +4,6 @@
 
   <h5 class="text-center" id="search-header-text">search for a politician's twitter account</h5>
 
- <div id="poli-search-div"><%= render partial: '/politicians/poli_search', layout: false %> </div>
-
   <% @politicians.each do |politician| %>
     <div class="row politicians-index-list-container">
       <div class="col-xs-4">
@@ -18,16 +16,10 @@
           <li><%= link_to politician.name, politician_path(politician) %></li>
         </ul>
       </div>
-<<<<<<< a7e280e35c4f78cb0b7ce28ae57fa692f58c1292
-      </div>
-    <% end %>
 
-
-
-=======
     </div>
   <% end %>
->>>>>>> Work on search bars for legislators
+
 <% else %>
 
   <div class="ajax-twitter-search-result-container">
