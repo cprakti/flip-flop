@@ -20,7 +20,6 @@ class PoliticiansController < ApplicationController
 
     #/politicion/:id/tweet_data
     def tweet_data
-        # binding.pry
           @politician = Politician.find_by(id: params[:id])
           @issues = @politician.issues
 
