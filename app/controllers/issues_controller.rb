@@ -13,8 +13,6 @@ class IssuesController < ApplicationController
     @issue = Issue.find_by(id: params[:id])
     @politicians = @issue.politicians
     # @politician = @issue.politicians.find_by(id: params[:id])
-
-
   end
 
 
