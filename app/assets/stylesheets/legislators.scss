@@ -1,3 +1,23 @@
 // Place all the styles related to the Legislators controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.legislator-name-link-text {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 16px;
+}
+
+.legislator-index-container {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+
+#legislator-index-sub-heading-text {
+  font-size: 20px;
+  margin-left: 3%;
+  margin-right: 3%;
+  text-align: center;
+}
+

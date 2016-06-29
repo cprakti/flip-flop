@@ -2,20 +2,22 @@
 	<div class="container heading-container">
  	 <h2 class="heading-text">politicians on twitter</h2>
 
+  <h5 class="text-center" id="search-header-text">search for a politician's twitter account</h5>
+    <div id="home-search-bar-div"><%= render partial: '/pages/search_bar', layout: false %> 
+    </div>
 
   <% @politicians.each do |politician| %>
-
-    <div class="row">
+    <div class="row politicians-index-list-container">
       <div class="col-xs-4">
         <ul class="list-unstyled">
-          <li class="politician-name"><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
+          <li><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
         </ul>
 
       </div>
 
       <div class="col-xs-8 politician-show-politician-list-text">
         <ul class="list-unstyled">
-          <li class="politician-name"><%= link_to politician.name, politician_path(politician) %></li>
+          <li><%= link_to politician.name, politician_path(politician) %></li>
         </ul>
       </div>
       </div>
@@ -23,37 +25,29 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <% else %>
-	<ul class="list-unstyled">
- 	 <% @politicians.each do |politician| %>
-    	<li class="politician-name"><%= link_to image_tag(politician.image, class: "politician-image")+politician.name, politician_path(politician) %></li>
- 	 <% end %>
-<% end %>
-</ul>
 
+  <div class="ajax-twitter-search-result-container">
+    <h3>Your search results:</h3>
+      <% @politicians.each do |politician| %>
+
+        <div class="row politicians-index-list-container">
+          <div class="col-xs-4">
+            <ul class="list-unstyled">
+              <li><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
+            </ul>
+
+          </div>
+
+          <div class="col-xs-8 politician-show-politician-list-text">
+            <ul class="list-unstyled">
+              <li><%= link_to politician.name, politician_path(politician) %></li>
+            </ul>
+          </div>
+          </div>
+        <% end %>
+    <% end %>
+    </div>
 
 
 
