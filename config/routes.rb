@@ -40,6 +40,8 @@ get '/legislators/:id/legislator_votes' => 'legislators#legislator_votes', :defa
 
   get "about" => "pages#about"
 
+  get "politicians" => "politicians#index"
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
