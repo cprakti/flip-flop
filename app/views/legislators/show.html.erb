@@ -1,6 +1,36 @@
-<h1>Hello</h1>
+<div class="container header-container">
+  <h2 class="heading-text"><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
 
-<div class="yes-no-chart"></div>
+     <% if @legislator.chamber == "Senate" %>
+        <h4>Senator</h4>
+      <% end %>
+
+      <% if @legislator.chamber == "House" %>
+        <h4>House of Representatives</h4>
+      <% end %>
+
+      <% if @legislator.party == "R" %>
+        <h4><%= "Republican" %>, <%= @legislator.state %></h4>
+      <% else %>
+           <h4><%= "Democrat" %>, <%= @legislator.state %></h4>
+        <% end %>
+
+        <h5>Next Election: <%= @legislator.next_election %></h5>
+
+    <div class="row">
+      <div class="col-xs-8">
+        <div class="legislator-show-bar-chart-container"></div>
+      </div>
+      <div class="col-xs-4">
+        <h5 class="vote-info-text">Yay Votes - Republicans</h5>
+        <h5 class="vote-info-text">Nay Votes - Republicans</h5>
+        <h5 class="vote-info-text">Yay Votes - Democrats</h5>
+        <h5 class="vote-info-text">Nay Votes - Democrats</h5>
+        <h5 class="vote-info-text">Yay Votes - Independents</h5>
+        <h5 class="vote-info-text">Nay Votes - Independents</h5>
+      </div>
+
+    </div>
 
 <script type="text/javascript" src="legislators.js"></script>
 

@@ -13,7 +13,6 @@
   margin-right: 2%;
 }
 
-
 #legislator-index-sub-heading-text {
   font-size: 20px;
   margin-left: 3%;
@@ -22,11 +21,29 @@
 }
 
 
-
-.yes-no-chart div{
+.legislator-show-bar-chart-container div{
   height: 50px;
-  background-color: blue;
+  background-color: #432C6F;
+  color: black;
+  margin-bottom: 6%;
+  margin-left: 3%;
+  padding-left: 3%;
+  width: 90%;
+  position:relative;
+  opacity: 0.5;
+  top:0; 
+  bottom:0;
+  left:0;
+  -webkit-animation: filler 1.5s ease-in-out;
+  -moz-animation: filler 1.5s ease-in-out;
+  animation: filler 1.5s ease-in-out;
 }
 
+.vote-info-text {
+  font-size: 20px;
+  padding: 15px;
+
+}
+  
 
 
