@@ -1,7 +1,10 @@
 class LegislatorsController < ApplicationController
 
   def index
-    @legislators = Legislator.all
+    @legislators = Legislator.search(params[:search])
+      if request.xhr?
+         render :layout => false
+      end
   end
 
   def show
