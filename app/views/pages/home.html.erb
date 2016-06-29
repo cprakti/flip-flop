@@ -37,10 +37,10 @@
                 <div id="home-search-bar-div"><%= render partial: '/pages/search_bar', layout: false %> 
                 </div>
 
-                <div class="row">
+                <div class="row congress-issue-icon-container-row-one">
 
                   <div class="col-xs-4">
-                  <%= image_tag("congress_icon.png", class:"homepage-issue-icon-header") %>
+                  <%= image_tag("congress_icon.png", class:"homepage-issue-icon-header-congress") %>
                   </div>
 
                   <div class="col-xs-8">
@@ -48,38 +48,95 @@
                   </div>
                 </div>
 
-                  <%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-icon"), root_path %>
 
-                  <%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-icon"), root_path %>
-                  <%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-icon"), root_path %>
+                <div class="row congress-issue-icon-container-row-two">
 
-                  <%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-icon"), root_path %>
+                  <div class="col-xs-6">
+                  <%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-congress-icon-row-one"), root_path %>
+                  </div>
 
-                  <%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-icon"), root_path %>
+                  <div class="col-xs-6">
+                  <%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-congress-icon-row-one"), root_path %>
+                  </div>
+
+                </div>
+
+
+                <div class="row congress-issue-icon-container-row-three">
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-congress-icon-row-three"), root_path %>
+                  </div>
+
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-congress-icon-row-three"), root_path %>
+                  </div>
+
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-congress-icon-row-two"), root_path %>
+                  </div>
+
+                </div>
+
             </div>
 
-
+          
 
             <!--- TWITTER TAB -->
 
             <div class="tab-pane" id="2b">
 
-                          <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
+                <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
+
                 <div id="home-search-bar-div"><%= render partial: '/pages/search_bar', layout: false %> 
                 </div>
 
+                <div class="row congress-issue-icon-container-row-one">
 
-                  <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon-header") %>
+                  <div class="col-xs-4">
+                    <%= image_tag("twitter_logo_icon.png", class:"homepage-issue-icon-header-twitter") %>
+                  </div>
+
+                <div class="col-xs-8">
+
                   <h4 class="issues-tab-heading-text">select a key issue to see a politician's twitter activity</h4>
+                </div>
+              </div>
+        
 
-                  <% @issues.each do |issue| %>
-                    <%= link_to image_tag(issue.image, class: "homepage-issue-icon"), issue_path(issue) %>
-                  <% end %>
+                <div class="homepage-twitter-issue-icon-container">
+                  <% @issues.in_groups_of(3, false) do |issues| %>
+                    <div class="row">
+                      <% issues.each do |issue| %>
+                      <div class="col-xs-4">                      
+                        <%= link_to image_tag(issue.image, class: "homepage-issue-twitter-icon"), issue_path(issue) %>
+                      </div>
+                    <% end %>
+                    </div>
 
+                    <% end %>
+                    </div>
+              </div>
+              </div>
               </div>
 
-               
-            </div>
+<!-- END OF TABBED CONTENT -->
             
           </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

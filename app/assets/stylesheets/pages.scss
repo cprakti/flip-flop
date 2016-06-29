@@ -55,6 +55,8 @@
 
 .logo-image {
   width: 100%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
 }
 
 .tab-text {
@@ -124,23 +126,68 @@
   border-radius: 4px;
 }
 
-.homepage-issue-icon-header {
+
+.homepage-issue-icon-header-congress {
+  width: 100%;
+  margin-top: 3%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
+}
+
+.homepage-issue-icon-header-twitter {
+  width: 100%;
+  margin-top: 3%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
+.congress-issue-icon-container-row-one {
+  padding-top: 5%;
+  padding-bottom: 3%;
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.homepage-issue-congress-icon-row-one {
+  margin-top: 3%;
+  width: 60%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
+}
+
+.homepage-issue-congress-icon-row-two {
   width: 100%;
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 3%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
 }
 
-.homepage-issue-icon {
-  width: 20%;
-  margin-left: 10%;
-  margin-right: 10%;
+.homepage-issue-congress-icon-row-three {
+  width: 100%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
 }
+
+.homepage-twitter-issue-icon-container {
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  
+}
+
+.homepage-issue-twitter-icon {
+  width: 100%;
+   padding-top: 3%;
+  padding-bottom: 3%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);
+}
+
 
 .issues-tab-heading-text {
   font-size: 20px;
-  margin-left: 10%;
-  margin-right: 10%;
+  text-align: left;
 }
 
 .search-form {
@@ -201,5 +248,7 @@ fieldset[disabled] .search-form {
   font-size: 14px;
   font-style: italic;
 }
+
+
 
 
