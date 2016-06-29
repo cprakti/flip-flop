@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160628222305) do
+ActiveRecord::Schema.define(version: 20160629154119) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -110,6 +110,16 @@ ActiveRecord::Schema.define(version: 20160628222305) do
   add_index "positions", ["bioguide_id"], name: "index_positions_on_bioguide_id", using: :btree
   add_index "positions", ["vote_position"], name: "index_positions_on_vote_position", using: :btree
 
+  create_table "positions_subjects", force: :cascade do |t|
+    t.integer  "position_id", null: false
+    t.integer  "subject_id",  null: false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
+  end
+
+  add_index "positions_subjects", ["position_id"], name: "index_positions_subjects_on_position_id", using: :btree
+  add_index "positions_subjects", ["subject_id"], name: "index_positions_subjects_on_subject_id", using: :btree
+
   create_table "subjects", force: :cascade do |t|
     t.string   "name",        null: false
     t.datetime "created_at",  null: false
@@ -117,6 +127,7 @@ ActiveRecord::Schema.define(version: 20160628222305) do
     t.integer  "category_id"
   end
 
+  add_index "subjects", ["category_id"], name: "index_subjects_on_category_id", using: :btree
   add_index "subjects", ["name"], name: "index_subjects_on_name", using: :btree
 
   create_table "votes", force: :cascade do |t|
