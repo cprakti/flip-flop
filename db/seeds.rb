@@ -6,57 +6,243 @@
 
 # require 'propublica_api'
 
-Issue.delete_all
-Politician.delete_all
-Interest.delete_all
+# Issue.delete_all
+# Politician.delete_all
+# Interest.delete_all
 
-#   client = Twitter::REST::Client.new do |config|
-#   config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
-#   config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
-#   config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
-#   config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
+# #   client = Twitter::REST::Client.new do |config|
+# #   config.consumer_key        = ENV["TWITTER_CONSUMER_KEY"]
+# #   config.consumer_secret     = ENV["TWITTER_CONSUMER_SECRET"]
+# #   config.access_token        = ENV["TWITTER_ACCESS_TOKEN"]
+# #   config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
+# #   end
+
+# # def client.get_all_tweets(politician)
+# #   options = {:count => 250, :include_rts => true}
+# #   user_timeline(politician, options)
+# # end
+
+# # hillary_tweets = client.get_all_tweets("hillaryclinton")
+# # diana_tweets = client.get_all_tweets("lecturestobeats")
+# # bernie_sanders_tweets = client.get_all_tweets("sensanders")
+# # elizabeth_warren_tweets = client.get_all_tweets("senwarren")
+# # donald_trump_tweets = client.get_all_tweets("realdonaldtrump")
+# # paul_ryan_tweets = client.get_all_tweets("speakerryan")
+# # ted_cruz_tweets = client.get_all_tweets("sentedcruz")
+
+# Issue.create(name: "Gun Laws", keywords: ["second amendment", "gun", "guns", "firearms", "fire arms", "shooting", "shootings", "mass shootings", "gun violence", "endgunviolence", "disarmhate", "2nd amendment", "gun violence prevention laws", "nra", "gun show loophole", "gun show", "mass shootings"], image: "issue_twitter_gunlaws.png")
+
+# Issue.create(name: "Immigration", keywords: ["immigration" "immigrant", "refugee", "refugees", "deportation", "undocumented", "undocumented immigrant", "illegal immigrant", "illegals", "border", "border control", "detention center", "amnesty", "sanctuary city", "sanctuary cities"], image: "issue_twitter_immigration.png")
+
+# Issue.create(name: "LGBTQ", keywords: ["lgbtq", "lgbtq rights", "lgbt", "lesbian", "gay", "bisexual", "trans", "transgender", "queer", "gay marriage", "bathroom bill", "pride", "gay rights", "homophobia", "homosexual", "sexual orientation", "cys"], image: "issue_twitter_lgbtq.png")
+
+# Issue.create(name: "Economy", keywords: ["economy", "tax", "taxes", "raise", "minimum wage", "raise the minimum wage", "jobs", "job", "wages", "wage", "tax break", "tax breaks", "economic", "economic policy", "economic plan", "debt", "tax plan", "recession", "surplus", "spending", "trade", "economic growth", "tax code", "tax reform", "job creation", "creates jobs", "obamanomics", "regulation", "jobs report", "jobsreport", "gdp", "trickle-down", "trickle down", "working-class", "working class", "middle class", "rich", "poor", "socialist", "socialism", "recession", "Depression", "reaganomics"], image: "issue_twitter_economy.png")
+
+# Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", "healthcare", "health care", "aca", "obama care", "medicare", "medicaid", "affordable coverage", "affordable care", "high quality care", "high-quality care", "healthcare premium", "insurance companies", "insurance company"], image: "issue_twitter_healthcare.png")
+
+# Politician.create(name: "Diana Ozemebhoya Eromosele", political_party: "Democrat", title: "DBC Student", twitter_handle: "lecturestobeats", twitter_profile: "Software Engineer-in-training at DBC", image: 'diana.png')
+
+# Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image:'hillary_clinton.png')
+
+# Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: 'bernie_sanders.png')
+
+# Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: 'elizabeth_warren.png')
+
+# Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: 'donald_trump.png')
+
+# Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: 'paul_ryan.png')
+
+# Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.png')
+
+# Politician.all.each do |p|
+#   Issue.all.each do |i|
+#     Interest.create(politician_id: p.id, issue_id: i.id)
 #   end
-
-# def client.get_all_tweets(politician)
-#   options = {:count => 250, :include_rts => true}
-#   user_timeline(politician, options)
 # end
 
-# hillary_tweets = client.get_all_tweets("hillaryclinton")
-# diana_tweets = client.get_all_tweets("lecturestobeats")
-# bernie_sanders_tweets = client.get_all_tweets("sensanders")
-# elizabeth_warren_tweets = client.get_all_tweets("senwarren")
-# donald_trump_tweets = client.get_all_tweets("realdonaldtrump")
-# paul_ryan_tweets = client.get_all_tweets("speakerryan")
-# ted_cruz_tweets = client.get_all_tweets("sentedcruz")
+#############################################################################################
+# Congress Seed
 
-Issue.create(name: "Gun Laws", keywords: ["second amendment", "gun", "guns", "firearms", "fire arms", "shooting", "shootings", "mass shootings", "gun violence", "endgunviolence", "disarmhate", "2nd amendment", "gun violence prevention laws", "nra", "gun show loophole", "gun show", "mass shootings"], image: "issue_twitter_gunlaws.png")
+Category.delete_all
 
-Issue.create(name: "Immigration", keywords: ["immigration" "immigrant", "refugee", "refugees", "deportation", "undocumented", "undocumented immigrant", "illegal immigrant", "illegals", "border", "border control", "detention center", "amnesty", "sanctuary city", "sanctuary cities"], image: "issue_twitter_immigration.png")
+Category.create(name: "Gun Laws", subjects: [
+      "Firearms and explosives",
+      "Arms control and nonproliferation"
+      ].map { |subject| Subject.find_by(name: subject) })
 
-Issue.create(name: "LGBTQ", keywords: ["lgbtq", "lgbtq rights", "lgbt", "lesbian", "gay", "bisexual", "trans", "transgender", "queer", "gay marriage", "bathroom bill", "pride", "gay rights", "homophobia", "homosexual", "sexual orientation", "cys"], image: "issue_twitter_lgbtq.png")
+Category.create(name: "Immigration", subjects: [
+      "Civil Rights and Liberties, Minority Issues",
+      "Department of Homeland Security",
+      "Border security and unlawful immigration",
+      "Foreign labor",
+      "Homeland security",
+      "Immigration status and procedures",
+      "Refugees, asylum, displaced persons",
+      "Visas and passports",
+      "Immigrant health and welfare",
+      "Customs enforcement",
+      "Citizenship and naturalization",
+      "Immigration"
+      ].map { |subject| Subject.find_by(name: subject) })
 
-Issue.create(name: "Economy", keywords: ["economy", "tax", "taxes", "raise", "minimum wage", "raise the minimum wage", "jobs", "job", "wages", "wage", "tax break", "tax breaks", "economic", "economic policy", "economic plan", "debt", "tax plan", "recession", "surplus", "spending", "trade", "economic growth", "tax code", "tax reform", "job creation", "creates jobs", "obamanomics", "regulation", "jobs report", "jobsreport", "gdp", "trickle-down", "trickle down", "working-class", "working class", "middle class", "rich", "poor", "socialist", "socialism", "recession", "Depression", "reaganomics"], image: "issue_twitter_economy.png")
+Category.create(name: "LGBTQ", subjects: [
+      "Sex, gender, sexual orientation discrimination",
+      "Hate crimes"
+      ].map { |subject| Subject.find_by(name: subject) })
 
-Issue.create(name: "Healthcare", keywords: ["affordable care act", "obamacare", "healthcare", "health care", "aca", "obama care", "medicare", "medicaid", "affordable coverage", "affordable care", "high quality care", "high-quality care", "healthcare premium", "insurance companies", "insurance company"], image: "issue_twitter_healthcare.png")
+Category.create(name: "Economy", subjects: [
+      "Business records",
+      "Small business",
+      "Income tax credits",
+      "Employee benefits and pensions",
+      "Consumer affairs",
+      "Wages and earnings",
+      "Business investment and capital",
+      "Corporate finance and management",
+      "Banking and financial institutions regulation",
+      "Bank accounts, deposits, capital",
+      "Inflation and prices",
+      "Commodities markets",
+      "Finance and Financial Sector",
+      "Budget deficits and national debt",
+      "Employee hiring",
+      "Economic performance and conditions",
+      "Office of Management and Budget (OMB)",
+      "Taxation",
+      "Tax-exempt organizations",
+      "Sales and excise taxes",
+      "Department of Commerce",
+      "Department of Treasury",
+      "Federal Reserve System",
+      "Performance measurement",
+      "Internal Revenue Service (IRS)",
+      "Tax administration and collection, taxpayers",
+      "Transfer and inheritance taxes",
+      "Housing finance and home ownership",
+      "Public-private cooperation",
+      "Government lending and loan guarantees",
+      "Currency",
+      "Housing and community development funding",
+      "Manufacturing",
+      "Competitiveness, trade promotion, trade deficits",
+      "Trade agreements and negotiations",
+      "Interest, dividends, interest rates",
+      "Accounting and auditing",
+      "Credit and credit markets",
+      "Debt collection",
+      "Economics and Public Finance",
+      "State and local finance",
+      "Income tax exclusion",
+      "Trade restrictions",
+      "Employee performance",
+      "Office of the U.S. Trade Representative",
+      "International monetary system and foreign exchange",
+      "Foreign trade and international finance",
+      "Free trade and trade barriers",
+      "Labor standards",
+      "Tariffs",
+      "Small Business Administration",
+      "State and local taxation",
+      "Tax reform and tax simplification",
+      "Labor-management relations",
+      "Foreign and international banking",
+      "Minority and disadvantaged businesses",
+      "Economic development",
+      "Department of the Interior",
+      "Bankruptcy",
+      "Commodity Futures Trading Commission",
+      "Congressional Budget Office (CBO)",
+      "Equal Employment Opportunity Commission (EEOC)",
+      "Federal Deposit Insurance Corporation (FDIC)",
+      "Federal Labor Relations Authority",
+      "Federal Trade Commission (FTC)",
+      "Foreign loans and debt",
+      "Government Accountability Office (GAO)",
+      "Government National Mortgage Association (Ginnie Mae)",
+      "Government Publishing Office (GPO)",
+      "Income tax deferral",
+      "Office of Personnel Management (OPM)",
+      "Property tax",
+      "Tax treatment of families",
+      "Taxation of foreign income",
+      "Trade and Development Agency",
+      "Trade secrets and economic espionage",
+      "U.S. and foreign investments",
+      "Unemployment",
+      "Women in business",
+      "Consumer Financial Protection Bureau",
+      "Employment discrimination and employee rights",
+      "Income tax deductions",
+      "Employment and training programs",
+      "Economic theory",
+      "Retail and wholesale trades",
+      "Consumer Financial Protection Bureau",
+      "Business expenses",
+      "Financial literacy",
+      "Foreign Trade and International Finance",
+      "Women&#39;s employment",
+      "Social Security Administration",
+      "Senate Committee on the Budget",
+      "Minority employment",
+      "Employee leave",
+      "Commerce",
+      "Monetary policy",
+      "Self-employed",
+      "Employment taxes"
+      ].map { |subject| Subject.find_by(name: subject) })
 
-Politician.create(name: "Hillary Rodham Clinton", political_party: "Democrat", title: "Presumptive Democratic Nominee for President", twitter_handle: "hillaryclinton", twitter_profile: "Wife, mom, grandma, women+kids advocate, FLOTUS, Senator, SecState, hair icon, pantsuit aficionado, 2016 presidential candidate. Tweets from Hillary signed –H", image:'hillary_clinton.png')
+Category.create(name: "Healthcare", subjects: [
+      "Abortion",
+      "health programs administration and funding",
+      "Health care costs and insurance",
+      "Comprehensive health care",
+      "Health care coverage and access",
+      "Health facilities and institutions",
+      "Prescription drugs",
+      "Mental health",
+      "Drug therapy",
+      "Health personnel",
+      "Health promotion and preventive care",
+      "Neurological disorders",
+      "Allied health services",
+      "Drug, alcohol, tobacco use",
+      "Medicare",
+      "Health information and medical records",
+      "Women&#39;s health",
+      "Veterans&#39; medical care",
+      "Medical tests and diagnostic methods",
+      "Infectious and parastic diseases",
+      "Health technology, devices, supplies",
+      "Emergency medical services and trauma care",
+      "Medicaid",
+      "General health and health care finance matters",
+      "Health",
+      "Department of Health and Human Services",
+      "Medical research",
+      "Teenage pregnancy",
+      "Hospital care",
+      "Minority health",
+      "Sex and reproductive health",
+      "Long-term, rehabilitative, and terminal care",
+      "Digestive and metabolic diseases",
+      "Surgery and anesthesia",
+      "Health care quality",
+      "Family planning and birth control",
+      "Alternative treatments",
+      "Musculoskeletal and skin diseases",
+      "HIV/AIDS",
+      "World Health",
+      "National Institutes of Health (NIH)",
+      "Medical ethics",
+      "Nursing",
+      "Centers for Disease Control and Prevention (CDC)",
+      "Immunology and vaccination",
+      "Drug safety, medical device, and laboratory regulation",
+      "Organ and tissue donation and transplantation"
+      ].map { |subject| Subject.find_by(name: subject) })
 
-Politician.create(name: "Bernie Sanders", political_party: "Independent", title: "Senator, Vermont", twitter_handle: "sensanders", twitter_profile: "Join our campaign for president at http://berniesanders.com . Tweets by staff.", image: 'bernie_sanders.png')
 
-Politician.create(name: "Elizabeth Warren", political_party: "Democrat", title: "Senator, Massachusetts", twitter_handle: "senwarren", twitter_profile: "Official twitter account of Senator Elizabeth Warren of Massachusetts.", image: 'elizabeth_warren.png')
 
-Politician.create(name: "Donald Trump", political_party: "Republican", title: "Presumptive Republican Nominee for President", twitter_handle: "realdonaldtrump", twitter_profile: "#MakeAmericaGreatAgain #Trump2016 #Instagram: https://www.instagram.com/realdonaldtrump/ … #Facebook: https://m.facebook.com/DonaldTrump/", image: 'donald_trump.png')
-
-Politician.create(name: "Paul Ryan", political_party: "Republican", title: "Speaker of the House", twitter_handle: "speakerryan", twitter_profile: "Office of the 54th Speaker of the House, Paul Ryan", image: 'paul_ryan.png')
-
-Politician.create(name: "Ted Cruz", political_party: "Republican", title: "Senator, Texas", twitter_handle: "sentedcruz", twitter_profile: "Representing the State of Texas in the United States Senate.", image: 'ted_cruz.png')
-
-Politician.all.each do |p|
-  Issue.all.each do |i|
-    Interest.create(politician_id: p.id, issue_id: i.id)
-  end
-end
 #############################################################################################
 ####################  DO NOT UNCOMMENT OUT BELOW!!!! ########################################
 #############################################################################################
