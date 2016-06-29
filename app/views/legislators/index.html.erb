@@ -1,0 +1,38 @@
+<h1>Legislators Index Page</h1>
+
+
+<h3>Senators:</h3>
+<% @legislators.each do |legislator| %>
+  <% if legislator.chamber == "Senate" %>
+  <ul class="list-unstyled">
+    <li><%= legislator.first_name %> <%= legislator.last_name %></li>
+    <% if legislator.party == "R" %>
+      <li><%= "Republican" %> <%= legislator.state %></li>
+      <% else %>
+      <li><%= "Democrat" %> <%= legislator.state %></li>
+      <% end %>
+          </ul>
+
+  <% end %>
+  <% end %>
+
+
+<h2>House of Representatives:</h2>
+
+<% @legislators.each do |legislator| %>
+  <% if legislator.chamber == "House" %>
+
+    <ul class="list-unstyled">
+
+    <li><%= legislator.first_name %> <%= legislator.last_name %></li>
+    <% if legislator.party == "R" %>
+      <li><%= "Republican" %> <%= legislator.state %></li>
+      <% else %>
+      <li><%= "Democrat" %> <%= legislator.state %></li>
+      <% end %>
+          </ul>
+
+    <% end %> 
+    <% end %>
+
+
