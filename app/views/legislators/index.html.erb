@@ -1,3 +1,4 @@
+
 <div class="container heading-container">
   <h2 class="heading-text">Legislators in U.S. Congress</h2>
   <h4 id="legislator-index-sub-heading-text">Click on a legislator's name to view their voting record on select issues</h4>
@@ -40,4 +41,43 @@
         </div>
     </div>
 </div>
+
+
+<h1>Legislators</h1>
+
+
+<h3>Senators:</h3>
+<% @legislators.each do |legislator| %>
+  <% if legislator.chamber == "Senate" %>
+  <ul class="list-unstyled">
+    <li><%= legislator.first_name %> <%= legislator.last_name %></li>
+    <% if legislator.party == "R" %>
+      <li><%= "Republican" %> <%= legislator.state %></li>
+      <% else %>
+      <li><%= "Democrat" %> <%= legislator.state %></li>
+      <% end %>
+          </ul>
+
+  <% end %>
+  <% end %>
+
+
+<h2>House of Representatives:</h2>
+
+<% @legislators.each do |legislator| %>
+  <% if legislator.chamber == "House" %>
+
+    <ul class="list-unstyled">
+
+    <li><%= legislator.first_name %> <%= legislator.last_name %></li>
+    <% if legislator.party == "R" %>
+      <li><%= "Republican" %> <%= legislator.state %></li>
+      <% else %>
+      <li><%= "Democrat" %> <%= legislator.state %></li>
+      <% end %>
+          </ul>
+
+    <% end %> 
+    <% end %>
+
 

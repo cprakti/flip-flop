@@ -19,4 +19,10 @@ class Legislator < ActiveRecord::Base
      {yes: issue_percent_yes, no:issue_percent_no}
   end #end of method
 
+  def self.search(search)
+    if search
+      Legislator.where('LOWER(first_name) LIKE ? OR LOWER(last_name) LIKE ?', "%#{search.downcase}%", "%#{search.downcase}%")
+    end
+  end
+
 end #end of class

@@ -1,8 +1,18 @@
-<%= form_tag politicians_path, :class => "foo", :method => 'get' do %>
+<button class="twitter-button" type="button">Twitter</button>
+<button class="legis-button" type="button">Legislator</button>
+
+<%= form_tag politicians_path, :class => "poli-search", :method => 'get' do %>
    <p>
-     <%= text_field_tag :search, params[:search], class: "search-form", placeholder: "find an elected officials' twitter" %>
+
+     <%= text_field_tag :search, params[:search], class: "search-form", placeholder: "Twitter" %>
      <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary" %></button>
    </p>
  <% end %>
 
+<%= form_tag legislators_path, :class => "legis-search", :method => 'get' do %>
+   <p>
+     <%= text_field_tag :search, params[:search], class: "search-form", placeholder: "Legislators" %>
+     <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary" %></button>
+   </p>
+ <% end %>
 
