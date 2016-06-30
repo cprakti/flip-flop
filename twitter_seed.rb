@@ -354,6 +354,247 @@ Politician.create(name: "Denny Heck", political_party: "Democrat", title: "U.S. 
 
 Politician.create(name: "George Holding", political_party: "Republican", title: "U.S. Representative, North Carolina", twitter_handle: "RepHolding", twitter_profile: "Official Twitter account for Congressman George Holding, representing North Carolina's 13th Congressional District.", image: "george_holding.png")
 
+Politician.create(name: "Richard Hudson", political_party: "Republican", title: "U.S. Representative, North Carolina", twitter_handle: "RepRichHudson", twitter_profile: "Official Twitter account for Congressman Richard Hudson -- proudly representing the 8th Congressional District of North Carolina.", image: "richard_hudson.png")
+
+Politician.create(name: "Jared Huffman", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepHuffman", twitter_profile: "Congressman for California's North Coast. On Facebook at http://facebook.com/RepHuffman", image: "jared_huffman.png")
+
+Politician.create(name: "Cresent Hardy", political_party: "Republican", title: "U.S. Representative, Nevada", twitter_handle: "RepHardy", twitter_profile: "Proudly representing Nevada's 4th Congressional District", image: "cresent_hardy.png")
+
+Politician.create(name: "Jody Hice", political_party: "Republican", title: "U.S. Representative, Georgia", twitter_handle: "CongressmanHice", twitter_profile: "I'm honored to serve Georgia's 10th Congressional District.", image: "jody_hice.png")
+
+Politician.create(name: "French Hill", political_party: "Republican", title: "U.S. Representative, Arkansas", twitter_handle: "RepFrenchHill", twitter_profile: "Official account for Rep French Hill. Ninth generation Arkansan and Little Rock businessman proudly representing Arkansas's Second Congressional District. #AR2", image: "french_hill.png")
+
+Politician.create(name: "Will Hurd", political_party: "Republican", title: "U.S. Representative, Texas", twitter_handle: "HurdOnTheHill", twitter_profile: "San Antonio native, @TAMU grad, former undercover @CIA officer, cybersecurity expert, Chair of IT Subcommittee on @GOPOversight, also on @HouseHomeland", image: "will_hurd.png")
+
+Politician.create(name: "Darrell Issa", political_party: "Republican", title: "U.S. Representative, California", twitter_handle: "DarrellIssa", twitter_profile: "I work for CA-49, Chair the Subcommittee on Courts, Intellectual Property, and the Internet, & serve on the House Committee on Foreign Affairs.", image: "darrell_issa.png")
+
+Politician.create(name: "Steve Israel", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepSteveIsrael", twitter_profile: "Representing New York's 3rd Congressional District in the House of Representatives.", image: "steve_israel.png")
+
+Politician.create(name: "Sheila Jackson Lee", political_party: "Democrat", title: "U.S. Representative, Texas", twitter_handle: "JacksonLeeTX18", twitter_profile: "Official Twitter account for Congresswoman Sheila Jackson Lee, Representing Texas' 18th Congressional District in the U.S. House of Representatives", image: "sheila_lee.png")
+
+Politician.create(name: "Eddie B. Johnson", political_party: "Democrat", title: "U.S. Representative, Texas", twitter_handle: "RepEBJ", twitter_profile: "Rep. Eddie Bernice Johnson representing TX-30; Ranking Member of the House Committee on Science, Space and Technology; 1st Registered Nurse in Congress", image: "eddie_johnson.png")
+
+Politician.create(name: "Sam Johnson", political_party: "Republican", title: "U.S. Representative, Texas", twitter_handle: "SamsPressShop", twitter_profile: "Faithfully serving the Third Congressional District of Texas.", image: "sam_johnson.png")
+
+Politician.create(name: "Walter Jones", political_party: "Republican", title: "U.S. Representative, North Carolina", twitter_handle: "SamsPressShop", twitter_profile: "Congressman Walter B. Jones represents the Third Congressional District of North Carolina #NC03", image: "walter_jones.png")
+
+Politician.create(name: "Hank Johnson", political_party: "Democrat", title: "U.S. Representative, Georgia", twitter_handle: "RepHankJohnson", twitter_profile: "I fight for justice, civil rights and working people the world over.", image: "hank_johnson.png")
+
+Politician.create(name: "Jim Jordan", political_party: "Republican", title: "U.S. Representative, Ohio", twitter_handle: "Jim_Jordan", twitter_profile: "Proudly serving Ohio's beautiful fourth district.", image: "jim_jordan.png")
+
+Politician.create(name: "Lynn Jenkins", political_party: "Republican", title: "U.S. Representative, Kansas", twitter_handle: "RepLynnJenkins", twitter_profile: "Proud to represent the 2nd District of Kansas | Vice Chair of the House Republican Conference | CPA", image: "lynn_jenkins.png")
+
+Politician.create(name: "Bill Johnson", political_party: "Republican", title: "U.S. Representative, Ohio", twitter_handle: "RepBillJohnson", twitter_profile: "Proudly representing #Ohio's 6th Congressional District. Energy Enthusiast. Veteran. Husband. Father. Grandfather.", image: "bill_johnson.png")
+
+Politician.create(name: "Hakeem Jeffries", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepJeffries", twitter_profile: "Member of Congress proudly representing the 8th District of New York", image: "hakeem_jeffries.png")
+
+Politician.create(name: "Dave Joyce", political_party: "Republican", title: "U.S. Representative, Ohio", twitter_handle: "RepDaveJoyce", twitter_profile: "Father, husband, and former prosecutor proudly representing #OH14", image: "dave_joyce.png")
+
+Politician.create(name: "David Jolly", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "USRepDavidJolly", twitter_profile: "Proudly representing Florida's 13th District and the people of Pinellas County in the U.S. House.", image: "david_jolly.png")
+
+Politician.create(name: "Evan Jenkins", political_party: "Republican", title: "U.S. Representative, West Virginia", twitter_handle: "RepEvanJenkins", twitter_profile: "I'm honored to represent the people of West Virginia's 3rd Congressional District in the 114th Congress.", image: "evan_jenkins.png")
+
+Politician.create(name: "Marcy Kaptur", political_party: "Democrat", title: "U.S. Representative, Ohio", twitter_handle: "RepMarcyKaptur", twitter_profile: "Office of Congresswoman Marcy Kaptur - - Serving Ohio's 9th District in the United States Congress", image: "marcy_kaptur.png")
+
+Politician.create(name: "Ron Kind", political_party: "Democrat", title: "U.S. Representative, Wisconsin", twitter_handle: "RepRonKind", twitter_profile: "Member of the U.S. House of Representatives from Wisconsin's Third Congressional District.", image: "ron_kind.png")
+
+Politician.create(name: "Pete King", political_party: "Republican", title: "U.S. Representative, New York", twitter_handle: "RepPeteKing", twitter_profile: "Representing New York's 2nd Congressional District", image: "pete_king.png")
+
+Politician.create(name: "Steve King", political_party: "Republican", title: "U.S. Representative, Iowa", twitter_handle: "SteveKingIA", twitter_profile: "Representing the 4th District of Iowa #IA04 ", image: "steve_king.png")
+
+Politician.create(name: "John Kline", political_party: "Republican", title: "U.S. Representative, Minnesota", twitter_handle: "repjohnkline", twitter_profile: "Serving my seventh term in Congress, I am married to wife, Vicky. I served 25 years in the Marine Corps, retiring at the rank of Colonel.", image: "john_kline.png")
+
+Politician.create(name: "Ann Kirkpatrick", political_party: "Democrat", title: "U.S. Representative, Arizona", twitter_handle: "RepKirkpatrick", twitter_profile: "Congresswoman Ann Kirkpatrick, Arizona's District One, is a member of the House Agriculture Committee and the Transportation & Infrastructure Committee.", image: "ann_kirkpatrick.png")
+
+Politician.create(name: "Bill Keating", political_party: "Democrat", title: "U.S. Representative, Massachusetts", twitter_handle: "USRepKeating", twitter_profile: "Welcome to the official Twitter page of Congressman Bill Keating!", image: "bill_keating.png")
+
+Politician.create(name: "Mike Kelly", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "MikeKellyPA", twitter_profile: "Representative Mike Kelly proudly and humbly serves the people of Pennsylvania's Third District (#PA03) and currently sits on the House Ways & Means Committee.", image: "mike_kelly.png")
+
+Politician.create(name: "Adam Kinzinger", political_party: "Republican", title: "U.S. Representative, Illinois", twitter_handle: "RepKinzinger", twitter_profile: "I represent Illinois' 16th District. It's an honor to serve in Congress on Energy & Commerce and as a pilot in the Air National Guard.", image: "adam_kinzinger.png")
+
+Politician.create(name: "Joe Kennedy III", political_party: "Democrat", title: "U.S. Representative, Massachusetts", twitter_handle: "RepJoeKennedy", twitter_profile: "Official Twitter account of Congressman Joe Kennedy III, representing Massachusetts' 4th Congressional District.", image: "joe_kennedy.png")
+
+Politician.create(name: "Dan Kildee", political_party: "Democrat", title: "U.S. Representative, Michigan", twitter_handle: "RepDanKildee", twitter_profile: "Honored to represent Michigan's Fifth Congressional District. Born and raised in Flint. Proud husband, father and grandfather.", image: "dan_kildee.png")
+
+Politician.create(name: "Derek Kilmer", political_party: "Democrat", title: "U.S. Representative, Washington", twitter_handle: "RepDerekKilmer", twitter_profile: "Representing Washington's 6th District in the House of Representatives FB: https://www.facebook.com/derek.kilmer ", image: "derek_kilmer.png")
+
+Politician.create(name: "Ann McLane Kuster", political_party: "Democrat", title: "U.S. Representative, New Hampshire", twitter_handle: "RepAnnieKuster", twitter_profile: "Honored to serve the people of New Hampshire’s Second District in Congress.", image: "ann_kuster.png")
+
+Politician.create(name: "Robin Kelly", political_party: "Democrat", title: "U.S. Representative, Illinois", twitter_handle: "RepRobinKelly", twitter_profile: "Official Twitter account for Robin Kelly, U.S. Representative for IL's 2nd District and chairwoman of the Congressional Black Caucus Health Braintrust.", image: "robin_kelly.png")
+
+Politician.create(name: "John Katko", political_party: "Republican", title: "U.S. Representative, New York", twitter_handle: "RepJohnKatko", twitter_profile: "Official Twitter account of Rep. John Katko. Proudly representing New York's 24th Congressional District.", image: "john_katko.png")
+
+Politician.create(name: "Trent Kelly", political_party: "Republican", title: "U.S. Representative, Mississippi", twitter_handle: "RepTrentKelly", twitter_profile: "Proudly serving Mississippi's First Congressional District in the U.S. House of Representatives", image: "trent_kelly.png")
+
+Politician.create(name: "Sandy Levin", political_party: "Democrat", title: "U.S. Representative, Michigan", twitter_handle: "repsandylevin", twitter_profile: "Congressman Sandy Levin representing Michigan’s 9th Congressional District. Ranking Member of the House Ways and Means Committee.", image: "sandy_levin.png")
+
+Politician.create(name: "John Lewis", political_party: "Democrat", title: "U.S. Representative, Georgia", twitter_handle: "repjohnlewis", twitter_profile: "Congressman, Georgia's Fifth Congressional District", image: "john_lewis.png")
+
+Politician.create(name: "Zoe Lofgren", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepZoeLofgren", twitter_profile: "Member of Congress Proudly Representing CA's 19th Congressional District in Silicon Valley's cities of San Jose, Morgan Hill & Gilroy", image: "zoe_lofgren.png")
+
+Politician.create(name: "Nita Lowey", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "NitaLowey", twitter_profile: "Proudly representing NY's 17th District. RM on House Approps Committee (@AppropsDems). RTs/follows ≠ endorsements. Newsletter sign-up: https://lowey.house.gov/contact-nita/newsletter-signup", image: "nita_lowey.png")
+
+Politician.create(name: "Frank Lucas", political_party: "Republican", title: "U.S. Representative, Oklahoma", twitter_handle: "RepFrankLucas", twitter_profile: "Fifth generation Oklahoman proudly representing the Third Congressional District of Oklahoma.", image: "frank_lucas.png")
+
+Politician.create(name: "Barbara Lee", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepBarbaraLee", twitter_profile: "Progressive Democrat proudly representing the #EastBay CA-13 in Congress. Working to promote economic & racial justice, peace & human rights in the US & abroad.", image: "barbara_lee.png")
+
+Politician.create(name: "Frank LoBiondo", political_party: "Republican", title: "U.S. Representative, New Jersey", twitter_handle: "RepLoBiondo", twitter_profile: "Congressman proudly representing New Jersey's 2nd District. Chairman of House Aviation Subcommittee & CIA Subcommittee", image: "frank_lobiondo.png")
+
+Politician.create(name: "John Larson", political_party: "Democrat", title: "U.S. Representative, Connecticut", twitter_handle: "RepJohnLarson", twitter_profile: "Member of Congress representing the first congressional district of Connecticut.", image: "john_larson.png")
+
+Politician.create(name: "Jim Langevin", political_party: "Democrat", title: "U.S. Representative, Rhode Island", twitter_handle: "jimlangevin", twitter_profile: "Congressman for Rhode Island's Second District", image: "jim_langevin.png")
+
+Politician.create(name: "Rick Larsen", political_party: "Democrat", title: "U.S. Representative, Washington", twitter_handle: "RepRickLarsen", twitter_profile: "Born and raised in Arlington, Wash. Ranking Member, Aviation Subcommittee", image: "rick_larsen.png")
+
+Politician.create(name: "Stephen Lynch", political_party: "Democrat", title: "U.S. Representative, Massachusetts", twitter_handle: "RepStephenLynch", twitter_profile: "The official Twitter account of Congressman Stephen F. Lynch. Proudly serving the 8th Congressional District of Massachusetts.", image: "stephen_lynch.png")
+
+Politician.create(name: "Daniel Lipinski", political_party: "Democrat", title: "U.S. Representative, Illinois", twitter_handle: "RepLipinski", twitter_profile: "Proudly representing the people of Illinois' 3rd Congressional District. Follow me on Facebook at http://www.facebook.com/repdanlipinski ", image: "daniel_lipinski.png")
+
+Politician.create(name: "Doug Lamborn", political_party: "Republican", title: "U.S. Representative, Colorado", twitter_handle: "RepDLamborn", twitter_profile: "Republican Congressman for Colorado's 5th Congressional District. For regular email updates, sign-up at http://lamborn.house.gov  ", image: "doug_lamborn.png")
+
+Politician.create(name: "Dave Loebsack", political_party: "Democrat", title: "U.S. Representative, Iowa", twitter_handle: "daveloebsack", twitter_profile: "Fighting for the hardworking people of Iowa", image: "dave_loebsack.png")
+
+Politician.create(name: "Bob Latta", political_party: "Republican", title: "U.S. Representative, Ohio", twitter_handle: "boblatta", twitter_profile: "Representing #OH5. Deputy Whip. Member of @HouseCommerce Committee. Vice Chairman of the Communications & Technology Subcommittee.", image: "bob_latta.png")
+
+Politician.create(name: "Leonard Lance", political_party: "Republican", title: "U.S. Representative, New Jersey", twitter_handle: "RepLanceNJ7", twitter_profile: "Official Twitter Account for Congressman Leonard Lance. Proudly Representing New Jersey's 7th Congressional District. http://www.lance.house.gov ", image: "leonard_lance.png")
+
+Politician.create(name: "Blaine Luetkemeyer", political_party: "Republican", title: "U.S. Representative, Missouri", twitter_handle: "RepBlainePress", twitter_profile: "Congressman from Missouri's 3rd Congressional District, Member of the House Financial Services and Small Business Committees", image: "blaine_luetkemeyer.png")
+
+Politician.create(name: "Ben Ray Lujan", political_party: "Democrat", title: "U.S. Representative, New Mexico", twitter_handle: "repbenraylujan", twitter_profile: "Proudly Representing New Mexico’s 3rd Congressional District. @EnergyCommerce Committee, and Member of @HispanicCaucus. Follows, replies & RTs ≠ endorsement.", image: "ben_lujan.png")
+
+Politician.create(name: "Cynthia Lummis", political_party: "Republican", title: "U.S. Representative, Wyoming", twitter_handle: "CynthiaLummis", twitter_profile: "Proud to represent the people of Wyoming in the U.S. House of Representatives.", image: "cynthia_lummis.png")
+
+Politician.create(name: "Raul Labrador", political_party: "Republican", title: "U.S. Representative, Idaho", twitter_handle: "Raul_Labrador", twitter_profile: "Proudly serving Idaho's beautiful 1st Congressional District.", image: "raul_labrador.png")
+
+Politician.create(name: "Billy Long", political_party: "Republican", title: "U.S. Representative, Missouri", twitter_handle: "USRepLong", twitter_profile: "Representing Missouri’s 7th District in the United States Congress Member of the House Energy and Commerce Committee", image: "billy_long.png")
+
+Politician.create(name: "Doug LaMalfa", political_party: "Republican", title: "U.S. Representative, California", twitter_handle: "RepLaMalfa", twitter_profile: "Representing California's First District including Siskiyou, Shasta, Tehama, Butte, Glenn, Modoc, Lassen, Plumas, Sierra, Nevada and Placer Counties", image: "doug_lamalfa.png")
+
+Politician.create(name: "Alan Lowenthal", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepLowenthal", twitter_profile: "Proudly serving California's 47th Congressional District. http://www.facebook.com/RepLowenthal ", image: "alan_lowenthal.png")
+
+Politician.create(name: "Michelle Grisham", political_party: "Democrat", title: "U.S. Representative, New Mexico", twitter_handle: "RepLujanGrisham", twitter_profile: "Proudly serving New Mexico's 1st Congressional District. Serving on House Agriculture, Budget and Oversight & Government Reform Committees. ", image: "michelle_grisham.png")
+
+Politician.create(name: "Brenda Lawrence", political_party: "Democrat", title: "U.S. Representative, Michigan", twitter_handle: "RepLawrence", twitter_profile: "Congresswoman for Michigan's 14th District: Detroit, Southfield, Oakland and Wayne Counties.", image: "brenda_lawrence.png")
+
+Politician.create(name: "Ted Lieu", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepTedLieu", twitter_profile: "Representing California's 33rd District in Congress - On House OGR & Budget Committees - Democratic Freshman Class President - Colonel in Air Force Reserves", image: "ted_lieu.png")
+
+Politician.create(name: "Barry Loudermilk", political_party: "Republican", title: "U.S. Representative, Georgia", twitter_handle: "RepLoudermilk", twitter_profile: "Rep. Barry Loudermilk represents Georgia's 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.", image: "barry_loudermilk.png")
+
+Politician.create(name: "Mia Love", political_party: "Republican", title: "U.S. Representative, Utah", twitter_handle: "RepMiaLove", twitter_profile: "Official account for Congresswoman Mia Love, Utah's 4th District", image: "mia_love.png")
+
+Politician.create(name: "Darin LaHood", political_party: "Republican", title: "U.S. Representative, Illinois", twitter_handle: "RepLaHood", twitter_profile: "Proudly representing the 18th Congressional District of Illinois.", image: "darin_lahood.png")
+
+Politician.create(name: "Carolyn Maloney", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepMaloney", twitter_profile: "New York's 12th Congressional District - Manhattan, Brooklyn & Queens", image: "carolyn_maloney.png")
+
+Politician.create(name: "Jim McGovern", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepMcGovern", twitter_profile: "Official Twitter account for Congressman Jim McGovern, of Massachusetts' 2nd Congressional District.", image: "jim_mcgovern.png")
+
+Politician.create(name: "Jim McDermott", political_party: "Democrat", title: "U.S. Representative, Washington", twitter_handle: "RepJimMcDermott", twitter_profile: "Proudly serving Washington State's 7th Congressional District", image: "jim_mcdermott.png")
+
+Politician.create(name: "Gregory Meeks", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "GregoryMeeks", twitter_profile: "Proudly serving the 5th Congressional District of New York.", image: "gregory_meeks.png")
+
+Politician.create(name: "Betty McCollum", political_party: "Democrat", title: "U.S. Representative, Minnesota", twitter_handle: "BettyMcCollum04", twitter_profile: "Proudly representing Minnesota's Fourth District in the United States House of Representatives.", image: "betty_mccollum.png")
+
+Politician.create(name: "Jeff Miller", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "RepJeffMiller", twitter_profile: "Congressman Jeff Miller represents Florida's First Congressional District. He serves as Chairman of the House VA Committee.", image: "jeff_miller.png")
+
+Politician.create(name: "Candice Miller", political_party: "Republican", title: "U.S. Representative, Michigan", twitter_handle: "CandiceMiller", twitter_profile: "Proudly serving Michigan's 10th Congressional District", image: "candice_miller.png")
+
+Politician.create(name: "Tim Murphy", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepTimMurphy", twitter_profile: "U.S. Congressman representing Pennsylvania's 18th District, encompassing the South Hills and portions of Greene, Washington & Westmoreland Counties.", image: "tim_murphy.png")
+
+Politician.create(name: "Patrick McHenry", political_party: "Republican", title: "U.S. Representative, North Carolina", twitter_handle: "PatrickMcHenry", twitter_profile: "I represent the citizens of North Carolina’s 10th District in the United States Congress.", image: "patrick_mchenry.png")
+
+Politician.create(name: "Michael McCaul", political_party: "Republican", title: "U.S. Representative, Texas", twitter_handle: "RepMcCaul", twitter_profile: "News from Congressman Michael McCaul (R-TX 10) and his Press Office.", image: "michael_mccaul.png")
+
+Politician.create(name: "Kenny Marchant", political_party: "Republican", title: "U.S. Representative, Texas", twitter_handle: "RepKenMarchant", twitter_profile: "Serving the 24th Congressional District of Texas | Member of @WaysandMeansGOP and House Ethics Committee", image: "kenny_marchant.png")
+
+Politician.create(name: "Cathy Rodgers", political_party: "Republican", title: "U.S. Representative, Washington", twitter_handle: "cathymcmorris", twitter_profile: "Proudly serving Washington's beautiful 5th District in Congress, Chair of the House Republican Conference. Mom of three.", image: "cathy_rodgers.png")
+
+Politician.create(name: "Gwen Moore", political_party: "Democrat", title: "U.S. Representative, Wisconsin", twitter_handle: "RepGwenMoore", twitter_profile: "Proudly representing Wisconsin’s 4th Congressional District; mother, grandmother; loves poetry, reading, knitting and crocheting.", image: "gwen_moore.png")
+
+Politician.create(name: "Doris Matsui", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "DorisMatsui", twitter_profile: "Representing California's 6th Congressional District - including the capital city of Sacramento. Member of the Energy and Commerce Committee.", image: "doris_matsui.png")
+
+Politician.create(name: "Kevin McCarthy", political_party: "Republican", title: "U.S. Representative, California", twitter_handle: "GOPLeader", twitter_profile: "I serve as Majority Leader and Representative of California's 23rd district in the U.S. House of Representatives.", image: "kevin_mccarthy.png")
+
+Politician.create(name: "Jerry McNerney", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "RepMcNerney", twitter_profile: "Proudly representing California's 9th Congressional District. Learn more about my work in Congress at http://www.facebook.com/jerrymcnerney ", image: "jerry_mcnerney.png")
+
+Politician.create(name: "Tom Marino", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepTomMarino", twitter_profile: "Proud to serve citizens of PA-10. Member on @HouseForeign @HouseHomeland @HouseJudiciary & Vice President of @NATO Parliamentary Assembly", image: "tom_marino.png")
+
+Politician.create(name: "David McKinley", political_party: "Republican", title: "U.S. Representative, West Virginia", twitter_handle: "RepMcKinley", twitter_profile: "Proud to serve the First District of West Virginia in the U.S. House of Representatives. Member of the Energy and Commerce Committee. Staff-run account", image: "david_mckinley.png")
+
+Politician.create(name: "Patrick Meehan", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepMeehan", twitter_profile: "Proudly representing Pennsylvania's 7th District in the U.S. House of Representatives", image: "patrick_meehan.png")
+
+Politician.create(name: "Mick Mulvaney", political_party: "Republican", title: "U.S. Representative, South Carolina", twitter_handle: "RepMickMulvaney", twitter_profile: "", image: "mick_mulvaney.png")
+
+Politician.create(name: "Thomas Massie", political_party: "Republican", title: "U.S. Representative, Kentucky", twitter_handle: "RepThomasMassie", twitter_profile: "U.S. Representative for Kentucky's 4th District", image: "thomas_massie.png")
+
+Politician.create(name: "Sean Maloney", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepSeanMaloney", twitter_profile: "Proud to represent New York's 18th Congressional District", image: "sean_maloney.png")
+
+Politician.create(name: "Mark Meadows", political_party: "Republican", title: "U.S. Representative, North Carolina", twitter_handle: "RepMarkMeadows", twitter_profile: "I am a businessman, husband and father proudly representing North Carolina's 11th Congressional District.", image: "mark_meadows.png")
+
+Politician.create(name: "Grace Meng", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepGraceMeng", twitter_profile: "Representing NY's 6th Congressional District - Parts of West, Central and Northeast Queens. For specific questions or concerns, please contact my office.", image: "grace_meng.png")
+
+Politician.create(name: "Luke Messer", political_party: "Republican", title: "U.S. Representative, Indiana", twitter_handle: "RepLukeMesser", twitter_profile: "Husband to a wonderful wife, father of three great kids, Congressman for Indiana's 6th Congressional District, lifelong Hoosier, and a die-hard #Colts fan.", image: "luke_messer.png")
+
+Politician.create(name: "Markwayne Mullin", political_party: "Republican", title: "U.S. Representative, Oklahoma", twitter_handle: "RepMullin", twitter_profile: "Father of five. Small business owner. Honored to represent Oklahoma’s conservative values in Congress.", image: "markwayne_mullin.png")
+
+Politician.create(name: "Patrick Murphy", political_party: "Democrat", title: "U.S. Representative, Florida", twitter_handle: "RepMurphyFL", twitter_profile: "Rep. Patrick E. Murphy represents Martin, St. Lucie, and northern Palm Beach counties in the U.S. House of Representatives.", image: "patrick_murphy.png")
+
+Politician.create(name: "Tom MacArthur", political_party: "Republican", title: "U.S. Representative, New Jersey", twitter_handle: "RepTomMacArthur", twitter_profile: "Congressman for New Jersey's Third Congressional District", image: "tom_macarthur.png")
+
+Politician.create(name: "John Moolenaar", political_party: "Republican", title: "U.S. Representative, Michigan", twitter_handle: "RepMoolenaar", twitter_profile: "Representing Michigan's Fourth Congressional District. This is the Twitter page of the official House office.", image: "john_moolenaar.png")
+
+Politician.create(name: "Alex Mooney", political_party: "Republican", title: "U.S. Representative, West Virginia", twitter_handle: "RepAlexMooney", twitter_profile: "Official account for Congressman Alex Mooney representing the 2nd district of West Virginia. Serving on the Natural Resources and Budget House Committees.", image: "alex_mooney.png")
+
+Politician.create(name: "Seth Moulton", political_party: "Democrat", title: "U.S. Representative, West Virginia", twitter_handle: "sethmoulton", twitter_profile: "Congressman for #MA6. Let's bring a new generation of leadership to Washington. All Tweets are my own.", image: "seth_moulton.png")
+
+Politician.create(name: "Martha McSally", political_party: "Republican", title: "U.S. Representative, Arizona", twitter_handle: "RepMcSally", twitter_profile: "Honored to represent the people of Arizona's Second Congressional District in the U.S House of Representatives.", image: "martha_mcsally.png")
+
+Politician.create(name: "Jerry Nadler", political_party: "Democrat", title: "U.S. Representative, New York", twitter_handle: "RepJerryNadler", twitter_profile: "Representing parts of Manhattan and Brooklyn. I serve on the House Judiciary + Transportation & Infrastructure committees. Follow me at http://www.facebook.com/CongressmanNadler", image: "jerry_nadler.png")
+
+Politician.create(name: "Richard Neal", political_party: "Democrat", title: "U.S. Representative, Massachusetts", twitter_handle: "RepRichardNeal", twitter_profile: "Serving the First Congressional District of Massachusetts in the United States House of Representatives, with 87 cities and towns in western & central MA", image: "richard_neal.png")
+
+Politician.create(name: "Rick Nolan", political_party: "Democrat", title: "U.S. Representative, Minnesota", twitter_handle: "USRepRickNolan", twitter_profile: "This is the official Twitter account for U.S Congressman Rick Nolan, proudly serving the people of Minnesota's 8th Congressional District.", image: "rick_nolan.png")
+
+Politician.create(name: "Eleonor Norton", political_party: "Democrat", title: "U.S. Representative, District of Columbia", twitter_handle: "EleanorNorton", twitter_profile: "Member of the U.S. Congress", image: "eleonor_norton.png")
+
+Politician.create(name: "Grace Napolitano", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "gracenapolitano", twitter_profile: "Congresswoman from California's 32nd Congressional District in the US House of Representatives", image: "grace_napolitano.png")
+
+Politician.create(name: "Devin Nunes", political_party: "Republican", title: "U.S. Representative, California", twitter_handle: "Rep_DevinNunes", twitter_profile: "", image: "devin_nunes.png")
+
+Politician.create(name: "Randy Neugebauer", political_party: "Republican", title: "U.S. Representative, Texas", twitter_handle: "RandyNeugebauer", twitter_profile: "Proudly representing the 19th District of Texas, which stretches across 29 counties in West Texas and the Big Country.", image: "randy_neugebauer.png")
+
+Politician.create(name: "Kristi Noem", political_party: "Republican", title: "U.S. Representative, South Dakota", twitter_handle: "RepKristiNoem", twitter_profile: "I'm South Dakota's lone Member of the U.S. House of Representatives. I live in Castlewood, SD with my husband Bryon and three kids Kassidy, Kennedy & Booker.", image: "kristi_noem.png")
+
+Politician.create(name: "Rich Nugent", political_party: "Republican", title: "U.S. Representative, Florida", twitter_handle: "RepRichNugent", twitter_profile: "Proudly Representing Florida's 11th Congressional District", image: "rich_nugent.png")
+
+Politician.create(name: "Alan Nunnelee", political_party: "Republican", title: "U.S. Representative, Mississippi", twitter_handle: "RepAlanNunnelee", twitter_profile: "", image: "alan_nunnelee.png")
+
+Politician.create(name: "Donald Norcross", political_party: "Democrat", title: "U.S. Representative, New Jersey", twitter_handle: "DonNorcross4NJ", twitter_profile: "Democrat for New Jersey's First Congressional District", image: "donald_norcross.png")
+
+Politician.create(name: "Dan Newhouse", political_party: "Republican", title: "U.S. Representative, Washington", twitter_handle: "RepNewhouse", twitter_profile: "Proud to represent Washington's 4th District in the U.S. Congress", image: "dan_newhouse.png")
+
+Politician.create(name: "Beto O'Rourke", political_party: "Democrat", title: "U.S. Representative, Texas", twitter_handle: "RepBetoORourke", twitter_profile: "US Congress - El Paso", image: "beto_orourke.png")
+
+Politician.create(name: "Frank Pallone", political_party: "Democrat", title: "U.S. Representative, New Jersey", twitter_handle: "FrankPallone", twitter_profile: "The official Twitter account of Congressman Frank Pallone, Jr. (D), of New Jersey's 6th district, Ranking Member of @EnergyCommerce Committee.", image: "frank_pallone.png")
+
+Politician.create(name: "Bill Pascrell", political_party: "Democrat", title: "U.S. Representative, New Jersey", twitter_handle: "FrankPallone", twitter_profile: "I represent the 9th District of New Jersey in the House of Representatives. I currently serve on the Ways and Means and Budget Committees.", image: "bill_pascrell.png")
+
+Politician.create(name: "Nancy Pelosi", political_party: "Democrat", title: "U.S. Representative, California", twitter_handle: "NancyPelosi", twitter_profile: "Democratic Leader, focused on strengthening America's middle class and creating jobs; mother, grandmother, dark chocolate connoisseur.", image: "nancy_pelosi.png")
+
+Politician.create(name: "Joe Pitts", political_party: "Republican", title: "U.S. Representative, Pennsylvania", twitter_handle: "RepJoePitts", twitter_profile: "Joe Pitts represents the 16th Congressional District of Pennsylvania: http://www.house.gov/pitts/shortbio.shtml", image: "joe_pitts.png"
+
+Politician.create(name: "David Price", political_party: "Democrat", title: "U.S. Representative, North Carolina", twitter_handle: "RepDavidEPrice", twitter_profile: "I represent NC's 4th Congressional District, which includes parts of Alamance, Orange, Durham, Wake, Harnett, Chatham & Cumberland counties.", image: "david_price.png"
+
+Politician.create(name: "Steve Pearce", political_party: "Republican", title: "U.S. Representative, New Mexico", twitter_handle: "RepStevePearce", twitter_profile: "I represent New Mexico's 2nd Congressional District. I am fighting to create jobs in NM and voice New Mexicans' other concerns in Washington.", image: "steve_pearce.png"
+
+
+
+
+
+
+
+
+
+
 
 
 
