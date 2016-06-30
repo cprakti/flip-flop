@@ -15,14 +15,12 @@ class IssuesController < ApplicationController
   end
 
   def show
-    @issue = Issue.find_by(id: params[:id])
-    @politicians = @issue.politicians
-    # @politician = @issue.politicians.find_by(id: params[:id])
+     if params.has_key?(:search)
+        @politicians = Politician.search(params[:search])
+     else
+        @issue = Issue.find_by(id: params[:id])
+        @politicians = @issue.politicians
+     end
   end
 
-
-#   private
-#   def issue_params
-#     params.require(:issue).permit(:name)
-#   end
 end
