@@ -39,7 +39,7 @@ function draw(data){
     .enter().append( "div" )
       .attr('class', 'bar')
       .style( "width", function(d) { return d * 6 + "px"; })
-      .text( function(d) { return d; });
+      .text( function(d) { return d + " tweets"; });
   }
 
 //window.location.pathname

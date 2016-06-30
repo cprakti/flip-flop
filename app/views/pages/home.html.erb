@@ -1,6 +1,4 @@
-
-
-  <div id="homepage-tab" class="container homepage-container">
+ <div id="homepage-tab" class="container homepage-container">
 
     <div class="row homepage-header">
       <div class="col-xs-6 homepage-header-text">
@@ -23,17 +21,15 @@
         </ul>
 
 
-
-
           <div class="tab-content clearfix homepage-tab-content">
 
 
 
-            <!--- CONGRESS TAB -->
+          <!--- CONGRESS TAB -->
 
             <div class="tab-pane active" id="1b">
           
-              <h5 class="text-center" id="search-header-text">search for a legislator in congress</h5>
+              <h5 class="text-center" id="search-header-text">search for a politician in congress</h5>
                 <div id="home-search-bar-div"><%= render partial: '/pages/legis_search', layout: false %> 
                 </div>
 
@@ -44,7 +40,7 @@
                   </div>
 
                   <div class="col-xs-8">
-                    <h4 class="issues-tab-heading-text">select a key issue below to see a legislator's activity</h4>
+                    <h4 class="issues-tab-heading-text">select a key issue to see a politician's legislative activity</h4>
                   </div>
                 </div>
 
@@ -52,11 +48,11 @@
                 <div class="row congress-issue-icon-container-row-two">
 
                   <div class="col-xs-6">
-                  <%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-congress-icon-row-one"), category_path(@economy) %>
+                  <%= link_to image_tag("issue_congress_economy.png", class: "homepage-issue-congress-icon-row-one"), category_path(@congress_economy) %>
                   </div>
 
                   <div class="col-xs-6">
-                  <%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-congress-icon-row-one"), category_path(@gunlaws) %>
+                  <%= link_to image_tag("issue_congress_gunlaws.png", class: "homepage-issue-congress-icon-row-one"), category_path(@congress_gunlaws) %>
                   </div>
 
                 </div>
@@ -64,26 +60,26 @@
 
                 <div class="row congress-issue-icon-container-row-three">
                   <div class="col-xs-4">
-                    <%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-congress-icon-row-three"), category_path(@healthcare) %>
+                    <%= link_to image_tag("issue_congress_healthcare.png", class: "homepage-issue-congress-icon-row-three"), category_path(@congress_healthcare) %>
                   </div>
 
                   <div class="col-xs-4">
-                    <%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-congress-icon-row-three"), category_path(@immigration) %>
+                    <%= link_to image_tag("issue_congress_immigration.png", class: "homepage-issue-congress-icon-row-three"), category_path(@congress_immigration) %>
                   </div>
 
                   <div class="col-xs-4">
-                    <%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-congress-icon-row-two"), category_path(@lgbtq) %>
+                    <%= link_to image_tag("issue_congress_lgbtq.png", class: "homepage-issue-congress-icon-row-two"), category_path(@congress_lgbtq) %>
                   </div>
 
                 </div>
 
             </div>
-
           
 
             <!--- TWITTER TAB -->
 
             <div class="tab-pane" id="2b">
+
 
                 <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
 
@@ -103,24 +99,37 @@
               </div>
         
 
-                <div class="homepage-twitter-issue-icon-container">
-                  <% @issues.in_groups_of(3, false) do |issues| %>
-                    <div class="row">
-                      <% issues.each do |issue| %>
-                      <div class="col-xs-4">                      
-                        <%= link_to image_tag(issue.image, class: "homepage-issue-twitter-icon"), issue_path(issue) %>
-                      </div>
-                    <% end %>
-                    </div>
+            <div class="row congress-issue-icon-container-row-two">
+      
+                  <div class="col-xs-6">
+                  <%= link_to image_tag("issue_twitter_economy.png", class: "homepage-issue-congress-icon-row-one"), issue_path(@twitter_economy) %>
+                  </div>
 
-                    <% end %>
-                    </div>
-              </div>
-              </div>
-              </div>
+                  <div class="col-xs-6">
+                  <%= link_to image_tag("issue_twitter_gunlaws.png", class: "homepage-issue-congress-icon-row-one"), issue_path(@twitter_gunlaws) %>
+                  </div>
 
-<!-- END OF TABBED CONTENT -->
-            
+                </div>
+
+
+                <div class="row congress-issue-icon-container-row-three">
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_twitter_healthcare.png", class: "homepage-issue-congress-icon-row-three"), issue_path(@twitter_healthcare) %>
+                  </div>
+
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_twitter_immigration.png", class: "homepage-issue-congress-icon-row-three"), issue_path(@twitter_immigration) %>
+                  </div>
+
+                  <div class="col-xs-4">
+                    <%= link_to image_tag("issue_twitter_lgbtq.png", class: "homepage-issue-congress-icon-row-two"), issue_path(@twitter_lgbtq) %>
+                  </div>
+
+                </div>      
+
+              </div>
+              </div>
+              </div>            
           </div>
 
 

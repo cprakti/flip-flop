@@ -1,5 +1,6 @@
+<h5 class="top-home-link"><%= link_to "flip flop", root_path %></h5>
 <div class="container heading-container">
- 	 <h2 class="heading-text">politicians on twitter</h2>
+ 	 <h2 class="heading-text">politicians on twitter<%= image_tag("twitter_logo.png", class: "twitter-mini-icon") %></h2>
 
   <h5 class="text-center" id="search-header-text">search for a politician's twitter account</h5>
 
@@ -8,12 +9,12 @@
 
   <% @politicians.each do |politician| %>
     <div class="row politicians-index-list-container">
-      <div class="col-xs-4">
+      <div class="col-xs-3">
         <ul class="list-unstyled">
           <li><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
         </ul>
       </div>
-     <div class="col-xs-8 politician-show-politician-list-text">
+     <div class="col-xs-9 politician-show-politician-list-text">
         <ul class="list-unstyled">
           <li><%= link_to politician.name, politician_path(politician) %></li>
         </ul>
