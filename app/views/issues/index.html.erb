@@ -1,4 +1,3 @@
-<h5 class="top-home-link"><%= link_to "flip flop", root_path %></h5>
 <div class="container heading-container">
 
   <h2 class="heading-text">key issues</h2>
@@ -6,47 +5,46 @@
   <div class="issue-container">
     <div class='row'>
 
-      <div class='col-xs-6'>
+      <div class='col-xs-6 issue-index-col'>
+
         <%= image_tag("twitter_logo_icon.png", class:"issue-index-icon") %>
-        <h4>select a key issue to see a politician's twitter activity</h4>
+
+          <h4>select a key issue to see a politician's twitter activity</h4>
+
+         <p><%= link_to image_tag("twitter_economy_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_economy) %></p>
+
+          <p><%= link_to image_tag("twitter_gunlaws_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_gunlaws) %></p>
+
+          <p><%= link_to image_tag("twitter_healthcare_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_healthcare) %></p>
+
+          <p><%= link_to image_tag("twitter_immigation_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_immigration) %></p>
+
+          <p><%= link_to image_tag("twitter_lgbtq_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_lgbtq) %></p>  
+
       </div>
 
       <div class="col-xs-6">
         <%= image_tag("congress_icon.png", class:"issue-index-icon") %>
-        <h4>select a key issue below to see a politician's activity</h4>
+        <h4>select a key issue to see a politician's activity</h4>
+
+        <p><%= link_to image_tag("congress_economy_flag.png", class: "issue-index-icon"), category_path(@congress_economy) %></p>
+
+          <p><%= link_to image_tag("congress_gunlaws_flag.png", class: "issue-index-icon"), category_path(@congress_gunlaws) %></p>
+
+          <p><%= link_to image_tag("congress_healthcare_flag.png", class: "issue-index-icon"), category_path(@congress_healthcare) %></p>
+
+           <p><%= link_to image_tag("congress_immigration_flag.png", class: "issue-index-icon"), category_path(@congress_immigration) %></p>
+           
+          <p><%= link_to image_tag("congress_lgbtq_flag.png", class: "issue-index-icon"), category_path(@congress_lgbtq) %></p>
+
+
       </div>
+
 
     </div>
 
-    <div class="row">
-      <div class='col-xs-6'>
-          <p><%= link_to image_tag("twitter_economy_twitter_colour.png", class: "issue-index-icon"), issue_path(@economy) %></p>
-
-          <p><%= link_to image_tag("twitter_gunlaws_twitter_colour.png", class: "issue-index-icon"), issue_path(@gunlaws) %></p>
-
-          <p><%= link_to image_tag("twitter_healthcare_twitter_colour.png", class: "issue-index-icon"), issue_path(@healthcare) %></p>
-
-          <p><%= link_to image_tag("twitter_immigation_twitter_colour.png", class: "issue-index-icon"), issue_path(@immigration) %></p>
-
-          <p><%= link_to image_tag("twitter_lgbtq_twitter_colour.png", class: "issue-index-icon"), issue_path(@lgbtq) %></p>  
-      </div>
-
-
-      <div class='col-xs-6'>
-
-          <p><%= link_to image_tag("congress_economy_flag.png", class: "issue-index-icon"), root_path %></p>
-
-          <p><%= link_to image_tag("congress_gunlaws_flag.png", class: "issue-index-icon"), root_path %></p>
-
-          <p><%= link_to image_tag("congress_healthcare_flag.png", class: "issue-index-icon"), root_path %></p>
-
-           <p><%= link_to image_tag("congress_immigation_flag.png", class: "issue-index-icon"), root_path %></p>
-           
-          <p><%= link_to image_tag("congress_lgbtq_flag.png", class: "issue-index-icon"), root_path %></p>
-
-      </div>
+    
 
     </div>
 
   </div>
-</div>
