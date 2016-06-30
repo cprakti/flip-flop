@@ -35,8 +35,17 @@
   margin-bottom: 5%;
 }
 
-#number-of-tweets-text {
+
+.number-of-tweets-text {
   font-size: 22px;
+  color: #432C6F;
+  font-weight: bold;
+  border-top: 1px solid #432C6F;
+  border-bottom: 1px solid #432C6F;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  margin-bottom: 4%;
 }
 
 #click-to-view-tweets-text {
@@ -80,7 +89,7 @@
 
 #politician-show-chart div {
     color: #b0e0e6;
-    font-size: 30px;
+    font-size: 60px;
     margin-top: 2%;
     margin-bottom: 6%;
     margin-left: 3%;
