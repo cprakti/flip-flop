@@ -2,18 +2,22 @@
   <h2 class="heading-text"><%= image_tag("congress_icon-bw.png", class: "congress-mini-icon") %><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
 
      <% if @legislator.chamber == "Senate" %>
-        <h4>Senator</h4>
+        <h4>Senator, <%= @legislator.state %></h4>
       <% end %>
 
       <% if @legislator.chamber == "House" %>
-        <h4>House of Representatives</h4>
+        <h4>House of Representatives, <%= @legislator.state %></h4>
       <% end %>
 
       <% if @legislator.party == "R" %>
-        <h4><%= "Republican" %>, <%= @legislator.state %></h4>
+        <h4><%= "Republican" %></h4>
       <% else %>
-           <h4><%= "Democrat" %>, <%= @legislator.state %></h4>
+           <h4><%= "Democrat" %></h4>
         <% end %>
+
+        <h5>Percentage of Votes Missed: <%= @legislator.missed_votes_pct %>%</h5>
+
+        <h5>Percentage of Votes with Party: <%= @legislator.votes_with_party_pct %>%</h5>
 
         <h5>Next Election: <%= @legislator.next_election %></h5>
 
