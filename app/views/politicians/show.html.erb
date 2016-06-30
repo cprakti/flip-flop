@@ -14,7 +14,7 @@
   </div>
 
   <div class="politician-profile">
-    <%= @politician.twitter_profile %>
+    <%= url_changer(@politician.twitter_profile).html_safe %>
   </div>
 
 

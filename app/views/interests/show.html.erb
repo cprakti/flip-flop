@@ -15,7 +15,7 @@
   <div class="politician-twitter-profile-info">
     <h3><%= link_to "#{@politician.name}", politician_path(@politician) %></h3>
     @<%= @politician.twitter_handle %>
-    <p><%= @politician.twitter_profile %></p>
+    <p><%= url_changer(@politician.twitter_profile).html_safe %></p>
   </div>
 
 <ul class="list-unstyled">
