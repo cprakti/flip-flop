@@ -20,29 +20,29 @@
 
     <div class="row">
       <div class='col-xs-6'>
-          <p><%= link_to image_tag("twitter_economy_twitter_colour.png", class: "issue-index-icon"), issue_path(@economy) %></p>
+          <p><%= link_to image_tag("twitter_economy_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_economy) %></p>
 
-          <p><%= link_to image_tag("twitter_gunlaws_twitter_colour.png", class: "issue-index-icon"), issue_path(@gunlaws) %></p>
+          <p><%= link_to image_tag("twitter_gunlaws_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_gunlaws) %></p>
 
-          <p><%= link_to image_tag("twitter_healthcare_twitter_colour.png", class: "issue-index-icon"), issue_path(@healthcare) %></p>
+          <p><%= link_to image_tag("twitter_healthcare_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_healthcare) %></p>
 
-          <p><%= link_to image_tag("twitter_immigation_twitter_colour.png", class: "issue-index-icon"), issue_path(@immigration) %></p>
+          <p><%= link_to image_tag("twitter_immigation_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_immigration) %></p>
 
-          <p><%= link_to image_tag("twitter_lgbtq_twitter_colour.png", class: "issue-index-icon"), issue_path(@lgbtq) %></p>  
+          <p><%= link_to image_tag("twitter_lgbtq_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_lgbtq) %></p>  
       </div>
 
 
       <div class='col-xs-6'>
 
-          <p><%= link_to image_tag("congress_economy_flag.png", class: "issue-index-icon"), root_path %></p>
+          <p><%= link_to image_tag("congress_economy_flag.png", class: "issue-index-icon"), category_path(@congress_economy) %></p>
 
-          <p><%= link_to image_tag("congress_gunlaws_flag.png", class: "issue-index-icon"), root_path %></p>
+          <p><%= link_to image_tag("congress_gunlaws_flag.png", class: "issue-index-icon"), category_path(@congress_gunlaws) %></p>
 
-          <p><%= link_to image_tag("congress_healthcare_flag.png", class: "issue-index-icon"), root_path %></p>
+          <p><%= link_to image_tag("congress_healthcare_flag.png", class: "issue-index-icon"), category_path(@congress_healthcare) %></p>
 
-           <p><%= link_to image_tag("congress_immigation_flag.png", class: "issue-index-icon"), root_path %></p>
+           <p><%= link_to image_tag("congress_immigration_flag.png", class: "issue-index-icon"), category_path(@congress_immigration) %></p>
            
-          <p><%= link_to image_tag("congress_lgbtq_flag.png", class: "issue-index-icon"), root_path %></p>
+          <p><%= link_to image_tag("congress_lgbtq_flag.png", class: "issue-index-icon"), category_path(@congress_lgbtq) %></p>
 
       </div>
 

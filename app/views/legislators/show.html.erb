@@ -1,3 +1,4 @@
+<h5 class="top-home-link"><%= link_to "flip flop", root_path %></h5>
 <div class="container header-container">
   <h2 class="heading-text"><%= image_tag("congress_icon-bw.png", class: "congress-mini-icon") %><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
 
@@ -21,17 +22,61 @@
       <div class="col-xs-7">
         <div class="legislator-show-chart-container"></div>
       </div>
-      <div class="col-xs-5 vote-info-container">
-        <h5 class="vote-info-text">Guns - Y</h5>
-        <h5 class="vote-info-text">Guns - N</h5>
-        <h5 class="vote-info-text">Immigration - Y</h5>
-        <h5 class="vote-info-text">Immigration - N</h5>
-        <h5 class="vote-info-text">LGBTQ - Y</h5>
-        <h5 class="vote-info-text">LGBTQ - N</h5>
-        <h5 class="vote-info-text">Economy - Y</h5>
-        <h5 class="vote-info-text">Economy - N</h5>
-        <h5 class="vote-info-text">Healthcare - Y</h5>
-        <h5 class="vote-info-text">Healthcare - N</h5>
+
+
+      <div class="col-xs-5">
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Gun Laws</p>
+          <p class="vote-info-text">Yes Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Gun Laws</p>
+          <p class="vote-info-text">No Votes</p
+          >
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Immigration</p>
+          <p class="vote-info-text">Yes Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Immigration</p>
+          <p class="vote-info-text">No Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">LGBTQ</p>
+          <p class="vote-info-text">Yes Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">LGBTQ</p>
+          <p class="vote-info-text">No Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Economy</p>
+          <p class="vote-info-text">Yes Votes</p>
+        </div>
+        
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Economy</p>
+          <p class="vote-info-text">No Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Healthcare</p>
+          <p class="vote-info-text">Yes Votes</p>
+        </div>
+
+        <div class="vote-info-container">
+          <p class="vote-info-text vote-info-bold">Healthcare</p>
+          <p class="vote-info-text">No Votes</p>
+        </div>
+
       </div>
 
     </div>
