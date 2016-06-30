@@ -1,9 +1,9 @@
 <div class="container header-container">
-  <h2 class="heading-text"><%= @politician.name%></h2>
+  <h2 class="heading-text"><%= @politician.name%><%= image_tag("twitter_logo.png", class: "twitter-mini-icon") %></h2>
 
   <div class="row">
     <div class="col-xs-4">
-      <%= image_tag(@politician.image, class: "politician-image") if @politician.image?  %>
+      <%= image_tag(@politician.image, class: "politician-image-large") if @politician.image?  %>
     </div>
 
     <div class="col-xs-8">
@@ -17,10 +17,6 @@
     <%= @politician.twitter_profile %>
   </div>
 
-  <div class="politician-show-graph-header">
-    <h4 id="number-of-tweets-text"><%= @politician.name %>: # of tweets per issue</h4>
-    <p id="click-to-view-tweets-text">click to view their recent tweets on each issue</p>
-  </div>
 
   <div class="row politician-show-graph-container">
     <div class="col-xs-8 issues-show-politician-list-text">

@@ -13,7 +13,7 @@ module InterestsHelper
         hashtags.each do |hashtag|
   			formatted_hashtag = String.new(hashtag)
   			formatted_hashtag.tr!('#', '')
-  			new_string[formatted_hashtag] = "<a target='blank' href='https://twitter.com/#{formatted_hashtag}'>#{formatted_hashtag}</a>"
+  			new_string[formatted_hashtag] = "<a target='blank' href='https://twitter.com/#{hashtag}'>#{formatted_hashtag}</a>"
         end
         urls.each do |url|
   			formatted_url = String.new(url)

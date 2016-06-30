@@ -5,9 +5,15 @@
 
 
 .politician-image {
-  height: 100px;  
+  height: 70px;  
   padding: 3%;
   margin-left: 5%;
+}
+
+.politician-image-large {
+  height: 100px;  
+  padding: 3%;
+  margin-left: 10%;
 }
 
 .issue-image {
@@ -40,19 +46,15 @@
   font-size: 18px;
 }
 
-
-
 .politicians-index-list-container {
   font-size: 22px;
   margin-left: 2%;
-  padding-top: 5%;
-
+  padding-top: 1%;
 }
 
 .politician-show-politician-list-text {
-  margin-top: 7%;
+  margin-top: 4%;
 }
-
 
 .politician-show-icon-column {
   margin-top: 2%;
@@ -62,6 +64,3 @@
   margin-top: 3%;
   margin-left: 7%;
 }
-
-
-

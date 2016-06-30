@@ -1,5 +1,5 @@
 <div class="container header-container">
-  <h2 class="heading-text"><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
+  <h2 class="heading-text"><%= image_tag("congress_icon-bw.png", class: "congress-mini-icon") %><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
 
      <% if @legislator.chamber == "Senate" %>
         <h4>Senator</h4>

@@ -5,11 +5,17 @@ class PagesController < ApplicationController
   
   def home
     @issues = Issue.order("name asc")
-    @gunlaws = Issue.find(1)
-    @immigration = Issue.find(2)
-    @lgbtq = Issue.find(3)
-    @economy = Issue.find(4)
-    @healthcare = Issue.find(5)
+    @twitter_gunlaws = Issue.find(1)
+    @twitter_immigration = Issue.find(2)
+    @twitter_lgbtq = Issue.find(3)
+    @twitter_economy = Issue.find(4)
+    @twitter_healthcare = Issue.find(5)
+    @congress_gunlaws = Issue.find(1)
+    @congress_immigration = Issue.find(2)
+    @congress_lgbtq = Issue.find(3)
+    @congress_economy = Issue.find(4)
+    @congress_healthcare = Issue.find(5)
+
   end
 
   def about
