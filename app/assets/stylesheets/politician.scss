@@ -1,8 +1,8 @@
 // Place all the styles related to the Politician controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-@import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
 .politician-image {
   height: 70px;  
@@ -26,11 +26,8 @@
   font-size: 20px;
 }
 
-.politician-show-graph-header {
-  border-bottom: 1px solid #432c6f;
-  text-align: center;
-  margin-top: 2%;
-  color: #432c6f;
+.politician-profile {
+  margin-bottom: 5%;
 }
 
 #number-of-tweets-text {
@@ -40,6 +37,13 @@
 #click-to-view-tweets-text {
   margin-top: -5%;
   font-size: 18px;
+}
+
+.flexbox-practise {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 .politicians-index-list-container {
@@ -53,7 +57,7 @@
 }
 
 .politician-show-icon-column {
-  width: 50%;
+  height: 2%;
 }
 
 .ajax-twitter-search-result-container {
@@ -61,14 +65,23 @@
   margin-left: 7%;
 }
 
+.politician-show-icon-image {
+  display: flex;
+  height: 15vh;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 #politician-show-chart div {
     color: #b0e0e6;
-    font-size: 45px;
+    font-size: 40px;
+    margin-top: 2%;
     margin-bottom: 6%;
     margin-left: 3%;
     padding-left: 3%;
     width: 80%;
-    height: 70px;
+    height: 96px;
     position:relative;
     -webkit-text-fill-color: black !important;    
 }
