@@ -1,5 +1,6 @@
 class PagesController < ApplicationController
-  
+  before_filter :disable_top_home_link, only: [:home]
+
   def index
   end
   
@@ -15,10 +16,10 @@ class PagesController < ApplicationController
     @congress_lgbtq = Issue.find(3)
     @congress_economy = Issue.find(4)
     @congress_healthcare = Issue.find(5)
-
   end
 
   def about
   end
+
 
 end
