@@ -41,11 +41,12 @@
     animation: filler 1.5s ease-in-out;
 }
 
-.category-show-chart-container div:nth-child(2) {
-    background-color: #432C6F;
-    opacity: 0.25;
-}
 
+
+.category-show-chart-container div:nth-child(odd){
+  margin-bottom: 0;
+  margin-top: 20px
+}
 
 
 @-webkit-keyframes filler {

@@ -8,8 +8,8 @@ function draw(data){
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
-      .style( "width", function(d) { return d * 100 + "px"; })
-      .text( function(d) { return (d * 100).toFixed(2) + "%"; });
+      .style( "width", function(d) { return d * 600 + "px"; })
+      .text( function(d) { return (d * 100).toFixed(1) + "%"; });
   }
 
 
