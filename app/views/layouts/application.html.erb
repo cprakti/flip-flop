@@ -45,7 +45,7 @@
     </div>
   </nav>
 
-<h5 class="top-home-link"><%= link_to "flip flop", root_path %></h5>
+  <%= render 'pages/top_bar_home_link' unless @disable_top_home_link %>
 
   <%= yield %>
 

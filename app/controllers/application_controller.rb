@@ -5,6 +5,11 @@ class ApplicationController < ActionController::Base
   include InterestsHelper
 
 
+  def disable_top_home_link
+    @disable_top_home_link = true
+  end
+
+
   require 'twitter'
 
   # def url_changer(string)
