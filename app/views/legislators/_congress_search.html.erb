@@ -1,6 +1,6 @@
 <%= form_tag legislators_path, :class => "congress-search", :method => 'get' do %>
    <p>
      <%= text_field_tag :search, params[:search], class: "search-form" %>
-     <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-primary" %></button>
+     <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary" %></button>
    </p>
  <% end %>
