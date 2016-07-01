@@ -3,6 +3,19 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
+.homepage-issue-icon {
+  width: 100%;
+  margin-top: 3%;
+  -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222); 
+}
+
+
+.select-issue-text {
+  margin-left: 5%;
+}
+
+
 .homepage-container {
   margin-bottom: 8%;
 }
@@ -36,10 +49,10 @@
 
 #tagline-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   margin-top: 5%;
-  margin-right: 10%;
   margin-bottom: -10%;
+  margin-left: 2%;
   padding: -10%;
   text-align: right;
 }
@@ -95,73 +108,27 @@
   color: #432c6f;
 }
 
-.homepage-issue-icon-header-congress {
-  width: 100%;
+
+.select-issue-icons-header {
+  margin-bottom: 2%;
+}
+
+.homepage-issue-icon-header {
+  width: 150%;
   margin-top: 3%;
   -webkit-filter: drop-shadow(5px 5px 5px #222);
   filter: drop-shadow(5px 5px 5px #222); 
-}
-
-.homepage-issue-icon-header-twitter {
-  width: 100%;
-  margin-top: 3%;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222);
-}
-
-.congress-issue-icon-container-row-one {
-  padding-top: 5%;
-  padding-bottom: 3%;
-  margin-bottom: 5%;
-  border-bottom: 1px solid #dbdbdb;
-}
-
-.homepage-issue-congress-icon-row-one {
-  margin-top: 3%;
-  width: 60%;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222); 
-}
-
-
-.congress-issue-icon-container-row-two {
-  margin-bottom: 5%;
-}
-
-.homepage-issue-congress-icon-row-two {
-  width: 100%;
-  margin-left: 10%;
-  margin-right: 10%;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222); 
-}
-
-.homepage-issue-congress-icon-row-three {
-  width: 100%;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222); 
-}
-
-.homepage-twitter-issue-icon-container {
-  padding-top: 3%;
-  padding-bottom: 3%;
-  padding-left: 2%;
-  padding-right: 2%;
-  
-}
-
-.homepage-issue-twitter-icon {
-  width: 100%;
-   padding-top: 3%;
-  padding-bottom: 3%;
-  -webkit-filter: drop-shadow(5px 5px 5px #222);
-  filter: drop-shadow(5px 5px 5px #222);
 }
 
 
 .issues-tab-heading-text {
+  margin-top: 4.5%;
   font-size: 20px;
-  text-align: left;
+}
+
+.issue-icon-rows {
+  margin-top: 2%;
+  margin-bottom: 4%;
 }
 
 .search-form {
