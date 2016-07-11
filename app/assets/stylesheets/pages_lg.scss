@@ -1,0 +1,201 @@
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
+
+
+@media only screen and (min-width: 768px) {
+  
+  .homepage-issue-icon {
+    width: 100%;
+    margin-top: 3%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222); 
+  }
+
+
+  .homepage-container {
+    margin-bottom: 8%;
+  }
+
+  .homepage-tab-container {
+    height: 100%;
+    width: 100%;
+  }
+
+  #homepage-tab {
+    height: 100%;
+    width: 75%;
+  }
+
+
+  #homepage-tab .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+  }
+
+  #homepage-tab .tab-content {
+    color: white;
+    background-color: #432c6f;
+    padding : 5px 15px;
+    -webkit-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
+  }
+
+  .homepage-header {
+    margin-bottom: 3%;
+  }
+
+  .btn-responsive {
+    padding:30px 30px;
+    font-size:80%;
+    line-height: 1;
+    border-radius:3px;
+  }
+
+  .homepage-container {
+    margin-top: 4%;
+  }
+
+  .logo-image {
+    width: 50%;
+    margin-bottom: 5%;
+    margin-top: 11%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222); 
+  }
+
+/*
+  .tab-text {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 60px;
+  }
+
+  #homepage-tab-image-title {
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 0.75px;
+  }
+*/
+
+  .homepage-tab-content {
+    height: 100%;
+  }
+
+  .tab-pane {
+    margin-top: 5%;
+    margin-bottom: 8%;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+
+  /*
+
+  #search-header-text {
+    font-size: 50px;
+    letter-spacing: 0.5px;
+  }
+
+  */
+
+  #home-search-bar-div {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: #432c6f;
+  }
+
+  .select-issue-icons-header {
+    margin-bottom: 2%;
+  }
+
+  /*
+  .homepage-issue-icon-header {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222); 
+  }
+  */
+
+
+/*
+  .issues-tab-heading-text {
+    margin-top: 4.5%;
+    font-size: 20px;
+  }
+*/
+
+  .issue-icon-rows {
+    margin-top: 2%;
+    margin-bottom: 4%;
+  }
+
+  .search-form {
+    width: 80%;
+    height: 15%;
+    padding: 6px 12px;
+    font-size: 30px;
+    line-height: 1.428571429;
+    color: #555555;
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    margin-right: 3%;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+  }
+
+  .search-form:focus {
+    border-color: #432c6f;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);
+  }
+  .search-form::-moz-placeholder {
+    color: #432c6f;
+    opacity: 1;
+  }
+  .search-form:-ms-input-placeholder {
+    color: #dbdbdb;
+  }
+  .search-form::-webkit-input-placeholder {
+    color: #dbdbdb;
+  }
+  .search-form[disabled],
+  .search-form[readonly],
+  fieldset[disabled] .search-form {
+    cursor: not-allowed;
+    background-color: #eeeeee;
+    opacity: 1;
+  }
+
+
+  .underline-text {
+    border-bottom: 1px solid black;
+  }
+
+  .about-list-items {
+    margin-left: 5%;
+  }
+
+  .about-blurb {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  .about-blurb-note {
+    font-size: 14px;
+    font-style: italic;
+  }
+
+
+  .homepage-tab-container {
+    width: 100%;
+  }
+
+
+
+
+} 

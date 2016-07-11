@@ -18,6 +18,9 @@
 @import "bootstrap";
 @import 'https://fonts.googleapis.com/css?family=Fjalla+One|News+Cycle:400,700&subset=latin-ext';
 
+
+
+
 .heading-container {
   margin-top: -10%;
 }
@@ -45,7 +48,7 @@
   padding-bottom: 2%;
   border-bottom: 3px solid #432c6f;
   color: #432c6f;
-  font-size: 26px;
+  font-size: 5vmin;
   margin-right: 2%;
 }
 
@@ -62,10 +65,8 @@
   font-family: 'Fjalla One', sans-serif;
   margin-top: 2%;
   margin-bottom: 2%;
-  border-bottom: 1px solid #432c6f;
   color: #432c6f;
   font-size: 20px;
-  margin-right: 40%;
 }
 
 .congress-mini-icon {
@@ -101,6 +102,7 @@ footer {
 #copyright-text {
   margin-right: 5%;
   padding-top: 1%;
+  font-size: 3vmin;
 }
 
 .nav-item {
@@ -3890,6 +3892,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-nav {
   margin: 7px -15px;
+  width: 100%;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
