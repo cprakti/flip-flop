@@ -1,35 +1,42 @@
-<div class="container header-container">
-  <h2 class="heading-text"><%= image_tag("congress_icon-bw.png", class: "congress-mini-icon") %><%= @legislator.first_name%> <%= @legislator.last_name %></h2>
+<div id="homepage-tab" class="container header-container">
 
-     <% if @legislator.chamber == "Senate" %>
-        <h4>Senator, <%= @legislator.state %></h4>
-      <% end %>
+  <div class="heading-text"><%= image_tag("congress_icon-bw.png", class: "congress-mini-icon img-responsive") %><%= @legislator.first_name%> <%= @legislator.last_name %></div>
 
-      <% if @legislator.chamber == "House" %>
-        <h4>House of Representatives, <%= @legislator.state %></h4>
-      <% end %>
 
-      <% if @legislator.party == "R" %>
-        <h4><%= "Republican" %></h4>
-      <% else %>
-           <h4><%= "Democrat" %></h4>
+     
+       <% if @legislator.chamber == "Senate" %>
+          <h4 class="legislator-show-subheading-text">Senator, <%= @legislator.state %></h4>
         <% end %>
 
-        <h5>Percentage of Votes Missed: <%= @legislator.missed_votes_pct %>%</h5>
+        <% if @legislator.chamber == "House" %>
+          <h4 class="legislator-show-subheading-text">House of Representatives, <%= @legislator.state %></h4>
+        <% end %>
 
-        <h5>Percentage of Votes with Party: <%= @legislator.votes_with_party_pct %>%</h5>
 
-        <h5>Next Election: <%= @legislator.next_election %></h5>
+        <% if @legislator.party == "R" %>
+          <h4 class="legislator-show-subheading-text"><%= "Republican" %></h4>
+        <% else %>
+             <h4 class="legislator-show-subheading-text"><%= "Democrat" %></h4>
+          <% end %>
+
+
+
+        <h5 class="legislator-show-text">Percentage of Votes Missed: <%= @legislator.missed_votes_pct %>%</h5>
+
+        <h5 class="legislator-show-text">Percentage of Votes with Party: <%= @legislator.votes_with_party_pct %>%</h5>
+
+        <h5 class="legislator-show-text">Next Election: <%= @legislator.next_election %></h5>
 
         <h4 class="voting-activity-header">voting activity for bills in these categories</h4>
 
     <div class="row">
-      <div class="col-xs-7">
+      <div class="col-xs-7 col-md-7">
         <div class="legislator-show-chart-container"></div>
       </div>
 
 
-      <div class="col-xs-5">
+      <div class="col-xs-5 col-md-5">
+      <div class="vote-info-column">
 
         <div class="vote-info-container">
           <p class="vote-info-text vote-info-bold">Gun Laws</p>
@@ -84,6 +91,7 @@
 
       </div>
 
+</div>
     </div>
 
 <script type="text/javascript" src="legislators.js"></script>
