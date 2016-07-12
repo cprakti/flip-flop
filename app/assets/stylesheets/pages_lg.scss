@@ -3,6 +3,11 @@
 
 @media only screen and (min-width: 768px) {
   
+
+  .navbar-default {
+    border-bottom: 1px solid #432c6f !important;
+  }
+
   .homepage-issue-icon {
     width: 100%;
     margin-top: 3%;
@@ -24,6 +29,7 @@
     height: 100%;
     width: 75%;
   }
+
 
 
   #homepage-tab .nav-pills > li > a {
