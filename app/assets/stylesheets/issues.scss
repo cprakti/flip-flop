@@ -24,6 +24,7 @@
   width: 50%;
   -webkit-filter: drop-shadow(5px 5px 5px #222);
   filter: drop-shadow(5px 5px 5px #222);
+  padding: 1vmin;
 }
 
 .issues-show-issue-icon-header {
@@ -52,3 +53,7 @@
   margin-top: 3.5%;
 }
 
+
+.key-issue-text {
+  font-size: 4.5vmin;
+}

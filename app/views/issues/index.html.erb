@@ -1,15 +1,15 @@
-<div class="container heading-container">
+<div id="homepage-tab" class="container heading-container">
 
   <h2 class="heading-text">key issues</h2>
   
   <div class="issue-container">
     <div class='row'>
 
-      <div class='col-xs-6 issue-index-col'>
+      <div class='col-xs-6 col-md-6 issue-index-col'>
 
         <%= image_tag("twitter_logo_icon.png", class:"issue-index-icon") %>
 
-          <h4>select a key issue to see a politician's twitter activity</h4>
+          <h4 class="key-issue-text">select a key issue to see a politician's twitter activity</h4>
 
          <p><%= link_to image_tag("twitter_economy_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_economy) %></p>
 
@@ -21,11 +21,13 @@
 
           <p><%= link_to image_tag("twitter_lgbtq_twitter_colour.png", class: "issue-index-icon"), issue_path(@twitter_lgbtq) %></p>  
 
+          <p><%= image_tag("empty_image.png", class: "homepage-issue-icon") %></p>
+
       </div>
 
-      <div class="col-xs-6 issue-index-col">
+      <div class="col-xs-6 col-md-6 issue-index-col">
         <%= image_tag("congress_icon.png", class:"issue-index-icon") %>
-        <h4>select a key issue to see a politician's voting activity</h4>
+        <h4 class="key-issue-text">select a key issue to see a politician's voting activity</h4>
 
         <p><%= link_to image_tag("congress_economy_flag.png", class: "issue-index-icon"), category_path(@congress_economy) %></p>
 
@@ -36,6 +38,8 @@
            <p><%= link_to image_tag("congress_immigration_flag.png", class: "issue-index-icon"), category_path(@congress_immigration) %></p>
            
           <p><%= link_to image_tag("congress_lgbtq_flag.png", class: "issue-index-icon"), category_path(@congress_lgbtq) %></p>
+
+          <p><%= image_tag("empty_image.png", class: "homepage-issue-icon") %></p>
 
 
       </div>
