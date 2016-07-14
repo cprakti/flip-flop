@@ -75,12 +75,12 @@
 }
 
 .twitter-mini-icon {
-  width: 7%;
+  width: 7vmin;
   display: inline-block;
   float: left;
-  margin-right: 1%;
-  padding-bottom: 3%;
-  padding-top: 1%;
+  margin-top: -0.5vmin;
+  margin-right: 0.5%;
+  margin-left: 2%;
 }
 
 footer {
@@ -92,6 +92,9 @@ footer {
   border-bottom: 3px solid #432c6f;
   color: #432c6f;
   margin-bottom: 5%;
+  margin-left: 12.5%;
+  margin-right: 12.5%;
+  margin-top: 2%;
 }
 
 #copyright-text {

@@ -38,7 +38,7 @@ function draw(data){
       .data( data )
     .enter().append( "div" )
       .attr('class', 'bar')
-      .style( "width", function(d) { return d * 6 + "px"; })
+      .style( "width", function(d) { return d * 20 + "vmin"; })
       .text( function(d) { return d; });
   }
 

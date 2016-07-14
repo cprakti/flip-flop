@@ -33,9 +33,12 @@
 
             <!-- search bar container -->
           
+              <div class="hidden-md hidden-lg">
               <h5 class="text-center" id="search-header-text">search for a politician in congress</h5>
                 <div id="home-search-bar-div"><%= render partial: '/pages/legis_search', layout: false %> 
                 </div>
+              </div>
+
 
             <!-- END search bar container -->
 
@@ -49,6 +52,12 @@
                   </div>
 
                   <div class="col-xs-8 col-md-10 issues-tab-heading-text">
+                    <div class="hidden-sm hidden-xs hidden-small-search-container">
+                      <h5 class="text-center" id="search-header-text">search for a politician in congress</h5>
+                    <div id="home-search-bar-div"><%= render partial: '/pages/legis_search', layout: false %> 
+                    </div>
+                </div>
+
                     <h4 class="select-issue-text text-right">select a key issue to see a politician's voting activity</h4>
                   </div>
                 </div>
@@ -118,10 +127,13 @@
 
               <!-- search bar container -->
 
-                <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
+               <div class="hidden-md hidden-lg">
+                  <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
 
-                <div id="home-search-bar-div"><%= render partial: '/pages/twitter_search', layout: false %> 
+                  <div id="home-search-bar-div"><%= render partial: '/pages/twitter_search', layout: false %> 
+                  </div>
                 </div>
+
 
               <!-- END search bar container -->
 
@@ -135,10 +147,17 @@
                   </div>
 
                 <div class="col-xs-8 col-md-10 issues-tab-heading-text">
+                    <div class="hidden-sm hidden-xs hidden-small-search-container">
+                      <h5 class="text-center" id="search-header-text">search for a politician on twitter</h5>
+
+                  <div id="home-search-bar-div"><%= render partial: '/pages/twitter_search', layout: false %> 
+                  </div>
+
+                  </div>
 
                   <h4 class="select-issue-text text-right">select a key issue to see a politician's twitter activity</h4>
                 </div>
-              </div>
+              </div>             
 
               <!-- END twitter header and text row -->
         
@@ -200,6 +219,8 @@
             <!-- END second row twitter icons - 2 icons + invisible image -->     
 
     </div>
+    </div>
+  
 
 
 
