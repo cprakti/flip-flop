@@ -1,5 +1,5 @@
-<div class="container heading-container">
-  <h2 class="heading-text"><%= @issue.name %></h2>
+<div id="homepage-tab" class="container heading-container">
+  <h2 class="heading-text"><%= image_tag("twitter_logo.png", class: "twitter-mini-icon") %><%= @issue.name %></h2>
 
   <div class="row issues-show-subheading-container">
     <div class="col-xs-4">
@@ -18,25 +18,18 @@
 
 
   <% @politicians.each do |politician| %>
-    <div class="row issues-show-politician-list-container">
-
-      <div class="col-xs-4">
+    <div class="politician-twitter-container">
 
         <ul class="list-unstyled">
           <li><%= link_to image_tag(politician.image, class: "politician-image"), interest_path(@issue, :politician_id => politician.id) %></li>
         </ul>
 
-      </div>
+        <ul class="list-unstyled politician-twitter-list">
+          <li><%= link_to politician.name, interest_path(@issue, :politician_id => politician.id) %></li>   
+        </ul>
 
-        <div class="col-xs-8 issues-show-politician-list-text">
-
-          <ul class="list-unstyled">
-            <li><%= link_to politician.name, interest_path(@issue, :politician_id => politician.id) %></li>    
-          </ul>
-
-        </div>
-
-      </div>
-
+    </div>
+    
     <% end %>
 
+      </div>

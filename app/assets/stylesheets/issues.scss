@@ -24,16 +24,19 @@
   width: 50%;
   -webkit-filter: drop-shadow(5px 5px 5px #222);
   filter: drop-shadow(5px 5px 5px #222);
+  padding: 1vmin;
 }
 
 .issues-show-issue-icon-header {
-  width: 100%;
+  padding-top: 1vh;
+  margin-left: 1vh;
+  width: 15vh;
 }
 
 #select-politician-issue {
   text-align: center;
   color: #432c6f;
-  font-size: 20px;
+  font-size: 3vh;
   font-weight: bold;
   margin-left: -2%;
   margin-right: -2%;
@@ -52,3 +55,7 @@
   margin-top: 3.5%;
 }
 
+
+.key-issue-text {
+  font-size: 4.5vmin;
+}

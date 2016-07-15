@@ -8,7 +8,7 @@ function draw(data){
     .selectAll( "div" )
       .data( data )
     .enter().append( "div" )
-      .style( "width", function(d) { return d * 600 + "px"; })
+      .style( "width", function(d) { return d * 150 + "vmin"; })
       .text( function(d) { return (d * 100).toFixed(1) + "%"; });
   }
 

@@ -1,4 +1,4 @@
-<div class="container heading-container">
+<div id="homepage-tab" class="container heading-container">
  	 <h2 class="heading-text">politicians on twitter<%= image_tag("twitter_logo.png", class: "twitter-mini-icon") %></h2>
 
   <h5 class="text-center" id="search-header-text">search for a politician's twitter account</h5>
@@ -7,20 +7,17 @@
   </div>
 
   <% @politicians.each do |politician| %>
-    <div class="row politicians-index-list-container">
-      <div class="col-xs-3">
-        <ul class="list-unstyled">
+      <div class="politician-twitter-container">
+          <ul class="list-unstyled">
           <li><%= link_to image_tag(politician.image, class: "politician-image"), politician_path(politician) %></li>
         </ul>
-      </div>
-     <div class="col-xs-9 politician-show-politician-list-text">
-        <ul class="list-unstyled">
+        <ul class="list-unstyled politician-twitter-list">
           <li><%= link_to politician.name, politician_path(politician) %></li>
         </ul>
       </div>
 
-    </div>
   <% end %>
+
 </div>
 
 

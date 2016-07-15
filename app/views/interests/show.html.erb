@@ -1,33 +1,57 @@
-<div class="container heading-container">
+<div id="homepage-tab" class="container heading-container">
   <h2 class="heading-text"><%= image_tag("twitter_logo.png", class: "twitter-mini-icon") %><%= @issue.name %></h2>
 
 
   <div class="row">
-    <div class="col-xs-6">
+    <div class="hidden-xs hidden-sm col-md-6">
       <%= image_tag(@politician.image, class: "politician-image-large") if @politician.image? %>
-    </div>
-    <div class="col-xs-6">
       <%= image_tag(@issue.image, class: "issue-image") %>
     </div>
+
+    <div class="col-xs-6 hidden-md hidden-lg">
+      <%= image_tag(@politician.image, class: "politician-image-large") if @politician.image? %>
+    </div>
+
+    <div class="col-xs-6 hidden-md hidden-lg">
+      <%= image_tag(@issue.image, class: "issue-image") %>
+    </div>
+
+    <div class="col-md-6"></div>
   </div>
 
+
+
+  <div class="row">
+
+    <div class="col-md-4">
+
+
+
   <div class="politician-twitter-profile-info">
-    <h3><%= link_to "#{@politician.name}", politician_path(@politician) %></h3>
-    @<%= @politician.twitter_handle %>
-    <p><%= url_changer(@politician.twitter_profile).html_safe %></p>
+    <h3 class="politician-twitter-interest-name"><%= link_to "#{@politician.name}", politician_path(@politician) %></h3>
+    <p class="politician-twitter-interest-profile">@<%= @politician.twitter_handle %>
+    <p class="politician-twitter-interest-profile"><%= url_changer(@politician.twitter_profile).html_safe %></p>
   </div>
+
+  </div>
+
+  <div class="col-md-7">
 
 <ul class="list-unstyled">
 
   <div class="tweet-container">
      <%@politician.issue_tweets(@issue.name).each do |tweet| %>
     <div class="individual-tweet">
-      <li><%= image_tag(@politician.image, class: "politician-tweet-image") %><%= url_changer(tweet.full_text).html_safe %> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
+      <li><%= image_tag(@politician.image, class: "politician-tweet-image") %><span class="politician-tweet-text"><%= url_changer(tweet.full_text).html_safe %></span> <p class="tweet-timestamp"><%= tweet.created_at.strftime('%B %e, %Y, %I:%M%p') %></p></li>
     </div>
     <% end %>
+  </div>
   </div>
 
 </ul>
 
 
 </div>
+
+</div>
+

@@ -10,11 +10,11 @@
   filter: drop-shadow(5px 5px 5px #222); 
 }
 
-
 .select-issue-text {
   margin-left: 5%;
+  font-size: 4.5vmin;
+  text-align: right;
 }
-
 
 .homepage-container {
   margin-bottom: 8%;
@@ -31,14 +31,13 @@
 #homepage-tab .tab-content {
   color: white;
   background-color: #432c6f;
-  padding : 5px 15px;
+  padding: 5px 15px;
   -webkit-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 10px -8px rgba(0,0,0,0.75);
 }
 
 .homepage-header {
-  margin-top: -6%;
   margin-bottom: 4%;
 }
 
@@ -49,17 +48,18 @@
 
 #tagline-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 20px;
+  font-size: 5vmin;
   margin-top: 5%;
-  margin-bottom: -10%;
+  margin-bottom: -2vmin;
   margin-left: 2%;
   padding: -10%;
-  text-align: right;
+  text-align: left;
 }
 
 #homepage-title-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 40px;
+  font-size: 10vmin;
+  text-align: left;
 }
 
 .homepage-logo-container {
@@ -73,10 +73,9 @@
   filter: drop-shadow(5px 5px 5px #222); 
 }
 
-
 .tab-text {
   font-family: 'Fjalla One', sans-serif;
-  font-size: 20px;
+  font-size: 5vmin;
 }
 
 #homepage-tab-image-title {
@@ -98,8 +97,9 @@
 }
 
 #search-header-text {
-  font-size: 18px;
+  font-size: 5vmin;
   letter-spacing: 0.5px;
+  margin-bottom: 2.5vmin;
 }
 
 #home-search-bar-div {
@@ -120,10 +120,9 @@
   filter: drop-shadow(5px 5px 5px #222); 
 }
 
-
 .issues-tab-heading-text {
   margin-top: 4.5%;
-  font-size: 20px;
+  font-size: 1vmin;
 }
 
 .issue-icon-rows {
@@ -171,25 +170,31 @@ fieldset[disabled] .search-form {
   opacity: 1;
 }
 
-
 .underline-text {
   border-bottom: 1px solid black;
 }
 
 .about-list-items {
   margin-left: 5%;
+  font-size: 3vmin;
 }
 
 .about-blurb {
   margin-left: 5%;
   margin-right: 5%;
+  font-size: 3vmin;
 }
 
 .about-blurb-note {
-  font-size: 14px;
   font-style: italic;
 }
 
+.about-subheading {
+  font-size: 4vmin;
+}
 
 
+.hidden-small-search-container {
+  margin-left: 5%;
+}
 

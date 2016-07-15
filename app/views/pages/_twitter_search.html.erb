@@ -1,7 +1,8 @@
+
 <%= form_tag politicians_path, :class => "poli-search", :method => 'get' do %>
    <p>
 
      <%= text_field_tag :search, params[:search], class: "search-form", :placeholder => "Twitter" %>
-     <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary" %></button>
+     <button type="button"><%= submit_tag "search", :name => nil, :class => "btn btn-secondary btn-responsive" %></button>
    </p>
  <% end %>
