@@ -6,11 +6,11 @@
       <%= image_tag(@politician.image, class: "politician-image-large") if @politician.image?  %>
     </div>
 
-    <div class="col-xs-8">
+    <div class="col-xs-8 politician-profile-header-text">
       <h3 class="twitter-profile-content"><%= @politician.name %></h3>
       <h4 class="twitter-profile-content"><%= @politician.title %></h4>
       <h5 class="twitter-profile-content"><%= @politician.political_party %></h5>
-      @<%= @politician.twitter_handle %>
+      <h5 class="twitter-profile-content">@<%= @politician.twitter_handle %></h5>
       </div>
 
   </div>
